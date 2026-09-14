@@ -1,0 +1,85 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>한국어 발음연습</title><link rel="stylesheet" href="static/style.css"></head>
+<body><div class="app"><header><div class="header-row"><div><h1>한국어 발음연습</h1><div class="sub">학생용 공개 V1.0 · 한국어 TTS · 중간/최종 20개 랜덤 복습</div></div>
+</div></header>
+<main><p id="loadStatus" class="notice error" role="alert" hidden></p><div class="grid selector">
+<label>1. 언어<select id="language"></select></label>
+<label>2. KIIP 단계<select id="level"></select></label>
+<label>3. 단원<select id="lesson"></select></label>
+</div>
+<section id="mixedLanguagePanel" class="notice" hidden>
+<h2>혼합 복습에 포함할 나라·언어</h2>
+<p class="help">선택한 언어의 번역어만 랜덤 출제합니다. 한 개 이상 선택하세요.</p>
+<div class="actions"><button class="plain" type="button" id="selectAllLanguages">전체 선택</button><button class="plain" type="button" id="clearLanguages">전체 해제</button></div>
+<div id="mixedLanguageChoices" class="voice-picks"></div>
+<p id="mixedLanguageCount" class="help" role="status"></p>
+</section>
+<div class="actions"><button class="primary" id="start" disabled>학습 시작</button></div>
+<div class="notice">★ 중간 복습은 해당 단계의 앞 절반 단원에서, ★ 최종 복습은 해당 단계 전체 단원에서 최대 20개 어휘를 무작위로 뽑습니다.</div>
+<p class="help">학생 학습 화면에서는 OpenAI API를 사용하지 않습니다. 외국어는 번역 문자만 표시하고 한국어만 기기의 TTS로 재생합니다.</p></main></div>
+<script src="static/data.js?v=1.0"></script>
+<script>
+let db;
+async function init(){
+ db=await loadPublicData();
+ const L=document.querySelector('#language'),V=document.querySelector('#level');
+ L.replaceChildren(...Object.entries(db.languages).map(([k,v])=>new Option(v.name+' · '+v.native,k)));
+ V.replaceChildren(...db.levels.map(v=>new Option(v.name,v.id)));
+ L.onchange=refresh;V.onchange=refresh;
+ const choices=document.getElementById('mixedLanguageChoices');
+ for(const [key,language] of Object.entries(db.languages)){
+   const label=document.createElement('label');label.className='voice-check';
+   const input=document.createElement('input');input.type='checkbox';input.value=key;input.checked=true;
+   input.onchange=updateMixedLanguageCount;
+   label.append(input,document.createTextNode(language.name+' · '+(language.native||language.name)));choices.append(label);
+ }
+ document.getElementById('lesson').onchange=updateMixedLanguagePanel;
+ document.getElementById('selectAllLanguages').onclick=()=>setAllLanguages(true);
+ document.getElementById('clearLanguages').onclick=()=>setAllLanguages(false);
+ refresh();
+ document.getElementById('start').disabled=false;
+}
+function selectedMixedLanguages(){return [...document.querySelectorAll('#mixedLanguageChoices input:checked')].map(el=>el.value)}
+function updateMixedLanguageCount(){document.getElementById('mixedLanguageCount').textContent=selectedMixedLanguages().length+'개 언어 선택됨'}
+function setAllLanguages(checked){document.querySelectorAll('#mixedLanguageChoices input').forEach(el=>el.checked=checked);updateMixedLanguageCount()}
+function updateMixedLanguagePanel(){document.getElementById('mixedLanguagePanel').hidden=!document.getElementById('lesson').value.endsWith('-all');updateMixedLanguageCount()}
+function refresh(){
+ const level=document.querySelector('#level').value;
+ const lessons=db.lessons.filter(x=>x.level===level).slice().sort((a,b)=>{
+   const num=x=>{const m=String(x.unit||'').match(/\d+/);return m?parseInt(m[0],10):Number.MAX_SAFE_INTEGER};
+   const d=num(a)-num(b);
+   return d!==0 ? d : String(a.unit||'').localeCompare(String(b.unit||''),'ko',{numeric:true});
+ });
+ const select=document.getElementById('lesson');
+ select.replaceChildren(...lessons.map(l=>new Option(l.unit+' · '+l.title,'lesson:'+l.id)));
+ if(lessons.length){
+   for(const [value,label] of [
+     ['mid','중간'],['final','최종']
+   ]){
+     const range=value==='mid'?'중간':'최종';
+     select.add(new Option('★ '+range+' 복습 · 한국어 → 번역어 · 5초 자동 공개','review:'+value));
+     select.add(new Option('★ '+range+' 복습 · 번역어 → 한국어 · 클릭 공개','review:'+value+'-reverse'));
+     select.add(new Option('★ '+range+' 복습 · 전체 외국어 랜덤 → 한국어 · 클릭 공개','review:'+value+'-all'));
+   }
+ }else select.add(new Option('등록된 단원 없음',''));
+
+ updateMixedLanguagePanel();
+}
+document.querySelector('#start').onclick=()=>{
+ const language=document.querySelector('#language').value;
+ const level=document.querySelector('#level').value;
+ const selected=document.querySelector('#lesson').value;
+ if(!selected)return alert('이 단계에는 등록된 단원이 없습니다.');
+ const colon=selected.indexOf(':'),kind=selected.slice(0,colon),value=selected.slice(colon+1);
+ if(kind==='review'){
+   const selectedLanguages=selectedMixedLanguages();
+   if(value.endsWith('-all')&&!selectedLanguages.length){alert('혼합 복습에 포함할 언어를 한 개 이상 선택해 주세요.');return}
+   const languageFilter=value.endsWith('-all')?'&languages='+encodeURIComponent(JSON.stringify(selectedLanguages)):'';
+   location.href=`practice.html?language=${encodeURIComponent(language)}&level=${encodeURIComponent(level)}&review=${encodeURIComponent(value.replace(/-(reverse|all)$/,''))}&direction=${(value.endsWith('-reverse')||value.endsWith('-all'))?'reverse':'forward'}&mixed=${value.endsWith('-all')?'1':'0'}${languageFilter}`;
+ }else{
+   location.href=`practice.html?language=${encodeURIComponent(language)}&lesson=${encodeURIComponent(value)}`;
+ }
+};
+init().catch(showPublicError);
+</script>
+
+</body></html>
