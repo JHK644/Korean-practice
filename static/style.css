@@ -109,4 +109,49 @@ details{margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}summar
 .admin-page .translation-table-wrap th,.admin-page .translation-table-wrap td{min-width:180px;overflow-wrap:anywhere}
 .admin-page .translation-table-wrap td input{width:100%;min-width:0}
 .admin-page .translation-table-wrap:focus-visible{outline:2px solid var(--deep);outline-offset:3px}
-.modes[hidden]{display:none}
+.modes[hidden]{display:none}
+
+.reading-admin-card{align-items:stretch}.reading-cell{min-width:160px;min-height:86px;margin:0;resize:vertical}.content-tabs{display:flex;gap:8px;margin-bottom:16px}.content-tabs a{flex:1;text-align:center;text-decoration:none}.reading-body{display:grid;gap:16px}.reading-sentence{padding:18px;border:1px solid var(--line);border-radius:16px;background:#fff}.reading-sentence .ko{font-size:1.2rem;line-height:1.65;font-weight:750}.reading-sentence .translation{font-size:.92rem;line-height:1.6;color:var(--muted);margin:8px 0}.reading-sentence button{width:100%}.reading-full{white-space:pre-line;font-size:1.15rem;line-height:1.9}.reading-controls{display:grid;grid-template-columns:1fr 1fr;gap:8px}@media(max-width:650px){.reading-controls{grid-template-columns:1fr}}
+.example-panel{margin:0 0 12px;padding:14px 16px;border:1px solid #e7d88f;border-radius:17px;background:#fffdf3;box-shadow:0 6px 18px #174f5510}
+.example-label{font-size:12px;font-weight:900;color:#7c681e;letter-spacing:.04em}.example-ko{margin-top:7px;font-size:clamp(17px,3.5vw,22px);font-weight:750;line-height:1.55}.example-ko mark{padding:1px 3px;border-radius:4px;background:#ffe56c;color:inherit}.example-translation{margin-top:7px;color:var(--muted);font-size:14px}.example-bottom{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:9px;color:var(--muted);font-size:11px}.example-bottom button{flex:0 0 auto;padding:8px 11px}
+@media(max-width:650px){
+ body.practice-page{height:100dvh;min-height:0;padding:0;overflow:hidden;background:var(--cream)}
+ .practice-page .app{height:100dvh;width:100%;border-radius:0;display:flex;flex-direction:column;box-shadow:none}
+ .practice-page header{flex:0 0 auto;padding:8px 12px}.practice-page h1{font-size:19px}.practice-page .sub{font-size:10px;margin-top:2px}.practice-page header .plain{padding:7px 9px;font-size:12px}
+ .practice-page main{flex:1;min-height:0;display:flex;flex-direction:column;padding:7px 10px 8px;overflow:hidden}
+ .practice-page .content-tabs,.practice-page .review-actions,.practice-page #langNote,.practice-page details,.practice-page .stats,.practice-page main>section.card{display:none}
+ .practice-page .top{display:block;flex:0 0 auto}.practice-page .modes button{padding:6px 4px;font-size:11px}
+ .practice-page .progress-row{margin:5px 2px 3px;font-size:10px}.practice-page .bar{height:4px}
+ .practice-page #card{flex:1 1 34%;min-height:0;margin:7px 0;padding:27px 10px 20px;border-radius:16px}
+ .practice-page .tag{top:8px;left:10px}.practice-page .word{font-size:clamp(23px,8vw,36px);line-height:1.25}.practice-page .answer{margin-top:10px;padding-top:9px;font-size:clamp(18px,5vw,25px);line-height:1.3}.practice-page .hint{bottom:7px;font-size:10px}
+ .practice-page .example-panel{flex:0 1 auto;max-height:28%;overflow:auto;margin:0 0 6px;padding:8px 10px;border-radius:13px}.practice-page .example-label{font-size:9px}.practice-page .example-ko{font-size:15px;line-height:1.35;margin-top:3px}.practice-page .example-ko.long{font-size:13px}.practice-page .example-translation{font-size:11px}.practice-page .example-bottom{margin-top:4px;font-size:8px}.practice-page .example-bottom button{padding:6px 7px;font-size:10px}
+ .practice-page #revealCountdown{position:absolute;right:10px;top:86px;padding:5px 8px;margin:0;font-size:10px}.practice-page .judge,.practice-page .nav,.practice-page .audio{flex:0 0 auto;display:grid;grid-template-columns:1fr 1fr;gap:5px;margin-top:4px}.practice-page .audio{grid-template-columns:1fr}.practice-page .judge button,.practice-page .nav button,.practice-page .audio button{padding:8px 5px;font-size:11px}.practice-page .voice{flex:0 0 auto;min-height:14px;font-size:9px;line-height:1.2;text-align:center;margin-top:2px}
+}
+
+/* Phone study: keep navigation in place; only long content scrolls within its panel. */
+[hidden]{display:none!important}
+@media(max-width:650px){
+ .practice-page #card{overflow:auto;overscroll-behavior:contain;justify-content:flex-start;padding-top:28px}
+ .practice-page #card .word{margin:auto 0 0}.practice-page #card .answer{flex-shrink:0}.practice-page #card .hint{position:static;margin-top:auto;padding-top:5px;flex-shrink:0}
+ .practice-page main{padding-bottom:max(8px,env(safe-area-inset-bottom))}
+ .practice-page .example-panel{flex:0 0 28%;min-height:0}
+ .practice-page .nav button,.reading-page .nav button{min-height:44px;font-size:14px}
+ body.reading-page{height:100dvh;min-height:0;padding:0;overflow:hidden;background:var(--cream)}
+ .reading-page .app{height:100dvh;width:100%;border-radius:0;display:flex;flex-direction:column;box-shadow:none}
+ .reading-page header{flex:none;padding:8px 12px}.reading-page h1{font-size:19px}.reading-page .sub{font-size:11px}.reading-page header .plain{font-size:12px;padding:7px}
+ .reading-page main{flex:1;min-height:0;display:flex;flex-direction:column;overflow:hidden;padding:8px 10px max(8px,env(safe-area-inset-bottom))}
+ .reading-page .content-tabs{margin-bottom:5px}.reading-page .content-tabs a{padding:6px;font-size:12px}
+ .reading-page .reading-overview{flex:none;min-height:0;margin:4px 0 8px;padding:10px;border-radius:14px;box-shadow:none}
+ .reading-page .reading-overview .tag{position:static}.reading-page #readingTitle{font-size:16px;margin:3px 0}
+ .reading-page .reading-overview .actions{margin-top:5px;gap:5px}.reading-page .actions button{padding:8px;font-size:11px;min-height:36px}
+ .reading-page .voice{margin:4px 0 0;font-size:10px;line-height:1.3}
+ .reading-page .reading-overview:has(#fullText:not([hidden])){flex:1;min-height:0}
+ .reading-page .reading-full{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;font-size:18px;line-height:1.6}
+ .reading-page .reading-body{flex:1;min-height:0;display:flex;overflow:hidden}
+ .reading-page .reading-sentence{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;padding:14px;display:flex;flex-direction:column}
+ .reading-page .reading-sentence .ko{font-size:21px}.reading-page .reading-sentence .translation{font-size:16px}.reading-page .reading-sentence button{margin-top:auto;flex-shrink:0;min-height:44px}
+ .reading-page .reading-navigation{flex:none;padding-top:6px}.reading-page .nav{grid-template-columns:1fr 1fr}
+ .reading-page details{flex:none;margin-top:5px;padding-top:5px;font-size:11px}
+ .reading-page details[open]{position:absolute;bottom:0;left:0;right:0;z-index:25;padding:12px;background:var(--cream);max-height:50dvh;overflow:auto;box-shadow:0 -5px 20px #174f5525}
+}
+@media(max-width:650px){.practice-page main{position:relative;padding-bottom:120px}.practice-page .study-dock{position:absolute;bottom:0;left:10px;right:10px;height:112px;padding-bottom:env(safe-area-inset-bottom);background:var(--cream)}.practice-page .voice{height:26px;overflow:auto}.practice-page .example-panel{flex:0 1 38%}}
