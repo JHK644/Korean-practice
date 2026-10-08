@@ -1,15 +1,30 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>읽기 · 한국어 발음연습</title><link rel="stylesheet" href="./static/style.css"></head>
-<body><div class="app"><header><div class="header-row"><div><h1>한국어 읽기</h1><div class="sub">V1.4.16 통합형 · 읽기와 문화</div></div><a class="plain" href="./index.html" style="text-decoration:none">어휘</a></div></header><main>
-<nav class="content-tabs"><a class="plain" href="./index.html">어휘</a><a class="primary" href="./reading.html">읽기</a></nav>
-<div class="grid selector"><label>1. 언어<select id="language"></select></label><label>2. KIIP 단계<select id="level"></select></label><label>3. 읽기 자료<select id="reading"></select></label></div>
-<div class="actions"><button class="primary" id="start" disabled>읽기 시작</button></div><div id="loadStatus"></div>
-<p class="help">각 과의 읽기와 문화 자료를 선택할 수 있습니다. 한국어 전체는 한 번, 각 문장은 세 번 들을 수 있습니다.</p>
-</main></div><script>
-let db;const $=id=>document.getElementById(id);
-async function init(){db=await (await fetch('./data/lessons.json?v=1.4.16')).json();$('language').replaceChildren(...Object.entries(db.languages).map(([k,v])=>new Option(v.name+' · '+v.native,k)));$('level').replaceChildren(...db.levels.map(v=>new Option(v.name,v.id)));$('level').value=db.readings[0]?.level||$('level').value;$('level').onchange=refresh;refresh();$('start').disabled=false}
-function num(v){const m=String(v||'').match(/\d+/);return m?Number(m[0]):999999}
-function refresh(){const rows=(db.readings||[]).filter(x=>String(x.level)===String($('level').value)).sort((a,b)=>num(a.unit)-num(b.unit)||String(a.kind).localeCompare(String(b.kind)));$('reading').replaceChildren(...rows.map(x=>new Option(`${x.unit} ${x.kind==='culture'?'문화':'읽기'} · ${x.title}`,x.id)));if(!rows.length)$('reading').add(new Option('등록된 읽기 자료 없음',''))}
-$('start').onclick=()=>{if(!$('reading').value)return alert('이 단계에는 등록된 읽기 자료가 없습니다.');location.href=`./reading-view.html?language=${encodeURIComponent($('language').value)}&reading=${encodeURIComponent($('reading').value)}`};
-init().catch(e=>{$('loadStatus').innerHTML=`<div class="notice error">${e.message||'자료를 불러오지 못했습니다.'}</div>`});
-</script></body></html>
-
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>읽기 · 한국어 발음연습</title><link rel="stylesheet" href="./static/style.css?v=1.4.16-mobile2"></head>
+
+<body><div class="app"><header><div class="header-row"><div><h1>한국어 읽기</h1><div class="sub">V1.4.16 통합형 · 읽기와 문화</div></div><a class="plain" href="./index.html" style="text-decoration:none">어휘</a></div></header><main>
+
+<nav class="content-tabs"><a class="plain" href="./index.html">어휘</a><a class="primary" href="./reading.html">읽기</a></nav>
+
+<div class="grid selector"><label>1. 언어<select id="language"></select></label><label>2. KIIP 단계<select id="level"></select></label><label>3. 읽기 자료<select id="reading"></select></label></div>
+
+<div class="actions"><button class="primary" id="start" disabled>읽기 시작</button></div><div id="loadStatus"></div>
+
+<p class="help">각 과의 읽기와 문화 자료를 선택할 수 있습니다. 한국어 전체는 한 번, 각 문장은 세 번 들을 수 있습니다.</p>
+
+</main></div><script>
+
+let db;const $=id=>document.getElementById(id);
+
+async function init(){db=await (await fetch('./data/lessons.json?v=1.4.16')).json();$('language').replaceChildren(...Object.entries(db.languages).map(([k,v])=>new Option(v.name+' · '+v.native,k)));$('level').replaceChildren(...db.levels.map(v=>new Option(v.name,v.id)));$('level').value=db.readings[0]?.level||$('level').value;$('level').value=db.levels.find(v=>(db.readings||[]).some(r=>r.level===v.id))?.id||$('level').value;$('level').onchange=refresh;refresh();$('start').disabled=false}
+
+function num(v){const m=String(v||'').match(/\d+/);return m?Number(m[0]):999999}
+
+function refresh(){const rows=(db.readings||[]).filter(x=>String(x.level)===String($('level').value)).sort((a,b)=>num(a.unit)-num(b.unit)||String(a.kind).localeCompare(String(b.kind)));$('reading').replaceChildren(...rows.map(x=>new Option(`${x.unit} ${x.kind==='culture'?'문화':'읽기'} · ${x.title}`,x.id)));if(!rows.length)$('reading').add(new Option('등록된 읽기 자료 없음',''))}
+
+$('start').onclick=()=>{if(!$('reading').value)return alert('이 단계에는 등록된 읽기 자료가 없습니다.');location.href=`./reading-view.html?language=${encodeURIComponent($('language').value)}&reading=${encodeURIComponent($('reading').value)}`};
+
+init().catch(e=>{$('loadStatus').innerHTML=`<div class="notice error">${e.message||'자료를 불러오지 못했습니다.'}</div>`});
+
+</script></body></html>
+
+
+
