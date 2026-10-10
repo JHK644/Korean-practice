@@ -1,6 +1,6 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>읽기 · 한국어 발음연습</title><link rel="stylesheet" href="./static/style.css?v=1.4.16-mobile2"></head>
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>읽기 · 한국어 발음연습</title><link rel="stylesheet" href="./static/style.css?v=1.4.18-mobile2"></head>
 
-<body><div class="app"><header><div class="header-row"><div><h1>한국어 읽기</h1><div class="sub">V1.4.16 통합형 · 읽기와 문화</div></div><a class="plain" href="./index.html" style="text-decoration:none">어휘</a></div></header><main>
+<body><div class="app"><header><div class="header-row"><div><h1>한국어 읽기</h1><div class="sub">V1.4.18 통합형 · 읽기와 문화</div></div><a class="plain" href="./index.html" style="text-decoration:none">어휘</a></div></header><main>
 
 <nav class="content-tabs"><a class="plain" href="./index.html">어휘</a><a class="primary" href="./reading.html">읽기</a></nav>
 
@@ -14,7 +14,7 @@
 
 let db;const $=id=>document.getElementById(id);
 
-async function init(){db=await (await fetch('./data/lessons.json?v=1.4.16')).json();$('language').replaceChildren(...Object.entries(db.languages).map(([k,v])=>new Option(v.name+' · '+v.native,k)));$('level').replaceChildren(...db.levels.map(v=>new Option(v.name,v.id)));$('level').value=db.readings[0]?.level||$('level').value;$('level').value=db.levels.find(v=>(db.readings||[]).some(r=>r.level===v.id))?.id||$('level').value;$('level').onchange=refresh;refresh();$('start').disabled=false}
+async function init(){db=await (await fetch('./data/lessons.json?v=1.4.18')).json();db.levels=db.levels.filter(v=>!['0','5'].includes(String(v.id)));$('language').replaceChildren(...Object.entries(db.languages).map(([k,v])=>new Option(v.name+' · '+v.native,k)));$('level').replaceChildren(...db.levels.map(v=>new Option(v.name,v.id)));$('level').value=db.readings[0]?.level||$('level').value;$('level').value=db.levels.find(v=>(db.readings||[]).some(r=>r.level===v.id))?.id||$('level').value;$('level').onchange=refresh;refresh();$('start').disabled=false}
 
 function num(v){const m=String(v||'').match(/\d+/);return m?Number(m[0]):999999}
 
@@ -25,6 +25,3 @@ $('start').onclick=()=>{if(!$('reading').value)return alert('이 단계에는 �
 init().catch(e=>{$('loadStatus').innerHTML=`<div class="notice error">${e.message||'자료를 불러오지 못했습니다.'}</div>`});
 
 </script></body></html>
-
-
-
