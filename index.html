@@ -1,6 +1,6 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>한국어 발음연습</title><link rel="stylesheet" href="./static/style.css?v=1.4.16-mobile2"></head>
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>한국어 발음연습</title><link rel="stylesheet" href="./static/style.css?v=1.4.18-mobile2"></head>
 
-<body><div class="app"><header><div class="header-row"><div><h1>한국어 발음연습</h1><div class="sub">V1.4.16 통합형 · 한국어 TTS · 중간/최종 20개 랜덤 복습</div></div>
+<body><div class="app"><header><div class="header-row"><div><h1>한국어 발음연습</h1><div class="sub">V1.4.18 통합형 · 한국어 TTS · 중간/최종 20개 랜덤 복습</div></div>
 
 </div></header>
 
@@ -40,7 +40,8 @@ let db;
 
 async function init(){
 
- db=await (await fetch('./data/lessons.json?v=1.4.16')).json();
+ db=await (await fetch('./data/lessons.json?v=1.4.18')).json();
+ db.levels=db.levels.filter(v=>!['0','5'].includes(String(v.id)));
 
  const L=document.querySelector('#language'),V=document.querySelector('#level');
 
@@ -155,6 +156,3 @@ init();
 
 
 </body></html>
-
-
-
