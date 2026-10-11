@@ -24,7 +24,7 @@ function makePair(item,lessonId,index,key){return {id:`${lessonId}:${index}`,ko:
 
 async function init(){
 
- db=await (await fetch('./data/lessons.json?v=1.4.16')).json();
+ db=await (await fetch('./data/lessons.json?v=1.4.21')).json();
 
  const key=qs.get('language'), lessonId=qs.get('lesson');reviewType=qs.get('review')||'';levelId=qs.get('level')||'';
 
@@ -100,7 +100,7 @@ async function init(){
 
    $('title').textContent=`${mixedReview?'전체 외국어 랜덤':cfg.name} · ${reviewType==='mid'?'중간':'최종'} 복습`;
 
-   $('subtitle').textContent=`V1.4.19 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.21 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
 
    $('newReview').hidden=false;
 
@@ -122,7 +122,7 @@ async function init(){
 
    $('title').textContent=`한국어 ↔ ${cfg.name}`;
 
-   $('subtitle').textContent=`V1.4.19 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.21 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
 
    storeKey=`koreanQuiz-${lesson.id}-${key}`;
 
@@ -210,9 +210,13 @@ function render(){
 
    if(at>=0){$('exampleKo').append(document.createTextNode(text.slice(0,at)));const mark=document.createElement('mark');mark.textContent=highlight;$('exampleKo').append(mark,document.createTextNode(text.slice(at+highlight.length)))}else $('exampleKo').textContent=text;
 
-   $('exampleKo').classList.toggle('long',text.length>54);$('exampleSource').textContent=w.sentence.source||'교과서 실제 문장';
+   $('exampleKo').classList.toggle('long',text.length>54);
+   const generated=w.sentence.kind==='generated'||w.sentence.generated===true;
+   $('exampleLabel').textContent=generated?'△ 생성 문장':w.sentence.kind==='guide_original'?'● 지도서 원문장':'● 교재 원문장';
+   $('exampleSource').textContent=w.sentence.source||'교과서 실제 문장';
+   $('exampleNotice').hidden=!generated;$('exampleNotice').textContent=generated?'지도서에서 적합한 원문장을 확인하지 못해 같은 단계 수준으로 만든 문장입니다.':'';
 
-   const tr=$('exampleTranslation');tr.hidden=!w.sentenceTarget;tr.textContent=w.sentenceTarget;tr.lang=cfg.lang||'';tr.dir=cfg.rtl?'rtl':'auto';
+   const tr=$('exampleTranslation');tr.hidden=false;tr.textContent=w.sentenceTarget||'문장 번역 준비 중 · 한국어 문장을 먼저 연습하세요.';tr.lang=cfg.lang||'';tr.dir=cfg.rtl?'rtl':'auto';
 
    $('sentenceSpeak').disabled=false;
 
