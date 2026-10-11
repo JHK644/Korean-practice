@@ -1,5 +1,5 @@
 async function correctTranslationLanguages(data){
- const response=await fetch('./data/translation-corrections.json?v=1.4.28',{cache:'no-store'});
+ const response=await fetch('./data/translation-corrections.json?v=1.4.29',{cache:'no-store'});
  if(!response.ok)throw new Error('번역 수정 자료를 불러오지 못했습니다. 다시 접속해 주세요.');
  const patch=await response.json();
  for(const correction of patch.corrections){
@@ -36,12 +36,12 @@ function makePair(item,lessonId,index,key){return {id:`${lessonId}:${index}`,ko:
 
 async function init(){
 
- db=await (await fetch('./data/lessons.json?v=1.4.28')).json();
+ db=await (await fetch('./data/lessons.json?v=1.4.29')).json();
  const requestedLevel=qs.get('level')||(qs.get('lesson')||'').split('-')[1];
  if(requestedLevel==='3'||requestedLevel==='4'){
    const files=requestedLevel==='4'?[1,2,3,4].map(n=>`level4-sentences-${n}.json`):['level3-sentences.json'];
    for(const file of files){
-     const sentenceResponse=await fetch(`./data/${file}?v=1.4.28`);
+     const sentenceResponse=await fetch(`./data/${file}?v=1.4.29`);
      if(!sentenceResponse.ok)throw new Error('문장 자료를 불러오지 못했습니다.');
      const sentenceData=await sentenceResponse.json();
      for(const unit of db.lessons){
@@ -57,7 +57,7 @@ async function init(){
  await correctTranslationLanguages(db);
  const translationFiles={"4": ["level4-translations-1.json", "level4-translations-2.json", "level4-translations-3.json"], "3": ["level3-translations-1.json", "level3-translations-2.json", "level3-translations-3.json"]}[requestedLevel]||[];
  for(const file of translationFiles){
-  const response=await fetch(`./data/${file}?v=1.4.28`);
+  const response=await fetch(`./data/${file}?v=1.4.29`);
   if(!response.ok)throw new Error('문장 번역을 불러오지 못했습니다. 다시 접속해 주세요.');
   const translated=await response.json();
   for(const unit of db.lessons){
@@ -150,7 +150,7 @@ async function init(){
 
    $('title').textContent=`${mixedReview?'전체 외국어 랜덤':cfg.name} · ${reviewType==='mid'?'중간':'최종'} 복습`;
 
-   $('subtitle').textContent=`V1.4.28 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.29 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
 
    $('newReview').hidden=false;
 
@@ -172,7 +172,7 @@ async function init(){
 
    $('title').textContent=`한국어 ↔ ${cfg.name}`;
 
-   $('subtitle').textContent=`V1.4.28 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.29 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
 
    storeKey=`koreanQuiz-${lesson.id}-${key}`;
 
@@ -262,15 +262,17 @@ function render(){
 
    $('exampleKo').classList.toggle('long',text.length>54);
    const generated=w.sentence.kind==='generated'||w.sentence.generated===true;
-   $('exampleLabel').textContent=generated?'△ 생성 문장':w.sentence.kind==='guide_original'?'● 지도서 원문장':'● 교재 원문장';
-   $('exampleSource').textContent=w.sentence.source||'교과서 실제 문장';
-   $('exampleNotice').hidden=!generated;$('exampleNotice').textContent=generated?'지도서에서 적합한 원문장을 확인하지 못해 같은 단계 수준으로 만든 문장입니다.':'';
+   $('exampleLabel').textContent=generated?'AI 생성 문장':w.sentence.kind==='guide_original'?'● 지도서 원문장':'● 교재 원문장';
+
+
 
    const tr=$('exampleTranslation');tr.hidden=false;tr.textContent=w.sentenceTarget||'문장 번역 준비 중 · 한국어 문장을 먼저 연습하세요.';tr.lang=cfg.lang||'';tr.dir=cfg.rtl?'rtl':'auto';
 
    const translationNote=$('exampleTranslationNote');
-   if(translationNote){translationNote.hidden=!w.sentence.translationMetadata;translationNote.textContent=w.sentence.translationMetadata?(qs.get('language')==='lebanese'?'Google 번역 · 새 문장은 표준 아랍어로 제공합니다.':'Google 번역 기반 · 의미 혼동 표현 보완'):'';}
+   if(translationNote){translationNote.hidden=!(w.sentence.translationMetadata&&qs.get('language')==='lebanese');translationNote.textContent='표준 아랍어 번역';}
 
+   document.querySelector('main').classList.toggle('long-example',text.length+w.sentenceTarget.length>280);
+   requestAnimationFrame(fitMobileExample);
    $('sentenceSpeak').disabled=false;
 
  }else{panel.hidden=true;$('exampleKo').textContent='';$('sentenceSpeak').disabled=true}
@@ -388,3 +390,14 @@ function fitMobileCard(){
  }
 }
 new ResizeObserver(()=>requestAnimationFrame(fitMobileCard)).observe($('card'));
+
+function fitMobileExample(){
+ const panel=$('examplePanel'),ko=$('exampleKo'),tr=$('exampleTranslation');
+ ko.style.removeProperty('font-size');tr.style.removeProperty('font-size');
+ if(panel.hidden||!matchMedia('(max-width:650px)').matches)return;
+ let k=parseFloat(getComputedStyle(ko).fontSize),t=parseFloat(getComputedStyle(tr).fontSize);
+ while(panel.scrollHeight>panel.clientHeight+1&&(k>13||t>11)){
+  k=Math.max(13,k-.5);t=Math.max(11,t-.5);ko.style.fontSize=k+'px';tr.style.fontSize=t+'px';
+ }
+}
+new ResizeObserver(()=>requestAnimationFrame(fitMobileExample)).observe($('examplePanel'));
