@@ -1,3 +1,15 @@
+async function correctTranslationLanguages(data){
+ const response=await fetch('./data/translation-corrections.json?v=1.4.27',{cache:'no-store'});
+ if(!response.ok)throw new Error('번역 수정 자료를 불러오지 못했습니다. 다시 접속해 주세요.');
+ const patch=await response.json();
+ for(const correction of patch.corrections){
+  let item=data;
+  for(const part of correction.path)item=item?.[part];
+  if(item?.translations?.[correction.language]===correction.before){
+   item.translations[correction.language]=correction.after;
+  }
+ }
+}
 const $=id=>document.getElementById(id),params=new URLSearchParams(location.search),synth=window.speechSynthesis;
 
 let sentenceIndex=0;let db,row,voiceKey=null,audioRun=0,timer=null,voiceStartTimer=null,activeUtterance=null;
@@ -61,7 +73,7 @@ function showSentence(){const cards=[...$('sentences').children];cards.forEach((
 
 function moveSentence(step){stopAudio();sentenceIndex=Math.max(0,Math.min(row.items.length-1,sentenceIndex+step));$('fullText').hidden=true;$('sentences').hidden=false;$('toggleFull').textContent='전체 글 보기';$('toggleFull').setAttribute('aria-expanded','false');document.querySelectorAll('[data-speak]').forEach(b=>b.textContent='🔊 한국어 3번 듣기');showSentence()}
 
-(async()=>{try{db=await(await fetch('./data/lessons.json?v=1.4.16')).json();render()}catch(e){$('loadStatus').innerHTML=`<div class="notice error">${e.message||'자료를 불러오지 못했습니다.'}</div>`}})();addEventListener('pagehide',stopAudio);
+(async()=>{try{db=await(await fetch('./data/lessons.json?v=1.4.27')).json();await correctTranslationLanguages(db);render()}catch(e){$('loadStatus').innerHTML=`<div class="notice error">${e.message||'자료를 불러오지 못했습니다.'}</div>`}})();addEventListener('pagehide',stopAudio);
 
 
 
