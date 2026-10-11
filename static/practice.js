@@ -1,5 +1,5 @@
 async function correctTranslationLanguages(data){
- const response=await fetch('./data/translation-corrections.json?v=1.4.29',{cache:'no-store'});
+ const response=await fetch('./data/translation-corrections.json?v=1.4.30',{cache:'no-store'});
  if(!response.ok)throw new Error('번역 수정 자료를 불러오지 못했습니다. 다시 접속해 주세요.');
  const patch=await response.json();
  for(const correction of patch.corrections){
@@ -36,12 +36,12 @@ function makePair(item,lessonId,index,key){return {id:`${lessonId}:${index}`,ko:
 
 async function init(){
 
- db=await (await fetch('./data/lessons.json?v=1.4.29')).json();
+ db=await (await fetch('./data/lessons.json?v=1.4.30')).json();
  const requestedLevel=qs.get('level')||(qs.get('lesson')||'').split('-')[1];
  if(requestedLevel==='3'||requestedLevel==='4'){
    const files=requestedLevel==='4'?[1,2,3,4].map(n=>`level4-sentences-${n}.json`):['level3-sentences.json'];
    for(const file of files){
-     const sentenceResponse=await fetch(`./data/${file}?v=1.4.29`);
+     const sentenceResponse=await fetch(`./data/${file}?v=1.4.30`);
      if(!sentenceResponse.ok)throw new Error('문장 자료를 불러오지 못했습니다.');
      const sentenceData=await sentenceResponse.json();
      for(const unit of db.lessons){
@@ -57,7 +57,7 @@ async function init(){
  await correctTranslationLanguages(db);
  const translationFiles={"4": ["level4-translations-1.json", "level4-translations-2.json", "level4-translations-3.json"], "3": ["level3-translations-1.json", "level3-translations-2.json", "level3-translations-3.json"]}[requestedLevel]||[];
  for(const file of translationFiles){
-  const response=await fetch(`./data/${file}?v=1.4.29`);
+  const response=await fetch(`./data/${file}?v=1.4.30`);
   if(!response.ok)throw new Error('문장 번역을 불러오지 못했습니다. 다시 접속해 주세요.');
   const translated=await response.json();
   for(const unit of db.lessons){
@@ -150,7 +150,7 @@ async function init(){
 
    $('title').textContent=`${mixedReview?'전체 외국어 랜덤':cfg.name} · ${reviewType==='mid'?'중간':'최종'} 복습`;
 
-   $('subtitle').textContent=`V1.4.29 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.30 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
 
    $('newReview').hidden=false;
 
@@ -172,7 +172,7 @@ async function init(){
 
    $('title').textContent=`한국어 ↔ ${cfg.name}`;
 
-   $('subtitle').textContent=`V1.4.29 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.30 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
 
    storeKey=`koreanQuiz-${lesson.id}-${key}`;
 
