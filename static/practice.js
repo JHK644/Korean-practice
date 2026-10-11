@@ -2,7 +2,7 @@ const $=id=>document.getElementById(id), qs=new URLSearchParams(location.search)
 
 let db,cfg,lesson,pairs=[],pool=[],order=[],pos=0,mode='ko-target',speechRun=0,known=new Set(),review=new Set(),storeKey='',isReview=false,reviewType='',levelId='';
 
-const synth=window.speechSynthesis,pinned={};let timer=null,activeUtterance=null;
+const synth=window.speechSynthesis,pinned={};let timer=null,voiceStartTimer=null,activeUtterance=null;
 
 let revealTimer=null,revealRun=0;
 
@@ -100,7 +100,7 @@ async function init(){
 
    $('title').textContent=`${mixedReview?'전체 외국어 랜덤':cfg.name} · ${reviewType==='mid'?'중간':'최종'} 복습`;
 
-   $('subtitle').textContent=`V1.4.16 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.19 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
 
    $('newReview').hidden=false;
 
@@ -122,7 +122,7 @@ async function init(){
 
    $('title').textContent=`한국어 ↔ ${cfg.name}`;
 
-   $('subtitle').textContent=`V1.4.16 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.19 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
 
    storeKey=`koreanQuiz-${lesson.id}-${key}`;
 
@@ -228,7 +228,7 @@ function mark(type){const id=current().id;if(type==='known'){known.add(id);revie
 
 function setMode(m){stopAudio();mode=m;$('forward').classList.toggle('active',m==='ko-target');$('reverse').classList.toggle('active',m==='target-ko');render()}
 
-function stopAudio(){speechRun++;clearTimeout(timer);if(synth)synth.cancel();$('koSpeak').textContent='🔊 단어 3번 듣기';$('sentenceSpeak').textContent='🔊 문장 3번 듣기'}
+function stopAudio(){speechRun++;clearTimeout(timer);clearTimeout(voiceStartTimer);const wasActive=!!activeUtterance;activeUtterance=null;if(synth&&(wasActive||synth.speaking||synth.pending))synth.cancel();$('koSpeak').textContent='🔊 단어 3번 듣기';$('sentenceSpeak').textContent='🔊 문장 3번 듣기'}
 
 function availableKorean(){return (synth?synth.getVoices():[]).filter(v=>/^ko(?:[-_]|$)/i.test(v.lang))}
 
@@ -236,27 +236,18 @@ function refreshVoices(){
 
  if(!synth){$('voiceStatus').textContent='이 브라우저는 음성 재생을 지원하지 않습니다.';$('koSpeak').disabled=true;return}
 
- const list=availableKorean(),lang='ko-KR',store='quiz-v13-voice-'+lang;
-
- if(!pinned[lang])pinned[lang]=readStore(store,null)||readStore('quiz-v12-voice-'+lang,null);
-
- if(list.length&&!list.some(v=>voiceID(v)===pinned[lang])){
-
-   const voice=list.find(v=>v.default)||list[0];pinned[lang]=voiceID(voice);writeStore(store,pinned[lang]);
-
- }
-
+ const list=availableKorean(),lang='ko-KR',store='quiz-v19-voice-'+lang;
+ if(pinned[lang]===undefined)pinned[lang]=readStore(store,'');
+ if(pinned[lang]&&!list.some(v=>voiceID(v)===pinned[lang]))pinned[lang]='';
  const select=$('koVoice');select.replaceChildren();
-
- if(!list.length){const o=document.createElement('option');o.value='';o.textContent='기기 기본 한국어 음성';select.appendChild(o)}
-
+ const o=document.createElement('option');o.value='';o.textContent='기기 기본 한국어 음성 (자동)';select.appendChild(o);
  for(const v of list){const o=document.createElement('option');o.value=voiceID(v);o.textContent=v.name+' · '+v.lang;select.appendChild(o)}
 
- if(list.length)select.value=pinned[lang];
+ select.value=pinned[lang]||'';
 
  $('koSpeak').disabled=false;
 
- select.onchange=()=>{if(!select.value)return;stopAudio();pinned[lang]=select.value;writeStore(store,select.value);refreshVoices()};
+ select.onchange=()=>{stopAudio();pinned[lang]=select.value;writeStore(store,select.value);refreshVoices()};
 
  $('voiceStatus').textContent=list.length?'한국어 음성 준비 완료 · 속도 0.80':'음성 목록을 기다리는 중입니다. 듣기를 누르면 기본 한국어 음성으로 재생합니다.';
 
@@ -284,13 +275,21 @@ function speak3(text,button,label){
 
    $('voiceStatus').textContent='한국어: '+(voice?voice.name:'기기 기본 음성')+' · '+n+'/3';
 
-   u.onend=()=>{if(run!==speechRun)return;activeUtterance=null;if(n<3)timer=setTimeout(play,250);else button.textContent=`🔊 ${label} 3번 듣기`};
+   u.onstart=()=>{if(run===speechRun)clearTimeout(voiceStartTimer)};
+   u.onend=()=>{if(run!==speechRun)return;clearTimeout(voiceStartTimer);activeUtterance=null;if(n<3)timer=setTimeout(play,250);else button.textContent=`🔊 ${label} 3번 듣기`};
 
-   u.onerror=e=>{if(run!==speechRun)return;stopAudio();activeUtterance=null;$('voiceStatus').textContent='음성 재생 실패 ('+(e.error||'unknown')+'). Chrome에서 열고 한국어 음성을 확인해 주세요.'};
+   const fail=code=>{
+     if(run!==speechRun)return;stopAudio();
+     if(voice&&['synthesis-failed','voice-unavailable','language-unavailable','start-timeout'].includes(code)){
+       pinned['ko-KR']='';writeStore('quiz-v19-voice-ko-KR','');refreshVoices();
+       $('voiceStatus').textContent='선택한 음성 재생 실패 ('+code+'). 기기 기본 음성으로 바꿨습니다. 듣기를 다시 눌러 주세요.';
+     }else $('voiceStatus').textContent='음성 재생 실패 ('+code+'). 휴대폰 설정에서 텍스트 음성 변환 → 한국어 → 재생을 확인해 주세요.';
+   };
+   u.onerror=e=>fail(e.error||'unknown');
+   voiceStartTimer=setTimeout(()=>fail('start-timeout'),8000);
+   // First playback stays in the tap handler; resume only an actually paused engine.
+   try{if(synth.paused)synth.resume();synth.speak(u)}catch(e){fail('synthesis-failed')}
 
-   // Keep the first speak call directly in the user's tap handler.
-
-   synth.resume();synth.speak(u);
 
  };
 
