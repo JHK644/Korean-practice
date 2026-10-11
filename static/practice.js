@@ -24,7 +24,7 @@ function makePair(item,lessonId,index,key){return {id:`${lessonId}:${index}`,ko:
 
 async function init(){
 
- db=await (await fetch('./data/lessons.json?v=1.4.23')).json();
+ db=await (await fetch('./data/lessons.json?v=1.4.24')).json();
 
  const key=qs.get('language'), lessonId=qs.get('lesson');reviewType=qs.get('review')||'';levelId=qs.get('level')||'';
 
@@ -100,7 +100,7 @@ async function init(){
 
    $('title').textContent=`${mixedReview?'전체 외국어 랜덤':cfg.name} · ${reviewType==='mid'?'중간':'최종'} 복습`;
 
-   $('subtitle').textContent=`V1.4.23 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.24 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
 
    $('newReview').hidden=false;
 
@@ -122,7 +122,7 @@ async function init(){
 
    $('title').textContent=`한국어 ↔ ${cfg.name}`;
 
-   $('subtitle').textContent=`V1.4.23 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.24 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
 
    storeKey=`koreanQuiz-${lesson.id}-${key}`;
 
