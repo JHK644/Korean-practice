@@ -1,0 +1,2081 @@
+{
+  "version": "1.4.27",
+  "corrections": [
+    {
+      "path": [
+        "lessons",
+        "3",
+        "items",
+        "31",
+        "sentence"
+      ],
+      "language": "lebanese",
+      "before": "بيحطّوا الزبادي عالطاولة وبيおكلوا.",
+      "after": "منحطّ الصحون عالطاولة ومناكل."
+    },
+    {
+      "path": [
+        "readings",
+        "22",
+        "items",
+        "2"
+      ],
+      "language": "lebanese",
+      "before": "بيحطّوا الزبادي عالطاولة وبيおكلوا.",
+      "after": "منحطّ الصحون عالطاولة ومناكل."
+    },
+    {
+      "path": [
+        "lessons",
+        "3",
+        "items",
+        "36"
+      ],
+      "language": "khmer",
+      "before": "សូមប៊ុលហ្គូគី ៣份។",
+      "after": "សូមប៊ុលហ្គូគី ៣ ចំណែក។"
+    },
+    {
+      "path": [
+        "lessons",
+        "18",
+        "items",
+        "10",
+        "sentence"
+      ],
+      "language": "mongolian",
+      "before": "Танихгүй орчинд дасан зохицох амаргүй байсан ч шинэ амьдралаа楽しэхийг хичээсэн.",
+      "after": "Танихгүй орчинд дасан зохицох амаргүй байсан ч шинэ амьдралаас таашаал авахыг хичээсэн."
+    },
+    {
+      "path": [
+        "lessons",
+        "18",
+        "items",
+        "11",
+        "sentence"
+      ],
+      "language": "mongolian",
+      "before": "Танихгүй орчинд дасан зохицох амаргүй байсан ч шинэ амьдралаа楽しэхийг хичээсэн.",
+      "after": "Танихгүй орчинд дасан зохицох амаргүй байсан ч шинэ амьдралаас таашаал авахыг хичээсэн."
+    },
+    {
+      "path": [
+        "lessons",
+        "18",
+        "items",
+        "20",
+        "sentence"
+      ],
+      "language": "mongolian",
+      "before": "Танихгүй орчинд дасан зохицох амаргүй байсан ч шинэ амьдралаа楽しэхийг хичээсэн.",
+      "after": "Танихгүй орчинд дасан зохицох амаргүй байсан ч шинэ амьдралаас таашаал авахыг хичээсэн."
+    },
+    {
+      "path": [
+        "lessons",
+        "19",
+        "items",
+        "56"
+      ],
+      "language": "sinhala",
+      "before": "占ය කරනවා",
+      "after": "අත්පත් කරගන්නවා"
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "0",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "អ嗯 ដំបូង ភ្ញៀវមង្គលការបានជូនប្រាក់អបអរសាទរ នៅពេលចូលទៅក្នុងសាលមង្គលការ។",
+      "after": "ដំបូង ភ្ញៀវមង្គលការបានជូនប្រាក់អបអរសាទរ នៅពេលចូលទៅក្នុងសាលមង្គលការ។"
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "5",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "អ嗯 ដំបូង ភ្ញៀវមង្គលការបានជូនប្រាក់អបអរសាទរ នៅពេលចូលទៅក្នុងសាលមង្គលការ។",
+      "after": "ដំបូង ភ្ញៀវមង្គលការបានជូនប្រាក់អបអរសាទរ នៅពេលចូលទៅក្នុងសាលមង្គលការ។"
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "6",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "អ嗯 ដំបូង ភ្ញៀវមង្គលការបានជូនប្រាក់អបអរសាទរ នៅពេលចូលទៅក្នុងសាលមង្គលការ។",
+      "after": "ដំបូង ភ្ញៀវមង្គលការបានជូនប្រាក់អបអរសាទរ នៅពេលចូលទៅក្នុងសាលមង្គលការ។"
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "0",
+        "sentence"
+      ],
+      "language": "wolof",
+      "before": "Waaw, ci njëkk, gan yi ñëw ci céet bi jox nañu xaalis bu ñuy maye ngir祝祝, bi ñuy dugg ci néeg bu céet bi.",
+      "after": "Ci njëkk, gan yi jox nañu xaalis ngir ndokkel bi ñuy dugg ci néeg bu céet bi."
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "5",
+        "sentence"
+      ],
+      "language": "wolof",
+      "before": "Waaw, ci njëkk, gan yi ñëw ci céet bi jox nañu xaalis bu ñuy maye ngir祝祝, bi ñuy dugg ci néeg bu céet bi.",
+      "after": "Ci njëkk, gan yi jox nañu xaalis ngir ndokkel bi ñuy dugg ci néeg bu céet bi."
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "6",
+        "sentence"
+      ],
+      "language": "wolof",
+      "before": "Waaw, ci njëkk, gan yi ñëw ci céet bi jox nañu xaalis bu ñuy maye ngir祝祝, bi ñuy dugg ci néeg bu céet bi.",
+      "after": "Ci njëkk, gan yi jox nañu xaalis ngir ndokkel bi ñuy dugg ci néeg bu céet bi."
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "20"
+      ],
+      "language": "english",
+      "before": "同-year colleague",
+      "after": "colleague who joined in the same year"
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "41",
+        "sentence"
+      ],
+      "language": "russian",
+      "before": "Месяц был忙ным из-за множества мероприятий, но я смогла выразить любовь племяннице и почтение родителям.",
+      "after": "Месяц был насыщенным из-за множества мероприятий, но я смогла выразить любовь племяннице и почтение родителям."
+    },
+    {
+      "path": [
+        "lessons",
+        "29",
+        "items",
+        "47",
+        "sentence"
+      ],
+      "language": "russian",
+      "before": "Месяц был忙ным из-за множества мероприятий, но я смогла выразить любовь племяннице и почтение родителям.",
+      "after": "Месяц был насыщенным из-за множества мероприятий, но я смогла выразить любовь племяннице и почтение родителям."
+    },
+    {
+      "path": [
+        "readings",
+        "123",
+        "items",
+        "15"
+      ],
+      "language": "russian",
+      "before": "Месяц был忙ным из-за множества мероприятий, но я смогла выразить любовь племяннице и почтение родителям.",
+      "after": "Месяц был насыщенным из-за множества мероприятий, но я смогла выразить любовь племяннице и почтение родителям."
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "1"
+      ],
+      "language": "bengali",
+      "before": "আন্তর্জাতিক交流 সক্রিয় হয়ে ওঠা",
+      "after": "আন্তর্জাতিক বিনিময় আরও সক্রিয় হয়ে ওঠা"
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "7",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "សព្វថ្ងៃនេះ នៅស្រុកកំណើតរបស់ខ្ញុំ មនុស្ស们ចាប់អារម្មណ៍លើវប្បធម៌កូរ៉េកាន់តែខ្លាំង រហូតដល់ថ្នាក់ជំរុញការផ្លាស់ប្តូរវប្បធម៌ជាមួយកូរ៉េ។",
+      "after": "សព្វថ្ងៃនេះ នៅស្រុកកំណើតរបស់ខ្ញុំ មនុស្សចាប់អារម្មណ៍លើវប្បធម៌កូរ៉េកាន់តែខ្លាំង រហូតដល់ថ្នាក់ជំរុញការផ្លាស់ប្តូរវប្បធម៌ជាមួយកូរ៉េ។"
+    },
+    {
+      "path": [
+        "lessons",
+        "24",
+        "items",
+        "28"
+      ],
+      "language": "sinhala",
+      "before": "占占ය කිරීම",
+      "after": "අත්පත් කරගැනීම"
+    },
+    {
+      "path": [
+        "lessons",
+        "25",
+        "items",
+        "8",
+        "sentence"
+      ],
+      "language": "lebanese",
+      "before": "بالنسبة للرياضة، لازم نمارسها باستمرار至少 ٣ أيام بالأسبوع.",
+      "after": "بالنسبة للرياضة، لازم نمارسها باستمرار على الأقل ٣ أيام بالأسبوع."
+    },
+    {
+      "path": [
+        "readings",
+        "126",
+        "items",
+        "12"
+      ],
+      "language": "lebanese",
+      "before": "بالنسبة للرياضة، لازم نمارسها باستمرار至少 ٣ أيام بالأسبوع.",
+      "after": "بالنسبة للرياضة، لازم نمارسها باستمرار على الأقل ٣ أيام بالأسبوع."
+    },
+    {
+      "path": [
+        "lessons",
+        "26",
+        "items",
+        "15"
+      ],
+      "language": "english",
+      "before": "刺激性の強い",
+      "after": "spicy or strongly flavored"
+    },
+    {
+      "path": [
+        "lessons",
+        "27",
+        "items",
+        "7",
+        "sentence"
+      ],
+      "language": "bengali",
+      "before": "শিক্ষক指出 করেছেন যে আমার লেখায় অনেক বানান ভুল আছে।",
+      "after": "শিক্ষক উল্লেখ করেছেন যে আমার লেখায় অনেক বানান ভুল আছে।"
+    },
+    {
+      "path": [
+        "lessons",
+        "27",
+        "items",
+        "47",
+        "sentence"
+      ],
+      "language": "bengali",
+      "before": "শিক্ষক指出 করেছেন যে আমার লেখায় অনেক বানান ভুল আছে।",
+      "after": "শিক্ষক উল্লেখ করেছেন যে আমার লেখায় অনেক বানান ভুল আছে।"
+    },
+    {
+      "path": [
+        "lessons",
+        "27",
+        "items",
+        "35"
+      ],
+      "language": "russian",
+      "before": "вызывать 혼乱",
+      "after": "вызывать путаницу"
+    },
+    {
+      "path": [
+        "lessons",
+        "27",
+        "items",
+        "38",
+        "sentence"
+      ],
+      "language": "bengali",
+      "before": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা指出 করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।",
+      "after": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা উল্লেখ করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।"
+    },
+    {
+      "path": [
+        "lessons",
+        "27",
+        "items",
+        "44",
+        "sentence"
+      ],
+      "language": "bengali",
+      "before": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা指出 করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।",
+      "after": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা উল্লেখ করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।"
+    },
+    {
+      "path": [
+        "lessons",
+        "27",
+        "items",
+        "45",
+        "sentence"
+      ],
+      "language": "bengali",
+      "before": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা指出 করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।",
+      "after": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা উল্লেখ করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।"
+    },
+    {
+      "path": [
+        "lessons",
+        "27",
+        "items",
+        "46",
+        "sentence"
+      ],
+      "language": "bengali",
+      "before": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা指出 করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।",
+      "after": "বিশেষজ্ঞরা স্বীকার করেন যে নতুন শব্দের আবির্ভাব একটি স্বাভাবিক ঘটনা। তবে তারা উল্লেখ করেন, যোগাযোগে অসুবিধা হওয়ার মতো মাত্রায় সেগুলো নির্বিচারে ব্যবহার করা সমস্যাজনক।"
+    },
+    {
+      "path": [
+        "lessons",
+        "28",
+        "items",
+        "8",
+        "sentence"
+      ],
+      "language": "thai",
+      "before": "สามารถ补เติมในส่วนที่ยังขาดได้",
+      "after": "สามารถเติมเต็มส่วนที่ยังขาดได้"
+    },
+    {
+      "path": [
+        "lessons",
+        "28",
+        "items",
+        "8",
+        "sentence"
+      ],
+      "language": "spanish",
+      "before": "Se pueden补补 las partes que faltan.",
+      "after": "Se pueden completar las partes que faltan."
+    },
+    {
+      "path": [
+        "lessons",
+        "31",
+        "items",
+        "32",
+        "sentence"
+      ],
+      "language": "nepali",
+      "before": "आर्थिक मन्दीको समयमा भर्तीसम्बन्धी जिम्मेवार व्यक्तिहरू रूढिवादी विचारका हुने भएकाले अरूभन्दा धेरै फरक देखिने व्यक्तिहरूलाई避避 गर्न खोज्ने प्रवृत्ति हुन्छ।",
+      "after": "आर्थिक मन्दीको समयमा भर्तीसम्बन्धी जिम्मेवार व्यक्तिहरू रूढिवादी विचारका हुने भएकाले अरूभन्दा धेरै फरक देखिने व्यक्तिहरूलाई नलिन खोज्ने प्रवृत्ति हुन्छ।"
+    },
+    {
+      "path": [
+        "lessons",
+        "31",
+        "items",
+        "35",
+        "sentence"
+      ],
+      "language": "nepali",
+      "before": "आर्थिक मन्दीको समयमा भर्तीसम्बन्धी जिम्मेवार व्यक्तिहरू रूढिवादी विचारका हुने भएकाले अरूभन्दा धेरै फरक देखिने व्यक्तिहरूलाई避避 गर्न खोज्ने प्रवृत्ति हुन्छ।",
+      "after": "आर्थिक मन्दीको समयमा भर्तीसम्बन्धी जिम्मेवार व्यक्तिहरू रूढिवादी विचारका हुने भएकाले अरूभन्दा धेरै फरक देखिने व्यक्तिहरूलाई नलिन खोज्ने प्रवृत्ति हुन्छ।"
+    },
+    {
+      "path": [
+        "lessons",
+        "32",
+        "items",
+        "40"
+      ],
+      "language": "khmer",
+      "before": "មានភាពច成熟",
+      "after": "មានភាពចាស់ទុំ"
+    },
+    {
+      "path": [
+        "lessons",
+        "32",
+        "items",
+        "41",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "ដល់ពេលដែលយើងត្រូវកសាងសង្គមមួយដែលមានសុវត្ថិភាព និងផាសុកភាព តាមរយៈស្មារតីពលរដ្ឋដែលមានភាព成熟។",
+      "after": "ដល់ពេលដែលយើងត្រូវកសាងសង្គមមួយដែលមានសុវត្ថិភាព និងផាសុកភាព តាមរយៈស្មារតីពលរដ្ឋដែលមានភាពចាស់ទុំ។"
+    },
+    {
+      "path": [
+        "readings",
+        "134",
+        "items",
+        "13"
+      ],
+      "language": "khmer",
+      "before": "ដល់ពេលដែលយើងត្រូវកសាងសង្គមមួយដែលមានសុវត្ថិភាព និងផាសុកភាព តាមរយៈស្មារតីពលរដ្ឋដែលមានភាព成熟។",
+      "after": "ដល់ពេលដែលយើងត្រូវកសាងសង្គមមួយដែលមានសុវត្ថិភាព និងផាសុកភាព តាមរយៈស្មារតីពលរដ្ឋដែលមានភាពចាស់ទុំ។"
+    },
+    {
+      "path": [
+        "lessons",
+        "36",
+        "items",
+        "16"
+      ],
+      "language": "english",
+      "before": "交流실 / exchange room",
+      "after": "exchange room"
+    },
+    {
+      "path": [
+        "lessons",
+        "38",
+        "items",
+        "3"
+      ],
+      "language": "english",
+      "before": "通信 expenses",
+      "after": "communication expenses"
+    },
+    {
+      "path": [
+        "lessons",
+        "39",
+        "items",
+        "2",
+        "sentence"
+      ],
+      "language": "thai",
+      "before": "这样นี้จะช่วยให้คุณได้รับเงินประกันคืนอย่างปลอดภัย",
+      "after": "วิธีนี้จะช่วยให้คุณได้รับเงินประกันคืนอย่างปลอดภัย"
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "13"
+      ],
+      "language": "thai",
+      "before": "这样นี้จะช่วยให้คุณได้รับเงินประกันคืนอย่างปลอดภัย",
+      "after": "วิธีนี้จะช่วยให้คุณได้รับเงินประกันคืนอย่างปลอดภัย"
+    },
+    {
+      "path": [
+        "lessons",
+        "40",
+        "items",
+        "6"
+      ],
+      "language": "french",
+      "before": "spectacle de rue (b站king)",
+      "after": "spectacle de rue"
+    },
+    {
+      "path": [
+        "lessons",
+        "44",
+        "items",
+        "7",
+        "sentence"
+      ],
+      "language": "wolof",
+      "before": "Kër gu ñuy bokk mooy kër gu ñuy租, ñuy bokk ko ñaar walla lu ëpp, te léegi mu ngi siiw gaaw ci diggante ndaw ñi.",
+      "after": "Kër gu ñuy bokk mooy kër gu ñuy luwe, ñuy bokk ko ñaar walla lu ëpp, te léegi mu ngi siiw gaaw ci diggante ndaw ñi."
+    },
+    {
+      "path": [
+        "readings",
+        "98",
+        "items",
+        "0"
+      ],
+      "language": "wolof",
+      "before": "Kër gu ñuy bokk mooy kër gu ñuy租, ñuy bokk ko ñaar walla lu ëpp, te léegi mu ngi siiw gaaw ci diggante ndaw ñi.",
+      "after": "Kër gu ñuy bokk mooy kër gu ñuy luwe, ñuy bokk ko ñaar walla lu ëpp, te léegi mu ngi siiw gaaw ci diggante ndaw ñi."
+    },
+    {
+      "path": [
+        "lessons",
+        "45",
+        "items",
+        "6"
+      ],
+      "language": "khmer",
+      "before": "បបរប豆ក្រហម",
+      "after": "បបរសណ្តែកក្រហម"
+    },
+    {
+      "path": [
+        "lessons",
+        "47",
+        "items",
+        "15"
+      ],
+      "language": "spanish",
+      "before": "最新; lo último",
+      "after": "lo último; más reciente"
+    },
+    {
+      "path": [
+        "lessons",
+        "48",
+        "items",
+        "0",
+        "sentence"
+      ],
+      "language": "wolof",
+      "before": "Dëkk ci kër gu ñuy bokk «kenn ci boppam te ñépp bokk», di tëye ci租 ak ci dund, te gis ay jokkondiral ak dund gu bees, léegi mu ngi doon xeetu dëkk gu ndaw ñi.",
+      "after": "Dëkk ci kër gu ñuy bokk «kenn ci boppam te ñépp bokk», di wàññi njëgu luwe ak njëgu dund, te gis ay jokkondiral ak dund gu bees, léegi mu ngi doon xeetu dëkk gu ndaw ñi."
+    },
+    {
+      "path": [
+        "readings",
+        "98",
+        "items",
+        "5"
+      ],
+      "language": "wolof",
+      "before": "Dëkk ci kër gu ñuy bokk «kenn ci boppam te ñépp bokk», di tëye ci租 ak ci dund, te gis ay jokkondiral ak dund gu bees, léegi mu ngi doon xeetu dëkk gu ndaw ñi.",
+      "after": "Dëkk ci kër gu ñuy bokk «kenn ci boppam te ñépp bokk», di wàññi njëgu luwe ak njëgu dund, te gis ay jokkondiral ak dund gu bees, léegi mu ngi doon xeetu dëkk gu ndaw ñi."
+    },
+    {
+      "path": [
+        "lessons",
+        "50",
+        "items",
+        "15"
+      ],
+      "language": "english",
+      "before": "交通",
+      "after": "transportation"
+    },
+    {
+      "path": [
+        "lessons",
+        "60",
+        "items",
+        "17"
+      ],
+      "language": "russian",
+      "before": "типичный;代表ительный",
+      "after": "типичный; представительный"
+    },
+    {
+      "path": [
+        "readings",
+        "22",
+        "items",
+        "0"
+      ],
+      "language": "khmer",
+      "before": "តើយើងនាំគ្នាស្វែងយល់អំពីមារយាទក្នុងការទទួលទានអាហាររបស់កូរ៉េ好吗?",
+      "after": "តើយើងនាំគ្នាស្វែងយល់អំពីមារយាទក្នុងការទទួលទានអាហាររបស់កូរ៉េ?"
+    },
+    {
+      "path": [
+        "readings",
+        "34",
+        "items",
+        "4"
+      ],
+      "language": "nepali",
+      "before": "माछा मार्न निषेध! कृपया माछा नमうर्नुहोस्।",
+      "after": "माछा मार्न निषेध! कृपया माछा नमार्नुहोस्।"
+    },
+    {
+      "path": [
+        "readings",
+        "45",
+        "items",
+        "0"
+      ],
+      "language": "burmese",
+      "before": "စကားပုံသည် ရှေးယခင်ကတည်းက ဆက်လက်传လာသော ဘဝနှင့်ပတ်သက်သည့် သင်ခန်းစာများကို တိုတောင်းစွာ ဖော်ပြသည့်စကား ဖြစ်သည်။",
+      "after": "စကားပုံသည် ရှေးယခင်ကတည်းက ဆက်လက်လက်ဆင့်ကမ်းလာသော ဘဝနှင့်ပတ်သက်သည့် သင်ခန်းစာများကို တိုတောင်းစွာ ဖော်ပြသည့်စကား ဖြစ်သည်။"
+    },
+    {
+      "path": [
+        "readings",
+        "46",
+        "items",
+        "0"
+      ],
+      "language": "russian",
+      "before": "В последнее время в корейском обществе непрерывное образование становится普遍ным.",
+      "after": "В последнее время в корейском обществе непрерывное образование становится распространённым."
+    },
+    {
+      "path": [
+        "readings",
+        "69",
+        "items",
+        "9"
+      ],
+      "language": "nepali",
+      "before": "人数: १५ जना",
+      "after": "सङ्ख्या: १५ जना"
+    },
+    {
+      "path": [
+        "readings",
+        "69",
+        "items",
+        "14"
+      ],
+      "language": "nepali",
+      "before": "人数: १५ जना",
+      "after": "सङ्ख्या: १५ जना"
+    },
+    {
+      "path": [
+        "readings",
+        "69",
+        "items",
+        "19"
+      ],
+      "language": "nepali",
+      "before": "人数: १५ जना",
+      "after": "सङ्ख्या: १५ जना"
+    },
+    {
+      "path": [
+        "readings",
+        "69",
+        "items",
+        "24"
+      ],
+      "language": "nepali",
+      "before": "人数: १५ जना",
+      "after": "सङ्ख्या: १५ जना"
+    },
+    {
+      "path": [
+        "readings",
+        "87",
+        "items",
+        "1"
+      ],
+      "language": "burmese",
+      "before": "ယဉ်ကျေးမှုနေ့တွင် နိုင်ငံတစ်ဝန်းရှိ ရုပ်ရှင်ရုံများ၊ ဖျော်ဖြေပွဲခန်းမများ၊ ပြတိုက်များ၊ အနုပညာပြခန်းများနှင့် အားကစား施設များကဲ့သို့သော ယဉ်ကျေးမှုဆိုင်ရာနေရာများကို လျှော့စျေးဖြင့် သို့မဟုတ် အခမဲ့ ခံစားနိုင်ပါသည်။",
+      "after": "ယဉ်ကျေးမှုနေ့တွင် နိုင်ငံတစ်ဝန်းရှိ ရုပ်ရှင်ရုံများ၊ ဖျော်ဖြေပွဲခန်းမများ၊ ပြတိုက်များ၊ အနုပညာပြခန်းများနှင့် အားကစားအဆောက်အအုံများကဲ့သို့သော ယဉ်ကျေးမှုဆိုင်ရာနေရာများကို လျှော့စျေးဖြင့် သို့မဟုတ် အခမဲ့ ခံစားနိုင်ပါသည်။"
+    },
+    {
+      "path": [
+        "readings",
+        "110",
+        "items",
+        "3"
+      ],
+      "language": "mongolian",
+      "before": "Тиймээс санаа зоволгүй соёлын үйл ажиллагааг楽しэж болно.",
+      "after": "Тиймээс санаа зоволгүй соёлын үйл ажиллагаанд дуртайяа оролцож болно."
+    },
+    {
+      "path": [
+        "readings",
+        "118",
+        "items",
+        "3"
+      ],
+      "language": "bengali",
+      "before": "কোরিয়া হেলথ প্রমোশন ইনস্টিটিউট বিষণ্নতা নিজে যাচাই করার একটি পদ্ধতি介绍 করে বলেছে, “অন্যান্য সব রোগের মতো বিষণ্নতাও দ্রুত শনাক্ত করে চিকিৎসা করা গুরুত্বপূর্ণ।”",
+      "after": "কোরিয়া হেলথ প্রমোশন ইনস্টিটিউট বিষণ্নতা নিজে যাচাই করার একটি পদ্ধতি পরিচয় করিয়ে দিয়ে বলেছে, “অন্যান্য সব রোগের মতো বিষণ্নতাও দ্রুত শনাক্ত করে চিকিৎসা করা গুরুত্বপূর্ণ।”"
+    },
+    {
+      "path": [
+        "readings",
+        "135",
+        "items",
+        "3"
+      ],
+      "language": "khmer",
+      "before": "ខ្ញុំមកទីនេះ ដើម្បីប្រាប់ថា ខ្ញុំដែលសុបិនចង់ក្លាយជាគិលានុបដ្ឋាយិកាតាំងពីកុមារ បានខិតជិតសុបិនរបស់ខ្ញុំមួយជំហានទៀតនៅប្រទេសកូរ៉េដ៏陌 familiar យ៉ាងដូចម្តេច។",
+      "after": "ខ្ញុំមកទីនេះ ដើម្បីប្រាប់ថា ខ្ញុំដែលសុបិនចង់ក្លាយជាគិលានុបដ្ឋាយិកាតាំងពីកុមារ បានខិតជិតសុបិនរបស់ខ្ញុំមួយជំហានទៀតនៅប្រទេសកូរ៉េដែលខ្ញុំមិនធ្លាប់ស្គាល់ យ៉ាងដូចម្តេច។"
+    },
+    {
+      "path": [
+        "lessons",
+        "13",
+        "items",
+        "21"
+      ],
+      "language": "wolof",
+      "before": " встреч ak xariti dëkk bi nga juddoo",
+      "after": " gise ak xariti dëkk bi nga juddoo"
+    },
+    {
+      "path": [
+        "lessons",
+        "13",
+        "items",
+        "22"
+      ],
+      "language": "wolof",
+      "before": " встреч ak waajur yi",
+      "after": " gise ak waajur yi"
+    },
+    {
+      "path": [
+        "lessons",
+        "21",
+        "items",
+        "32"
+      ],
+      "language": "japanese",
+      "before": " 돌잔치",
+      "after": " 1歳の誕生日祝い"
+    },
+    {
+      "path": [
+        "lessons",
+        "22",
+        "items",
+        "5",
+        "sentence"
+      ],
+      "language": "vietnamese",
+      "before": "Để học lịch sử Hàn Quốc, chúng ta sẽ либо học bằng sách, hoặc đi đến các di tích lịch sử.",
+      "after": "Để học lịch sử Hàn Quốc, chúng ta sẽ hoặc học bằng sách, hoặc đi đến các di tích lịch sử."
+    },
+    {
+      "path": [
+        "lessons",
+        "22",
+        "items",
+        "7",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "ចាំងដុកគุง គឺជាព្រះរាជវាំងដែលព្រះមហាក្សត្រធ្លាប់គង់នៅក្នុងសម័យចូសុន។",
+      "after": "ចាំងដុកគុង គឺជាព្រះរាជវាំងដែលព្រះមហាក្សត្រធ្លាប់គង់នៅក្នុងសម័យចូសុន។"
+    },
+    {
+      "path": [
+        "lessons",
+        "22",
+        "items",
+        "25",
+        "sentence"
+      ],
+      "language": "uzbek",
+      "before": "O‘tgan hafta madaniy merosni o‘rganish uchun Kyonगी-do provinsiyasining Yeoju shahridagi Yeongneungga bordim.",
+      "after": "O‘tgan hafta madaniy merosni o‘rganish uchun Gyeonggi-do provinsiyasining Yeoju shahridagi Yeongneungga bordim."
+    },
+    {
+      "path": [
+        "lessons",
+        "22",
+        "items",
+        "30",
+        "sentence"
+      ],
+      "language": "vietnamese",
+      "before": "Chúng ta có thể học được những муд khôn trong cuộc sống từ cách sống của tổ tiên.",
+      "after": "Chúng ta có thể học được những sự khôn ngoan trong cuộc sống từ cách sống của tổ tiên."
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "4",
+        "sentence"
+      ],
+      "language": "japanese",
+      "before": "国際機関に加盟した 여러 나라들은 국가 간의 싸움 없이 세계 평화를 유지하기 위해 힘쓰고 있습니다.",
+      "after": "国際機関に加盟した多くの国々は、国家間の争いをなくし、世界平和を維持するために努力しています。"
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "6",
+        "sentence"
+      ],
+      "language": "japanese",
+      "before": "国際機関に加盟した 여러 나라들은 국가 간의 싸움 없이 세계 평화를 유지하기 위해 힘쓰고 있습니다.",
+      "after": "国際機関に加盟した多くの国々は、国家間の争いをなくし、世界平和を維持するために努力しています。"
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "16",
+        "sentence"
+      ],
+      "language": "lebanese",
+      "before": "كنت عم إقرا إعلان عن 모집 موظفين لحتى يبعثوهن يشتغلوا برا البلد.",
+      "after": "كنت عم إقرا إعلان عن توظيف موظفين لحتى يبعثوهن يشتغلوا برا البلد."
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "19",
+        "sentence"
+      ],
+      "language": "lebanese",
+      "before": "كنت عم إقرا إعلان عن 모집 موظفين لحتى يبعثوهن يشتغلوا برا البلد.",
+      "after": "كنت عم إقرا إعلان عن توظيف موظفين لحتى يبعثوهن يشتغلوا برا البلد."
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "20",
+        "sentence"
+      ],
+      "language": "nepali",
+      "before": "मसँग विदेशमा विस्तार भएका कम्पनीहरूमा काम गर्ने साथीहरू छन्। उनीहरू धेरै व्यस्त भए पनि काम खोजेर गर्न मन लाग्ने 정도 रमाइलो छ भन्छन्।",
+      "after": "मसँग विदेशमा विस्तार भएका कम्पनीहरूमा काम गर्ने साथीहरू छन्। उनीहरू धेरै व्यस्त भए पनि काम खोजेर गर्न मन लाग्ने हदसम्म रमाइलो छ भन्छन्।"
+    },
+    {
+      "path": [
+        "lessons",
+        "23",
+        "items",
+        "39",
+        "sentence"
+      ],
+      "language": "japanese",
+      "before": "合格した後は、会社の仕事をしっかり行うために、 꾸준히 공부しています。",
+      "after": "合格した後は、会社の仕事をしっかり行うために、 継続して勉強しています。"
+    },
+    {
+      "path": [
+        "lessons",
+        "25",
+        "items",
+        "3",
+        "sentence"
+      ],
+      "language": "japanese",
+      "before": "インターネットショッピングモールに個人情報を入力しただけで、迷惑メールが 계속届くし、広告の電話も 계속かかってきて、本当に迷惑ですよね。",
+      "after": "インターネットショッピングモールに個人情報を入力しただけで、迷惑メールが 次々と届くし、広告の電話も 次々とかかってきて、本当に迷惑ですよね。"
+    },
+    {
+      "path": [
+        "lessons",
+        "26",
+        "items",
+        "46",
+        "sentence"
+      ],
+      "language": "lebanese",
+      "before": "بسبب هالحريق، حوالي 20 ساكن بالأوفيستيل اضطرّوا ي эвакуوا.",
+      "after": "بسبب هالحريق، حوالي 20 ساكن بالأوفيستيل اضطرّوا يخلّوا المبنى."
+    },
+    {
+      "path": [
+        "lessons",
+        "29",
+        "items",
+        "42",
+        "sentence"
+      ],
+      "language": "lebanese",
+      "before": "بسبب هالحريق، حوالي 20 ساكن بالأوفيستيل اضطرّوا ي эвакуوا.",
+      "after": "بسبب هالحريق، حوالي 20 ساكن بالأوفيستيل اضطرّوا يخلّوا المبنى."
+    },
+    {
+      "path": [
+        "readings",
+        "128",
+        "items",
+        "7"
+      ],
+      "language": "lebanese",
+      "before": "بسبب هالحريق، حوالي 20 ساكن بالأوفيستيل اضطرّوا ي эвакуوا.",
+      "after": "بسبب هالحريق، حوالي 20 ساكن بالأوفيستيل اضطرّوا يخلّوا المبنى."
+    },
+    {
+      "path": [
+        "lessons",
+        "28",
+        "items",
+        "40"
+      ],
+      "language": "nepali",
+      "before": "भर्ना; 모집",
+      "after": "भर्ना"
+    },
+    {
+      "path": [
+        "lessons",
+        "29",
+        "items",
+        "76"
+      ],
+      "language": "thai",
+      "before": "กลุ่มเป้าหมาย; 대상",
+      "after": "กลุ่มเป้าหมาย"
+    },
+    {
+      "path": [
+        "lessons",
+        "65",
+        "items",
+        "2"
+      ],
+      "language": "thai",
+      "before": "กลุ่มเป้าหมาย; 대상",
+      "after": "กลุ่มเป้าหมาย"
+    },
+    {
+      "path": [
+        "lessons",
+        "29",
+        "items",
+        "76"
+      ],
+      "language": "urdu",
+      "before": "ہدف؛ 대상",
+      "after": "ہدف"
+    },
+    {
+      "path": [
+        "lessons",
+        "65",
+        "items",
+        "2"
+      ],
+      "language": "urdu",
+      "before": "ہدف؛ 대상",
+      "after": "ہدف"
+    },
+    {
+      "path": [
+        "lessons",
+        "29",
+        "items",
+        "76",
+        "sentence"
+      ],
+      "language": "nepali",
+      "before": "सदस्यता लिनुपर्ने 대상बाट 제외 हुने अवस्था पनि भएकाले 반드시 जाँच गर्नुपर्छ।",
+      "after": "सदस्यता लिनुपर्ने समूहबाट बाहिर पर्ने हुने अवस्था पनि भएकाले अनिवार्य रूपमा जाँच गर्नुपर्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "49",
+        "items",
+        "7"
+      ],
+      "language": "nepali",
+      "before": "सदस्यता लिनुपर्ने 대상बाट 제외 हुने अवस्था पनि भएकाले 반드시 जाँच गर्नुपर्छ।",
+      "after": "सदस्यता लिनुपर्ने समूहबाट बाहिर पर्ने हुने अवस्था पनि भएकाले अनिवार्य रूपमा जाँच गर्नुपर्छ।"
+    },
+    {
+      "path": [
+        "lessons",
+        "29",
+        "items",
+        "78"
+      ],
+      "language": "burmese",
+      "before": "ပြည့်စုံစွာ 갖ရှိသည်",
+      "after": "ပြည့်စုံစွာ ရှိသည်"
+    },
+    {
+      "path": [
+        "lessons",
+        "30",
+        "items",
+        "21"
+      ],
+      "language": "uzbek",
+      "before": "sepmоq",
+      "after": "sepmoq"
+    },
+    {
+      "path": [
+        "lessons",
+        "30",
+        "items",
+        "36"
+      ],
+      "language": "khmer",
+      "before": "ស្ទីកเกอร์",
+      "after": "ស្ទីកគ័រ"
+    },
+    {
+      "path": [
+        "lessons",
+        "30",
+        "items",
+        "36",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "សព្វថ្ងៃ ពេលបោះចោលផលិតផលប្លាស្ទិក ខ្ញុំលាងវាជាមួយទឹកម្តង ហើយបកស្ទីកเกอร์ចេញសិន មុននឹងបោះចោល។",
+      "after": "សព្វថ្ងៃ ពេលបោះចោលផលិតផលប្លាស្ទិក ខ្ញុំលាងវាជាមួយទឹកម្តង ហើយបកស្ទីកគ័រចេញសិន មុននឹងបោះចោល។"
+    },
+    {
+      "path": [
+        "lessons",
+        "31",
+        "items",
+        "3",
+        "sentence"
+      ],
+      "language": "sinhala",
+      "before": "රැකියා වැඩි වීම තබා, बेरोज़ගාරී අනුපාතය තවදුරටත් ඉහළ යමින් පවතී.",
+      "after": "රැකියා වැඩි වීම තබා, විරැකියා අනුපාතය තවදුරටත් ඉහළ යමින් පවතී."
+    },
+    {
+      "path": [
+        "lessons",
+        "31",
+        "items",
+        "4",
+        "sentence"
+      ],
+      "language": "sinhala",
+      "before": "රැකියා වැඩි වීම තබා, बेरोज़ගාරී අනුපාතය තවදුරටත් ඉහළ යමින් පවතී.",
+      "after": "රැකියා වැඩි වීම තබා, විරැකියා අනුපාතය තවදුරටත් ඉහළ යමින් පවතී."
+    },
+    {
+      "path": [
+        "lessons",
+        "31",
+        "items",
+        "27",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "នៅពេលចូលដល់រដូវមិនសូវមានភ្ញៀវ មនុស្សដែលស្វែងរកសណ្ឋាគារក៏ថយចុះ ដូច្នេះថ្លៃសណ្ឋាគារក៏ថោកลง។",
+      "after": "នៅពេលចូលដល់រដូវមិនសូវមានភ្ញៀវ មនុស្សដែលស្វែងរកសណ្ឋាគារក៏ថយចុះ ដូច្នេះថ្លៃសណ្ឋាគារក៏ថោកជាងមុន។"
+    },
+    {
+      "path": [
+        "lessons",
+        "31",
+        "items",
+        "33",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "ការស្លៀកពាក់ស្អាតសមរម្យគឺសមស្របសម្រាប់ช่วงសេដ្ឋកិច្ចធ្លាក់ចុះ ព្រោះវាផ្តល់ភាពគួរឱ្យទុកចិត្ត និងអារម្មណ៍មានស្ថិរភាព។",
+      "after": "ការស្លៀកពាក់ស្អាតសមរម្យគឺសមស្របសម្រាប់អំឡុងពេលសេដ្ឋកិច្ចធ្លាក់ចុះ ព្រោះវាផ្តល់ភាពគួរឱ្យទុកចិត្ត និងអារម្មណ៍មានស្ថិរភាព។"
+    },
+    {
+      "path": [
+        "lessons",
+        "31",
+        "items",
+        "34",
+        "sentence"
+      ],
+      "language": "khmer",
+      "before": "ការស្លៀកពាក់ស្អាតសមរម្យគឺសមស្របសម្រាប់ช่วงសេដ្ឋកិច្ចធ្លាក់ចុះ ព្រោះវាផ្តល់ភាពគួរឱ្យទុកចិត្ត និងអារម្មណ៍មានស្ថិរភាព។",
+      "after": "ការស្លៀកពាក់ស្អាតសមរម្យគឺសមស្របសម្រាប់អំឡុងពេលសេដ្ឋកិច្ចធ្លាក់ចុះ ព្រោះវាផ្តល់ភាពគួរឱ្យទុកចិត្ត និងអារម្មណ៍មានស្ថិរភាព។"
+    },
+    {
+      "path": [
+        "lessons",
+        "32",
+        "items",
+        "9"
+      ],
+      "language": "spanish",
+      "before": "prohibido estacionar y detenerся",
+      "after": "prohibido estacionar y detenerse"
+    },
+    {
+      "path": [
+        "lessons",
+        "33",
+        "items",
+        "15",
+        "sentence"
+      ],
+      "language": "wolof",
+      "before": "Gannaaw bi ma dogalee noonu, ci njëkk dafa ma sonn xel ndax dama man a am ndam ni model walla déedet. Waaye dama liggéeyoon lool ngir sama gént gi mat, ba man a taxaw ci मंच bi ni model.",
+      "after": "Gannaaw bi ma dogalee noonu, ci njëkk dafa ma sonn xel ndax dama man a am ndam ni model walla déedet. Waaye dama liggéeyoon lool ngir sama gént gi mat, ba man a taxaw ci paltform bi ni model."
+    },
+    {
+      "path": [
+        "lessons",
+        "33",
+        "items",
+        "16",
+        "sentence"
+      ],
+      "language": "wolof",
+      "before": "Gannaaw bi ma dogalee noonu, ci njëkk dafa ma sonn xel ndax dama man a am ndam ni model walla déedet. Waaye dama liggéeyoon lool ngir sama gént gi mat, ba man a taxaw ci मंच bi ni model.",
+      "after": "Gannaaw bi ma dogalee noonu, ci njëkk dafa ma sonn xel ndax dama man a am ndam ni model walla déedet. Waaye dama liggéeyoon lool ngir sama gént gi mat, ba man a taxaw ci paltform bi ni model."
+    },
+    {
+      "path": [
+        "lessons",
+        "33",
+        "items",
+        "20",
+        "sentence"
+      ],
+      "language": "japanese",
+      "before": "センターでパソコンを学びながら、 꾸준히 자기 계발을 하려고 해요。",
+      "after": "センターでパソコンを学びながら、継続して自己啓発に取り組もうと思っています。"
+    },
+    {
+      "path": [
+        "lessons",
+        "34",
+        "items",
+        "3"
+      ],
+      "language": "khmer",
+      "before": "รุ่นមុន",
+      "after": "សិស្សច្បង; បុគ្គលិកច្បង"
+    },
+    {
+      "path": [
+        "lessons",
+        "34",
+        "items",
+        "5"
+      ],
+      "language": "khmer",
+      "before": "รุ่นក្រោយ",
+      "after": "សិស្សប្អូន; បុគ្គលិកដែលចូលក្រោយ"
+    },
+    {
+      "path": [
+        "lessons",
+        "34",
+        "items",
+        "32"
+      ],
+      "language": "mongolian",
+      "before": "Баไчигдах; бухимдах",
+      "after": "Баачигдах; бухимдах"
+    },
+    {
+      "path": [
+        "lessons",
+        "37",
+        "items",
+        "25"
+      ],
+      "language": "sinhala",
+      "before": "অসম্ভවයි",
+      "after": "කළ නොහැකියි"
+    },
+    {
+      "path": [
+        "lessons",
+        "38",
+        "items",
+        "30"
+      ],
+      "language": "bengali",
+      "before": "খরচটা 부담스럽다",
+      "after": "খরচটা ভারী বোঝা মনে হয়"
+    },
+    {
+      "path": [
+        "lessons",
+        "38",
+        "items",
+        "30"
+      ],
+      "language": "japanese",
+      "before": "費用が 부담스럽다",
+      "after": "費用が 負担になる"
+    },
+    {
+      "path": [
+        "lessons",
+        "38",
+        "items",
+        "30"
+      ],
+      "language": "vietnamese",
+      "before": "cảm thấy chi phí 부담",
+      "after": "cảm thấy chi phí là gánh nặng"
+    },
+    {
+      "path": [
+        "lessons",
+        "40",
+        "items",
+        "43"
+      ],
+      "language": "vietnamese",
+      "before": "không 부담",
+      "after": "không có gánh nặng"
+    },
+    {
+      "path": [
+        "lessons",
+        "41",
+        "items",
+        "2"
+      ],
+      "language": "khmer",
+      "before": "ទឹកសណ្តែកหมัก doenjang",
+      "after": "ម្សៅសណ្តែកសៀងផ្អាប់ doenjang"
+    },
+    {
+      "path": [
+        "lessons",
+        "41",
+        "items",
+        "41"
+      ],
+      "language": "sinhala",
+      "before": "එතරම් රසයි कि දෙදෙනාගෙන් එක් කෙනෙක් මිය ගියත් අනෙක් කෙනාට දැනෙන්නේ නැහැ.",
+      "after": "දෙදෙනා එකට කන විට එක් අයෙකු මිය ගියත් අනෙක් අය නොදැනෙන තරම් රසවත්ය."
+    },
+    {
+      "path": [
+        "lessons",
+        "44",
+        "items",
+        "8"
+      ],
+      "language": "uzbek",
+      "before": "chonsе (bir martalik ijara)",
+      "after": "chonse (bir martalik ijara)"
+    },
+    {
+      "path": [
+        "lessons",
+        "45",
+        "items",
+        "15"
+      ],
+      "language": "mongolian",
+      "before": "Цаасан шувуу нисгэж, жэгичаги тоглохыг 즐 즐",
+      "after": "Цаасан шувуу нисгэж, жэгичаги тоглохыг таашаах"
+    },
+    {
+      "path": [
+        "lessons",
+        "46",
+        "items",
+        "9"
+      ],
+      "language": "mongolian",
+      "before": "өгөх; 제출 хийх",
+      "after": "өгөх; хүлээлгэн өгөх"
+    },
+    {
+      "path": [
+        "lessons",
+        "46",
+        "items",
+        "39",
+        "sentence"
+      ],
+      "language": "sinhala",
+      "before": "JobKorea ආයතනය සේවකයන් 1,049 දෙනෙකු 대상으로 රැකියා ස්ථානයේ වඩාත්ම දුෂ්කර දේ සහ එම දුෂ්කරතා ජය ගන්නා ආකාරය පිළිබඳ සමීක්ෂණයක් පැවැත්වීය.",
+      "after": "JobKorea ආයතනය සේවකයන් 1,049 දෙනෙකු සම්බන්ධ කරගෙන රැකියා ස්ථානයේ වඩාත්ම දුෂ්කර දේ සහ එම දුෂ්කරතා ජය ගන්නා ආකාරය පිළිබඳ සමීක්ෂණයක් පැවැත්වීය."
+    },
+    {
+      "path": [
+        "readings",
+        "116",
+        "items",
+        "0"
+      ],
+      "language": "sinhala",
+      "before": "JobKorea ආයතනය සේවකයන් 1,049 දෙනෙකු 대상으로 රැකියා ස්ථානයේ වඩාත්ම දුෂ්කර දේ සහ එම දුෂ්කරතා ජය ගන්නා ආකාරය පිළිබඳ සමීක්ෂණයක් පැවැත්වීය.",
+      "after": "JobKorea ආයතනය සේවකයන් 1,049 දෙනෙකු සම්බන්ධ කරගෙන රැකියා ස්ථානයේ වඩාත්ම දුෂ්කර දේ සහ එම දුෂ්කරතා ජය ගන්නා ආකාරය පිළිබඳ සමීක්ෂණයක් පැවැත්වීය."
+    },
+    {
+      "path": [
+        "readings",
+        "6",
+        "items",
+        "0"
+      ],
+      "language": "burmese",
+      "before": "ကိုရီးယားလူမျိုးတွေက စနေ၊ တနင်္ဂနွေမှာ အနားယူကြတယ် ဒါမှမဟုတ် ဝါသနာတွေကို 즐겨요။",
+      "after": "ကိုရီးယားလူမျိုးတွေက စနေ၊ တနင်္ဂနွေမှာ အနားယူကြတယ် ဒါမှမဟုတ် ဝါသနာတွေကို ပျော်ရွှင်စွာ လုပ်ဆောင်ကြတယ်။"
+    },
+    {
+      "path": [
+        "readings",
+        "21",
+        "items",
+        "2"
+      ],
+      "language": "urdu",
+      "before": "ایسی دول레 گِل پگڈنڈیاں بھی ہیں جہاں لوگ خوبصورت مناظر دیکھتے ہوئے آہستہ آہستہ چلتے ہیں۔",
+      "after": "ایسی دُلے گِل پگڈنڈیاں بھی ہیں جہاں لوگ خوبصورت مناظر دیکھتے ہوئے آہستہ آہستہ چلتے ہیں۔"
+    },
+    {
+      "path": [
+        "readings",
+        "21",
+        "items",
+        "4"
+      ],
+      "language": "urdu",
+      "before": "لوگ عوامی پارکوں، دول레 گِل پگڈنڈیوں اور آرام گاہوں میں خوشگوار وقت گزارتے ہیں۔",
+      "after": "لوگ عوامی پارکوں، دُلے گِل پگڈنڈیوں اور آرام گاہوں میں خوشگوار وقت گزارتے ہیں۔"
+    },
+    {
+      "path": [
+        "readings",
+        "36",
+        "items",
+        "4"
+      ],
+      "language": "wolof",
+      "before": "‘Programu tàggatoo bu njëkk’ mooy program bu doxandéem yi bokk ci jamono bu ñu تازه ñëwe Kore, ngir dimbali leen ñu tàggatoo gaaw ci dund ci Kore.",
+      "after": "‘Programu tàggatoo bu njëkk’ mooy program bu doxandéem yi bokk ci jamono bu ñu ba noppi ñëwe Kore, ngir dimbali leen ñu tàggatoo gaaw ci dund ci Kore."
+    },
+    {
+      "path": [
+        "readings",
+        "39",
+        "items",
+        "4"
+      ],
+      "language": "japanese",
+      "before": "しかし最近は、成人の日になると、特別な行事に参加する人よりも、友達同士でプレゼントを交換しながら祝う人のほাশি।",
+      "after": "しかし最近は、成人の日になると、特別な行事に参加する人よりも、友達同士でプレゼントを交換しながら祝う人のほうが多いです।"
+    },
+    {
+      "path": [
+        "readings",
+        "40",
+        "items",
+        "4"
+      ],
+      "language": "spanish",
+      "before": "Las letras de Arirang hablan del amor, la separación y las dificultades de la vida en семье del marido, entre otros temas; por eso representan los sentimientos y el profundo pesar del pueblo coreano.",
+      "after": "Las letras de Arirang hablan del amor, la separación y las dificultades de la vida en la familia del marido, entre otros temas; por eso representan los sentimientos y el profundo pesar del pueblo coreano."
+    },
+    {
+      "path": [
+        "readings",
+        "40",
+        "items",
+        "5"
+      ],
+      "language": "spanish",
+      "before": "Como Arirang representa tan bien los sentimientos coreanos, se cantaba a menudo para confirmar la identidad común de los coreanos y когда era necesaria la unidad.",
+      "after": "Como Arirang representa tan bien los sentimientos coreanos, se cantaba a menudo para confirmar la identidad común de los coreanos y cuando era necesaria la unidad."
+    },
+    {
+      "path": [
+        "readings",
+        "40",
+        "items",
+        "8"
+      ],
+      "language": "spanish",
+      "before": "Al cantarse rápida o lentamente, con tristeza o alegría, Arirang sigue siendo querido por los coreanos modernos в una nueva forma.",
+      "after": "Al cantarse rápida o lentamente, con tristeza o alegría, Arirang sigue siendo querido por los coreanos modernos en una nueva forma."
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "2"
+      ],
+      "language": "nepali",
+      "before": "राष्ट्रिय स्वास्थ्य बीमा सामाजिक बीमा हो, जसमा प्रत्येक व्यक्तिको इच्छाको पर्वाह नगरी सबै नागरिकले व्यक्तिगत वा पारिवारिक रूपमा 가입 गरेर निश्चित बीमा शुल्क तिर्नुपर्छ।",
+      "after": "राष्ट्रिय स्वास्थ्य बीमा सामाजिक बीमा हो, जसमा प्रत्येक व्यक्तिको इच्छाको पर्वाह नगरी सबै नागरिकले व्यक्तिगत वा पारिवारिक रूपमा सहभागी भएर निश्चित बीमा शुल्क तिर्नुपर्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "2"
+      ],
+      "language": "bengali",
+      "before": "জাতীয় স্বাস্থ্যবিমা হলো একটি সামাজিক বিমা, যাতে প্রত্যেক ব্যক্তির ইচ্ছা-অনিচ্ছা নির্বিশেষে সবাইকে ব্যক্তি বা পরিবার হিসেবে 가입 করে নির্দিষ্ট বিমার কিস্তি দিতে হয়।",
+      "after": "জাতীয় স্বাস্থ্যবিমা হলো একটি সামাজিক বিমা, যাতে প্রত্যেক ব্যক্তির ইচ্ছা-অনিচ্ছা নির্বিশেষে সবাইকে ব্যক্তি বা পরিবার হিসেবে যোগ দিয়ে নির্দিষ্ট বিমার কিস্তি দিতে হয়।"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "2"
+      ],
+      "language": "burmese",
+      "before": "အမျိုးသားကျန်းမာရေးအာမခံသည် တစ်ဦးချင်းစီ၏ ဆန္ဒနှင့်မသက်ဆိုင်ဘဲ ပြည်သူအားလုံးက တစ်ဦးချင်း သို့မဟုတ် မိသားစုအလိုက် 가입၍ သတ်မှတ်ထားသော အာမခံကြေးပေးရသည့် လူမှုအာမခံဖြစ်သည်။",
+      "after": "အမျိုးသားကျန်းမာရေးအာမခံသည် တစ်ဦးချင်းစီ၏ ဆန္ဒနှင့်မသက်ဆိုင်ဘဲ ပြည်သူအားလုံးက တစ်ဦးချင်း သို့မဟုတ် မိသားစုအလိုက် ပါဝင်၍ သတ်မှတ်ထားသော အာမခံကြေးပေးရသည့် လူမှုအာမခံဖြစ်သည်။"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "4"
+      ],
+      "language": "nepali",
+      "before": "विदेशीहरू र विदेशमा बस्ने कोरियालीहरू पनि राष्ट्रिय स्वास्थ्य बीमामा 가입 गर्न सक्छन्।",
+      "after": "विदेशीहरू र विदेशमा बस्ने कोरियालीहरू पनि राष्ट्रिय स्वास्थ्य बीमामा सहभागी गर्न सक्छन्।"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "4"
+      ],
+      "language": "bengali",
+      "before": "বিদেশি এবং বিদেশে বসবাসকারী কোরিয়ানরাও জাতীয় স্বাস্থ্যবিমায় 가입 করতে পারেন।",
+      "after": "বিদেশি এবং বিদেশে বসবাসকারী কোরিয়ানরাও জাতীয় স্বাস্থ্যবিমায় যোগদান করতে পারেন।"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "5"
+      ],
+      "language": "nepali",
+      "before": "बसाइको योग्यताअनुसार केही फरक भए पनि, सामान्यतया कोरियामा ६ महिना वा त्यसभन्दा बढी बस्ने व्यक्तिहरू बीमामा 가입 गर्न योग्य हुन्छन्। विदेशीको रूपमा दर्ता गरेपछि उनीहरूले कार्यस्थल वा स्थानीय आधारमा 가입 गर्न सक्छन्।",
+      "after": "बसाइको योग्यताअनुसार केही फरक भए पनि, सामान्यतया कोरियामा ६ महिना वा त्यसभन्दा बढी बस्ने व्यक्तिहरू बीमामा सहभागिता गर्न योग्य हुन्छन्। विदेशीको रूपमा दर्ता गरेपछि उनीहरूले कार्यस्थल वा स्थानीय आधारमा सहभागिता गर्न सक्छन्।"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "5"
+      ],
+      "language": "burmese",
+      "before": "နေထိုင်ခွင့်အမျိုးအစားအလိုက် အနည်းငယ်ကွာခြားသော်လည်း ယေဘုယျအားဖြင့် ကိုရီးယားတွင် ခြောက်လနှင့်အထက် နေထိုင်ပါက 가입ခွင့်ရပြီး နိုင်ငံခြားသားမှတ်ပုံတင်ပြီးနောက် အလုပ်ခွင် သို့မဟုတ် ဒေသအလိုက် 가입နိုင်သည်။",
+      "after": "နေထိုင်ခွင့်အမျိုးအစားအလိုက် အနည်းငယ်ကွာခြားသော်လည်း ယေဘုယျအားဖြင့် ကိုရီးယားတွင် ခြောက်လနှင့်အထက် နေထိုင်ပါက ပါဝင်ခွင့်ရပြီး နိုင်ငံခြားသားမှတ်ပုံတင်ပြီးနောက် အလုပ်ခွင် သို့မဟုတ် ဒေသအလိုက် ပါဝင်နိုင်သည်။"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "5"
+      ],
+      "language": "russian",
+      "before": "Хотя это немного зависит от статуса пребывания, обычно человек получает право на 가입, если живёт в Корее не менее шести месяцев; после регистрации иностранца можно вступить через место работы или по месту жительства.",
+      "after": "Хотя это немного зависит от статуса пребывания, обычно человек получает право на участие в страховании, если живёт в Корее не менее шести месяцев; после регистрации иностранца можно вступить через место работы или по месту жительства."
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "6"
+      ],
+      "language": "nepali",
+      "before": "६ महिनाभन्दा कम समय बसेका विदेशीहरूले पनि अध्ययन वा विवाहजस्ता कारणले ६ महिना वा त्यसभन्दा बढी बस्ने कुरा निश्चित भएमा बीमामा 가입 गर्न सक्छन्।",
+      "after": "६ महिनाभन्दा कम समय बसेका विदेशीहरूले पनि अध्ययन वा विवाहजस्ता कारणले ६ महिना वा त्यसभन्दा बढी बस्ने कुरा निश्चित भएमा बीमामा सहभागी हुन गर्न सक्छन्।"
+    },
+    {
+      "path": [
+        "readings",
+        "42",
+        "items",
+        "6"
+      ],
+      "language": "burmese",
+      "before": "ခြောက်လကျော် မနေထိုင်ရသေးသော နိုင်ငံခြားသားပင်လျှင် ပညာသင်ကြားခြင်း သို့မဟုတ် လက်ထပ်ခြင်းစသည့် အကြောင်းများကြောင့် ခြောက်လကျော် နေထိုင်မည်မှာ သေချာပါက 가입နိုင်သည်။",
+      "after": "ခြောက်လကျော် မနေထိုင်ရသေးသော နိုင်ငံခြားသားပင်လျှင် ပညာသင်ကြားခြင်း သို့မဟုတ် လက်ထပ်ခြင်းစသည့် အကြောင်းများကြောင့် ခြောက်လကျော် နေထိုင်မည်မှာ သေချာပါက ပါဝင်နိုင်သည်။"
+    },
+    {
+      "path": [
+        "readings",
+        "50",
+        "items",
+        "4"
+      ],
+      "language": "vietnamese",
+      "before": "Mặt khác, các cơ quan như Bộ Tư pháp và Cơ quan Cảnh sát Quốc gia đang 운영 blog hoặc kênh YouTube.",
+      "after": "Mặt khác, các cơ quan như Bộ Tư pháp và Cơ quan Cảnh sát Quốc gia đang điều hành blog hoặc kênh YouTube."
+    },
+    {
+      "path": [
+        "readings",
+        "51",
+        "items",
+        "6"
+      ],
+      "language": "vietnamese",
+      "before": "Sau khi nhận được thông báo cho phép nhập quốc tịch, bạn phải xin cấp giấy chứng nhận cơ bản và nộp tại tòa thị chính, văn phòng quận hoặc trung tâm 주민.",
+      "after": "Sau khi nhận được thông báo cho phép nhập quốc tịch, bạn phải xin cấp giấy chứng nhận cơ bản và nộp tại tòa thị chính, văn phòng quận hoặc trung tâm hành chính địa phương."
+    },
+    {
+      "path": [
+        "readings",
+        "51",
+        "items",
+        "6"
+      ],
+      "language": "lebanese",
+      "before": "لما تستلم إشعار الموافقة على التجنّس، لازم تطلع إفادة أساسية وتقدّمها بالبلدية، أو القائمقامية، أو مركز 주민.",
+      "after": "لما تستلم إشعار الموافقة على التجنّس، لازم تطلع إفادة أساسية وتقدّمها بالبلدية، أو القائمقامية، أو مركز خدمات السكان."
+    },
+    {
+      "path": [
+        "readings",
+        "51",
+        "items",
+        "6"
+      ],
+      "language": "urdu",
+      "before": "نیچرلائزیشن کی منظوری کا نوٹس ملنے کے بعد بنیادی سرٹیفکیٹ جاری کروا کر اسے سٹی ہال، ضلع دفتر یا 주민 مرکز میں جمع کرانا ضروری ہے۔",
+      "after": "نیچرلائزیشن کی منظوری کا نوٹس ملنے کے بعد بنیادی سرٹیفکیٹ جاری کروا کر اسے سٹی ہال، ضلع دفتر یا مقامی شہری خدمات کے مرکز میں جمع کرانا ضروری ہے۔"
+    },
+    {
+      "path": [
+        "readings",
+        "51",
+        "items",
+        "6"
+      ],
+      "language": "russian",
+      "before": "После получения уведомления о разрешении на натурализацию нужно получить основную справку и подать её в мэрию, районную администрацию или 주민센터 — местный 주민ный центр.",
+      "after": "После получения уведомления о разрешении на натурализацию нужно получить основную справку и подать её в мэрию, районную администрацию или местный административный центр."
+    },
+    {
+      "path": [
+        "readings",
+        "60",
+        "items",
+        "4"
+      ],
+      "language": "thai",
+      "before": "นอกจากนี้ยังมีคน কয়েকคนยืนรอเข้าคิวอยู่ด้วย",
+      "after": "นอกจากนี้ยังมีคน หลายคนยืนรอเข้าคิวอยู่ด้วย"
+    },
+    {
+      "path": [
+        "readings",
+        "62",
+        "items",
+        "0"
+      ],
+      "language": "english",
+      "before": "Korea’s 대표 holidays are Seollal and Chuseok.",
+      "after": "Korea’s major traditional holidays are Seollal and Chuseok."
+    },
+    {
+      "path": [
+        "readings",
+        "62",
+        "items",
+        "7"
+      ],
+      "language": "khmer",
+      "before": "នៅថ្ងៃនេះ មនុស្សញ៉ាំសុងព្យុន ហើយបួងសួងសុំพร ខណៈពេលមើលព្រះចន្ទពេញវង់។",
+      "after": "នៅថ្ងៃនេះ មនុស្សញ៉ាំសុងព្យុន ហើយបួងសួងសុំសេចក្ដីសុខ ខណៈពេលមើលព្រះចន្ទពេញវង់។"
+    },
+    {
+      "path": [
+        "readings",
+        "75",
+        "items",
+        "5"
+      ],
+      "language": "uzbek",
+      "before": "Kulганда",
+      "after": "Kulganda"
+    },
+    {
+      "path": [
+        "readings",
+        "83",
+        "items",
+        "4"
+      ],
+      "language": "nepali",
+      "before": "अनलाइन पूर्व예약 भ्रमण सेवा प्रयोग गर्न पहिले HiKorea (www.hikorea.go.kr) मा जानुपर्छ।",
+      "after": "अनलाइन पूर्व आरक्षण भ्रमण सेवा प्रयोग गर्न पहिले HiKorea (www.hikorea.go.kr) मा जानुपर्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "87",
+        "items",
+        "1"
+      ],
+      "language": "urdu",
+      "before": "ثقافت کے دن ملک بھر میں موجود سنیما گھروں، 공연 گاہوں، عجائب گھروں، آرٹ گیلریوں اور کھیلوں کی سہولیات جیسی ثقافتی جگہوں سے رعایتی قیمت پر یا مفت لطف اندوز ہو سکتے ہیں۔",
+      "after": "ثقافت کے دن ملک بھر میں موجود سنیما گھروں، نمائش گاہوں، عجائب گھروں، آرٹ گیلریوں اور کھیلوں کی سہولیات جیسی ثقافتی جگہوں سے رعایتی قیمت پر یا مفت لطف اندوز ہو سکتے ہیں۔"
+    },
+    {
+      "path": [
+        "readings",
+        "87",
+        "items",
+        "1"
+      ],
+      "language": "bengali",
+      "before": "সংস্কৃতি দিবসে সারা দেশের সিনেমা হল, 공연স্থল, জাদুঘর, শিল্পকলা গ্যালারি ও ক্রীড়া স্থাপনাসহ বিভিন্ন সাংস্কৃতিক স্থাপনা ছাড়ের দামে বা বিনামূল্যে উপভোগ করা যায়।",
+      "after": "সংস্কৃতি দিবসে সারা দেশের সিনেমা হল, অনুষ্ঠানস্থল, জাদুঘর, শিল্পকলা গ্যালারি ও ক্রীড়া স্থাপনাসহ বিভিন্ন সাংস্কৃতিক স্থাপনা ছাড়ের দামে বা বিনামূল্যে উপভোগ করা যায়।"
+    },
+    {
+      "path": [
+        "readings",
+        "87",
+        "items",
+        "1"
+      ],
+      "language": "japanese",
+      "before": "文化のある日には、映画館、 공연장、博物館、美術館、スポーツ施設など、全国にある文化施設を割引料金または無料で利用できます。",
+      "after": "文化のある日には、映画館、 公演会場、博物館、美術館、スポーツ施設など、全国にある文化施設を割引料金または無料で利用できます。"
+    },
+    {
+      "path": [
+        "readings",
+        "87",
+        "items",
+        "2"
+      ],
+      "language": "vietnamese",
+      "before": "Ngoài ra, mỗi 지역 đều có những chương trình đặc sắc, vì vậy bạn có thể trải nghiệm nền văn hóa đa dạng của Hàn Quốc.",
+      "after": "Ngoài ra, mỗi khu vực đều có những chương trình đặc sắc, vì vậy bạn có thể trải nghiệm nền văn hóa đa dạng của Hàn Quốc."
+    },
+    {
+      "path": [
+        "readings",
+        "87",
+        "items",
+        "2"
+      ],
+      "language": "bengali",
+      "before": "এছাড়া, প্রতিটি অঞ্চলে নিজস্ব বৈশিষ্ট্যের অনুষ্ঠান থাকায় কোরিয়ার বৈচিত্র্যময় সংস্কৃতি अनुभव করা যায়।",
+      "after": "এছাড়া, প্রতিটি অঞ্চলে নিজস্ব বৈশিষ্ট্যের অনুষ্ঠান থাকায় কোরিয়ার বৈচিত্র্যময় সংস্কৃতি উপভোগ করা যায়।"
+    },
+    {
+      "path": [
+        "readings",
+        "88",
+        "items",
+        "3"
+      ],
+      "language": "mongolian",
+      "before": "Ууланд авирах, хөгжмийн зэмсэг тоглох, спорт зэрэг ижил сонирхолтой зүйлсийг хамтдаа 즐дэг хүмүүсийн бүлгийг сонирхлын клуб гэдэг.",
+      "after": "Ууланд авирах, хөгжмийн зэмсэг тоглох, спорт зэрэг ижил сонирхолтой зүйлсийг хамтдаа таашаадаг хүмүүсийн бүлгийг сонирхлын клуб гэдэг."
+    },
+    {
+      "path": [
+        "readings",
+        "92",
+        "items",
+        "3"
+      ],
+      "language": "nepali",
+      "before": "आवधिक बचतको ब्याजदर बैंकअनुसार फरक हुन्छ, र ब्याज 가입 अवधि वा रकमअनुसार पनि फरक पर्छ।",
+      "after": "आवधिक बचतको ब्याजदर बैंकअनुसार फरक हुन्छ, र ब्याज बचत गर्ने अवधि वा रकमअनुसार पनि फरक पर्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "92",
+        "items",
+        "4"
+      ],
+      "language": "nepali",
+      "before": "सामान्यतया, 가입 अवधि लामो भएमा ब्याज बढी हुन्छ।",
+      "after": "सामान्यतया, बचत गर्ने अवधि लामो भएमा ब्याज बढी हुन्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "92",
+        "items",
+        "8"
+      ],
+      "language": "nepali",
+      "before": "आवधिक बचतमा 가입 गर्नुअघि पहिले धेरै बैंकका ब्याजदरहरू तुलना गर्नु आवश्यक छ।",
+      "after": "आवधिक बचतमा सहभागी गर्नुअघि पहिले धेरै बैंकका ब्याजदरहरू तुलना गर्नु आवश्यक छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "99",
+        "items",
+        "7"
+      ],
+      "language": "urdu",
+      "before": "آج بھی گانگ نُنگ دانو جے میں ہر سال خوش حالی کی دعا کے لیے رسومات اور 공연 منعقد کیے جاتے ہیں، اور شرکا کے لیے مختلف پروگرام بھی ہوتے ہیں۔",
+      "after": "آج بھی گانگ نُنگ دانو جے میں ہر سال خوش حالی کی دعا کے لیے رسومات اور ثقافتی پروگرام منعقد کیے جاتے ہیں، اور شرکا کے لیے مختلف پروگرام بھی ہوتے ہیں۔"
+    },
+    {
+      "path": [
+        "readings",
+        "102",
+        "items",
+        "2"
+      ],
+      "language": "thai",
+      "before": "มีศูนย์ให้คำปรึกษาสำหรับผู้อพยพหลายแห่งในแต่ละภูมิภาค ตัวอย่างที่ 대표คือ ‘ศูนย์ช่วยเหลือแรงงานต่างชาติ’",
+      "after": "มีศูนย์ให้คำปรึกษาสำหรับผู้อพยพหลายแห่งในแต่ละภูมิภาค ตัวอย่างที่ สำคัญคือ ‘ศูนย์ช่วยเหลือแรงงานต่างชาติ’"
+    },
+    {
+      "path": [
+        "readings",
+        "102",
+        "items",
+        "2"
+      ],
+      "language": "nepali",
+      "before": "आप्रवासीहरूका लागि विभिन्न क्षेत्रमा धेरै परामर्श केन्द्रहरू छन्। यसको 대표 उदाहरण ‘विदेशी श्रमिक सहायता केन्द्र’ हो।",
+      "after": "आप्रवासीहरूका लागि विभिन्न क्षेत्रमा धेरै परामर्श केन्द्रहरू छन्। यसको प्रमुख उदाहरण ‘विदेशी श्रमिक सहायता केन्द्र’ हो।"
+    },
+    {
+      "path": [
+        "readings",
+        "102",
+        "items",
+        "2"
+      ],
+      "language": "russian",
+      "before": "В разных регионах есть много консультационных центров для иммигрантов. Один из 대표ичных примеров — «Центр поддержки иностранных работников».",
+      "after": "В разных регионах есть много консультационных центров для иммигрантов. Один из характерных примеров — «Центр поддержки иностранных работников»."
+    },
+    {
+      "path": [
+        "readings",
+        "103",
+        "items",
+        "1"
+      ],
+      "language": "nepali",
+      "before": "आजभोलि ७ दिनलाई एक एकाइ मानेर जीवन बिताइए पनि, पुरानो समयमा मानिसहरूले 절기 प्रयोग गरेर १५ दिनलाई एकाइ मानी जीवन बिताउँथे भन्न सकिन्छ।",
+      "after": "आजभोलि ७ दिनलाई एक एकाइ मानेर जीवन बिताइए पनि, पुरानो समयमा मानिसहरूले सौर ऋतु-अवधि प्रयोग गरेर १५ दिनलाई एकाइ मानी जीवन बिताउँथे भन्न सकिन्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "103",
+        "items",
+        "1"
+      ],
+      "language": "urdu",
+      "before": "آج کے برعکس، جب ہم سات دن کو ایک اکائی مان کر زندگی گزارتے ہیں، قدیم زمانے میں لوگ 절기 استعمال کرتے ہوئے 15 دن کو ایک اکائی مان کر زندگی گزارتے تھے۔",
+      "after": "آج کے برعکس، جب ہم سات دن کو ایک اکائی مان کر زندگی گزارتے ہیں، قدیم زمانے میں لوگ شمسی موسمی ادوار استعمال کرتے ہوئے 15 دن کو ایک اکائی مان کر زندگی گزارتے تھے۔"
+    },
+    {
+      "path": [
+        "readings",
+        "103",
+        "items",
+        "2"
+      ],
+      "language": "nepali",
+      "before": "२४ 절기 आजकल धेरै प्रयोग हुँदैनन्, तर केही 절기 अझै पनि ऋतु परिवर्तनको सङ्केत दिने दिनका रूपमा कोरियालीहरूको दैनिक जीवनमा रहेका छन्।",
+      "after": "२४ सौर ऋतु-अवधि आजकल धेरै प्रयोग हुँदैनन्, तर केही सौर ऋतु-अवधि अझै पनि ऋतु परिवर्तनको सङ्केत दिने दिनका रूपमा कोरियालीहरूको दैनिक जीवनमा रहेका छन्।"
+    },
+    {
+      "path": [
+        "readings",
+        "103",
+        "items",
+        "3"
+      ],
+      "language": "nepali",
+      "before": "यी 절기हरूमध्ये मानिसहरूलाई परिचित 절기हरू इप्चुन, चुन्बुन, हाजी, चुबुन र दोङ्जी आदि हुन्।",
+      "after": "यी सौर ऋतु-अवधिहरूमध्ये मानिसहरूलाई परिचित सौर ऋतु-अवधिहरू इप्चुन, चुन्बुन, हाजी, चुबुन र दोङ्जी आदि हुन्।"
+    },
+    {
+      "path": [
+        "readings",
+        "108",
+        "items",
+        "4"
+      ],
+      "language": "vietnamese",
+      "before": "Lý do nhiều phụ huynh mua đồ dùng chăm sóc trẻ đã qua sử dụng là “có thể giảm chi phí”, chiếm tỷ lệ cao nhất 52,1%. Tiếp theo là “chi phí mua sản phẩm mới quá 부담”, chiếm 33,4%, và “thời gian sử dụng sản phẩm ngắn”, chiếm 14,5%.",
+      "after": "Lý do nhiều phụ huynh mua đồ dùng chăm sóc trẻ đã qua sử dụng là “có thể giảm chi phí”, chiếm tỷ lệ cao nhất 52,1%. Tiếp theo là “chi phí mua sản phẩm mới là gánh nặng quá lớn”, chiếm 33,4%, và “thời gian sử dụng sản phẩm ngắn”, chiếm 14,5%."
+    },
+    {
+      "path": [
+        "readings",
+        "110",
+        "items",
+        "3"
+      ],
+      "language": "english",
+      "before": "So you can enjoy cultural activities without 부담.",
+      "after": "So you can enjoy cultural activities without financial strain."
+    },
+    {
+      "path": [
+        "readings",
+        "110",
+        "items",
+        "3"
+      ],
+      "language": "nepali",
+      "before": "त्यसैले कुनै 부담 बिना सांस्कृतिक जीवनको आनन्द लिन सकिन्छ।",
+      "after": "त्यसैले कुनै आर्थिक बोझ बिना सांस्कृतिक जीवनको आनन्द लिन सकिन्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "110",
+        "items",
+        "3"
+      ],
+      "language": "bengali",
+      "before": "তাই কোনো 부담 ছাড়াই সাংস্কৃতিক কর্মকাণ্ড উপভোগ করা যায়।",
+      "after": "তাই কোনো আর্থিক চাপ ছাড়াই সাংস্কৃতিক কর্মকাণ্ড উপভোগ করা যায়।"
+    },
+    {
+      "path": [
+        "readings",
+        "111",
+        "items",
+        "0"
+      ],
+      "language": "russian",
+      "before": "Сегодня нет закусок? Не волнуйтесь. Давайте приготовим кимчи 볶음밥, который любят все.",
+      "after": "Сегодня нет закусок? Не волнуйтесь. Давайте приготовим жареный рис с кимчи, который любят все."
+    },
+    {
+      "path": [
+        "readings",
+        "120",
+        "items",
+        "7"
+      ],
+      "language": "khmer",
+      "before": "ដំបូង ខ្ញុំបានការងារនៅសាលាភាសាអង់គ្លេស តាមរយៈការណែនាំរបស់รุ่นច្បងនៅសាកលវិទ្យាល័យ។",
+      "after": "ដំបូង ខ្ញុំបានការងារនៅសាលាភាសាអង់គ្លេស តាមរយៈការណែនាំរបស់និស្សិតច្បងនៅសាកលវិទ្យាល័យ។"
+    },
+    {
+      "path": [
+        "readings",
+        "123",
+        "items",
+        "13"
+      ],
+      "language": "sinhala",
+      "before": "නැන්දම්මාගේ 모습 දැකීමෙන් මගේ ගමේ සිටින දෙමාපියන්ව තවත් මතක් වුණා.",
+      "after": "නැන්දම්මාගේ හැසිරීම දැකීමෙන් මගේ ගමේ සිටින දෙමාපියන්ව තවත් මතක් වුණා."
+    },
+    {
+      "path": [
+        "readings",
+        "131",
+        "items",
+        "5"
+      ],
+      "language": "burmese",
+      "before": "ယခုစစ်တမ်းကို အသက် ၁၈ နှစ်နှင့်အထက် အင်ဂျူမြို့သား ၁,၀၀၀ ဦးကို 대상으로 ပြီးခဲ့သည့်လ ၈ ရက်မှ ၁၅ ရက်အထိ ကြိုးဖုန်းနှင့် မိုဘိုင်းဖုန်းများမှတစ်ဆင့် အလိုအလျောက်တုံ့ပြန်စနစ် (ARS) အသုံးပြုသည့် တယ်လီဖုန်းစစ်တမ်းနည်းလမ်းဖြင့် ပြုလုပ်ခဲ့သည်။",
+      "after": "ယခုစစ်တမ်းကို အသက် ၁၈ နှစ်နှင့်အထက် အင်ဂျူမြို့သား ၁,၀၀၀ ဦးကို စစ်တမ်းကောက်ယူ၍ ပြီးခဲ့သည့်လ ၈ ရက်မှ ၁၅ ရက်အထိ ကြိုးဖုန်းနှင့် မိုဘိုင်းဖုန်းများမှတစ်ဆင့် အလိုအလျောက်တုံ့ပြန်စနစ် (ARS) အသုံးပြုသည့် တယ်လီဖုန်းစစ်တမ်းနည်းလမ်းဖြင့် ပြုလုပ်ခဲ့သည်။"
+    },
+    {
+      "path": [
+        "readings",
+        "132",
+        "items",
+        "11"
+      ],
+      "language": "khmer",
+      "before": "ตราบណាដែលមនុស្សទូទាំងពិភពលោកខិតខំរួមគ្នាដូចនេះ យើងនឹងអាចការពារផែនដីពីការបំពុលបរិស្ថានបាន។",
+      "after": "ដរាបบណាដែលមនុស្សទូទាំងពិភពលោកខិតខំរួមគ្នាដូចនេះ យើងនឹងអាចការពារផែនដីពីការបំពុលបរិស្ថានបាន។"
+    },
+    {
+      "path": [
+        "readings",
+        "134",
+        "items",
+        "4"
+      ],
+      "language": "nepali",
+      "before": "गत एक वर्षमा १ लाखभन्दा बढी साना अपराधहरू सजायको 대상 बने।",
+      "after": "गत एक वर्षमा १ लाखभन्दा बढी साना अपराधहरू सजायको भागीदार बने।"
+    },
+    {
+      "path": [
+        "readings",
+        "134",
+        "items",
+        "8"
+      ],
+      "language": "vietnamese",
+      "before": "Ngoài ra, vào nơi cấm प्रवेश và dán quảng cáo lên nhà hoặc xe của người khác cũng là tội nhẹ.",
+      "after": "Ngoài ra, vào nơi cấm ra vào và dán quảng cáo lên nhà hoặc xe của người khác cũng là tội nhẹ."
+    },
+    {
+      "path": [
+        "readings",
+        "135",
+        "items",
+        "7"
+      ],
+      "language": "wolof",
+      "before": "Gannaaw bi ma amee الجنسية Kore, sama dund gu bare liggéey wéy na benn diir, di yar doom yi ak def liggéeyu kër.",
+      "after": "Gannaaw bi ma amee ngëmmi réewum Kore, sama dund gu bare liggéey wéy na benn diir, di yar doom yi ak def liggéeyu kër."
+    },
+    {
+      "path": [
+        "readings",
+        "45",
+        "items",
+        "4"
+      ],
+      "language": "spanish",
+      "before": "Por ejemplo, en proverbios como «Si tus palabras son amables, recibirás palabras amables», «Una sola palabra puede saldar incluso una deuda de mil nyang» y «Las palabras se convierten en semillas» отражено уважительное отношение корейцев к словам.",
+      "after": "Por ejemplo, en proverbios como «Si tus palabras son amables, recibirás palabras amables», «Una sola palabra puede saldar incluso una deuda de mil nyang» y «Las palabras se convierten en semillas» se refleja el respeto que los coreanos sienten por las palabras."
+    },
+    {
+      "path": [
+        "readings",
+        "90",
+        "items",
+        "3"
+      ],
+      "language": "khmer",
+      "before": "នៅពេលទើបបង្កើតដំបូង មជ្ឈមណ្ឌលនេះត្រូវបានដំណើរការសាកល្បងនៅតំបន់ចំនួន ១០ រួមមាន យ៉ាំងជូ អ៊ីឆន ប៉ាជូ អាន់សាន ស៊ូវ៉ុន ណាំយ៉ាំងជូ និងស៊ីហ៊ឹង ក្នុងខេត្តគ្យង់គី; សង្កាត់ជុង ក្នុងទីក្រុងអ៊ីនឆន; អាសាន ក្នុងខេត្តឈุงឆងខាងត្បូង; និងយ៉ាំងសាន ក្នុងខេត្តគ្យង់សាងខាងត្បូង។ បច្ចុប្បន្ន វាកំពុងពង្រីកជាបន្តបន្ទាប់ទៅកាន់តំបន់ជាច្រើនទៀត ដូចជា ឈនអាន ក្នុងខេត្តឈุงឆងខាងត្បូង និងអ៊ីកសាន ក្នុងខេត្តជូឡាខាងជើង។",
+      "after": "នៅពេលទើបបង្កើតដំបូង មជ្ឈមណ្ឌលនេះត្រូវបានដំណើរការសាកល្បងនៅតំបន់ចំនួន ១០ រួមមាន យ៉ាំងជូ អ៊ីឆន ប៉ាជូ អាន់សាន ស៊ូវ៉ុន ណាំយ៉ាំងជូ និងស៊ីហ៊ឹង ក្នុងខេត្តគ្យង់គី; សង្កាត់ជុង ក្នុងទីក្រុងអ៊ីនឆន; អាសាន ក្នុងខេត្តឈុងឆងខាងត្បូង; និងយ៉ាំងសាន ក្នុងខេត្តគ្យង់សាងខាងត្បូង។ បច្ចុប្បន្ន វាកំពុងពង្រីកជាបន្តបន្ទាប់ទៅកាន់តំបន់ជាច្រើនទៀត ដូចជា ឈនអាន ក្នុងខេត្តឈុងឆងខាងត្បូង និងអ៊ីកសាន ក្នុងខេត្តជូឡាខាងជើង។"
+    },
+    {
+      "path": [
+        "readings",
+        "132",
+        "items",
+        "11"
+      ],
+      "language": "khmer",
+      "before": "ដរាបบណាដែលមនុស្សទូទាំងពិភពលោកខិតខំរួមគ្នាដូចនេះ យើងនឹងអាចការពារផែនដីពីការបំពុលបរិស្ថានបាន។",
+      "after": "ដរាបណាដែលមនុស្សទូទាំងពិភពលោកខិតខំរួមគ្នាដូចនេះ យើងនឹងអាចការពារផែនដីពីការបំពុលបរិស្ថានបាន។"
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "nepali",
+      "before": "यदि जन्से वा मासिक भाडामा घर लिइएको हो भने, अनिवार्य रूपमा 주민 센터मा गएर बसाइँ सरेको सूचना दिनुपर्छ र निश्चित मिति प्रमाणपत्र लिनुपर्छ।",
+      "after": "यदि जन्से वा मासिक भाडामा घर लिइएको हो भने, अनिवार्य रूपमा स्थानीय प्रशासनिक केन्द्रमा गएर बसाइँ सरेको सूचना दिनुपर्छ र निश्चित मिति प्रमाणपत्र लिनुपर्छ।"
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "lebanese",
+      "before": "إذا استأجرت بيت بنظام التشونسي أو بالإيجار الشهري، لازم تروح أكيد عـ 주민 센터، وتعمل تسجيل نقل السكن، وتاخد تاريخ مُثبّت.",
+      "after": "إذا استأجرت بيت بنظام التشونسي أو بالإيجار الشهري، لازم تروح أكيد عـ مركز خدمات السكان، وتعمل تسجيل نقل السكن، وتاخد تاريخ مُثبّت."
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "urdu",
+      "before": "اگر آپ جونسے یا ماہانہ کرائے پر گھر لیتے ہیں تو 주민 센터 جا کر رہائش کی منتقلی کی اطلاع دینا اور مقررہ تاریخ حاصل کرنا ضروری ہے۔",
+      "after": "اگر آپ جونسے یا ماہانہ کرائے پر گھر لیتے ہیں تو مقامی شہری خدمات کے مرکز جا کر رہائش کی منتقلی کی اطلاع دینا اور مقررہ تاریخ حاصل کرنا ضروری ہے۔"
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "uzbek",
+      "before": "Agar uyni jeonse yoki oylik ijara asosida olsangiz, albatta 주민 센터ga borib, ko‘chib kirganingizni ro‘yxatdan o‘tkazishingiz va tasdiqlangan sana olishingiz kerak.",
+      "after": "Agar uyni jeonse yoki oylik ijara asosida olsangiz, albatta mahalliy ma’muriy markazga borib, ko‘chib kirganingizni ro‘yxatdan o‘tkazishingiz va tasdiqlangan sana olishingiz kerak."
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "mongolian",
+      "before": "Барьцаатай эсвэл сарын түрээсээр байр авсан бол заавал 주민 센터-т очиж нүүж орсноо мэдэгдэн, баталгаат огноо авах хэрэгтэй.",
+      "after": "Барьцаатай эсвэл сарын түрээсээр байр авсан бол заавал орон нутгийн захиргааны төв-т очиж нүүж орсноо мэдэгдэн, баталгаат огноо авах хэрэгтэй."
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "sinhala",
+      "before": "ජොන්සේ හෝ මාසික කුලී ක්‍රමයට නිවසක් ලබා ගන්නේ නම්, අනිවාර්යයෙන්ම 주민 센터 වෙත ගොස් පදිංචියට පැමිණීම ලියාපදිංචි කර නිශ්චිත දිනයක් ලබා ගත යුතුය.",
+      "after": "ජොන්සේ හෝ මාසික කුලී ක්‍රමයට නිවසක් ලබා ගන්නේ නම්, අනිවාර්යයෙන්ම ප්‍රාදේශීය පරිපාලන මධ්‍යස්ථානය වෙත ගොස් පදිංචියට පැමිණීම ලියාපදිංචි කර නිශ්චිත දිනයක් ලබා ගත යුතුය."
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "bengali",
+      "before": "জেওনসে বা মাসিক ভাড়ায় বাড়ি নিলে অবশ্যই 주민 센터-এ গিয়ে বাসায় ওঠার নিবন্ধন করতে হবে এবং নির্দিষ্ট তারিখ নিতে হবে।",
+      "after": "জেওনসে বা মাসিক ভাড়ায় বাড়ি নিলে অবশ্যই স্থানীয় প্রশাসনিক কেন্দ্র-এ গিয়ে বাসায় ওঠার নিবন্ধন করতে হবে এবং নির্দিষ্ট তারিখ নিতে হবে।"
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "burmese",
+      "before": "ဂျွန်ဆေး သို့မဟုတ် လစဉ်ငှားရမ်းမှုဖြင့် အိမ်ငှားပါက 주민 센터 သို့ မဖြစ်မနေသွားပြီး ပြောင်းရွှေ့ဝင်ရောက်ကြောင်း မှတ်ပုံတင်ကာ အတည်ပြုရက်စွဲကို ရယူရပါတယ်။",
+      "after": "ဂျွန်ဆေး သို့မဟုတ် လစဉ်ငှားရမ်းမှုဖြင့် အိမ်ငှားပါက ဒေသခံ အုပ်ချုပ်ရေးစင်တာ သို့ မဖြစ်မနေသွားပြီး ပြောင်းရွှေ့ဝင်ရောက်ကြောင်း မှတ်ပုံတင်ကာ အတည်ပြုရက်စွဲကို ရယူရပါတယ်။"
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "russian",
+      "before": "Если вы снимаете жильё по системе чонсе или помесячно, нужно обязательно посетить 주민 센터, зарегистрировать въезд и получить подтверждённую дату.",
+      "after": "Если вы снимаете жильё по системе чонсе или помесячно, нужно обязательно посетить местный административный центр, зарегистрировать въезд и получить подтверждённую дату."
+    },
+    {
+      "path": [
+        "readings",
+        "114",
+        "items",
+        "12"
+      ],
+      "language": "wolof",
+      "before": "Bu nga jëndee kër ci sistemu jeonse walla ci ñu fayee weer-weeri, war nga dem ci 주민 센터, bind ne danga dugg ci kër gi, te jotee bes bu ñu dëggal.",
+      "after": "Bu nga jëndee kër ci sistemu jeonse walla ci ñu fayee weer-weeri, war nga dem ci santaru administrasiyoŋ bu dëkk bi, bind ne danga dugg ci kër gi, te jotee bes bu ñu dëggal."
+    }
+  ]
+}
