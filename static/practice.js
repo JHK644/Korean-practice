@@ -1,5 +1,5 @@
 async function correctTranslationLanguages(data){
- const response=await fetch('./data/translation-corrections.json?v=1.4.30',{cache:'no-store'});
+ const response=await fetch('./data/translation-corrections.json?v=1.4.31',{cache:'no-store'});
  if(!response.ok)throw new Error('번역 수정 자료를 불러오지 못했습니다. 다시 접속해 주세요.');
  const patch=await response.json();
  for(const correction of patch.corrections){
@@ -30,18 +30,18 @@ const voiceID=v=>JSON.stringify([v.voiceURI,v.lang,v.localService]);
 
 function sample(arr,n){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a.slice(0,Math.min(n,a.length))}
 
-function makePair(item,lessonId,index,key){return {id:`${lessonId}:${index}`,ko:item.ko,target:item.translations[key]||'',sentence:item.sentence||null,sentenceTarget:item.sentence?.translations?.[key]||''}}
+function makePair(item,lessonId,index,key){return {id:`${lessonId}:${index}`,ko:item.ko,pronunciation:item.pronunciation||null,target:item.translations[key]||'',sentence:item.sentence||null,sentenceTarget:item.sentence?.translations?.[key]||''}}
 
 
 
 async function init(){
 
- db=await (await fetch('./data/lessons.json?v=1.4.30')).json();
+ db=await (await fetch('./data/lessons.json?v=1.4.31')).json();
  const requestedLevel=qs.get('level')||(qs.get('lesson')||'').split('-')[1];
  if(requestedLevel==='3'||requestedLevel==='4'){
    const files=requestedLevel==='4'?[1,2,3,4].map(n=>`level4-sentences-${n}.json`):['level3-sentences.json'];
    for(const file of files){
-     const sentenceResponse=await fetch(`./data/${file}?v=1.4.30`);
+     const sentenceResponse=await fetch(`./data/${file}?v=1.4.31`);
      if(!sentenceResponse.ok)throw new Error('문장 자료를 불러오지 못했습니다.');
      const sentenceData=await sentenceResponse.json();
      for(const unit of db.lessons){
@@ -54,10 +54,18 @@ async function init(){
      }
    }
  }
+ if(requestedLevel==='1'){
+  const response=await fetch('./data/level1-pronunciations.json?v=1.4.31');
+  if(!response.ok)throw new Error('발음 자료를 불러오지 못했습니다. 다시 접속해 주세요.');
+  const data=await response.json();
+  for(const unit of db.lessons){if(unit.level==='1'){
+   for(const item of unit.items)item.pronunciation=data.words[item.ko]||null;
+  }}
+ }
  await correctTranslationLanguages(db);
  const translationFiles={"4": ["level4-translations-1.json", "level4-translations-2.json", "level4-translations-3.json"], "3": ["level3-translations-1.json", "level3-translations-2.json", "level3-translations-3.json"]}[requestedLevel]||[];
  for(const file of translationFiles){
-  const response=await fetch(`./data/${file}?v=1.4.30`);
+  const response=await fetch(`./data/${file}?v=1.4.31`);
   if(!response.ok)throw new Error('문장 번역을 불러오지 못했습니다. 다시 접속해 주세요.');
   const translated=await response.json();
   for(const unit of db.lessons){
@@ -150,7 +158,7 @@ async function init(){
 
    $('title').textContent=`${mixedReview?'전체 외국어 랜덤':cfg.name} · ${reviewType==='mid'?'중간':'최종'} 복습`;
 
-   $('subtitle').textContent=`V1.4.30 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.31 통합형 · ${levelId}단계 · ${rangeText} · 랜덤 ${pairs.length}개`;
 
    $('newReview').hidden=false;
 
@@ -172,7 +180,7 @@ async function init(){
 
    $('title').textContent=`한국어 ↔ ${cfg.name}`;
 
-   $('subtitle').textContent=`V1.4.30 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
+   $('subtitle').textContent=`V1.4.31 통합형 · ${lesson.level}단계 · ${lesson.unit} · ${lesson.title} · ${pairs.length}개`;
 
    storeKey=`koreanQuiz-${lesson.id}-${key}`;
 
@@ -238,6 +246,8 @@ function render(){
 
  $('prompt').textContent=mode==='ko-target'?w.ko:w.target;$('answer').textContent=mode==='ko-target'?w.target:w.ko;
 
+ renderPronunciation($('promptPronunciation'),mode==='ko-target'?w.pronunciation:null);
+ renderPronunciation($('answerPronunciation'),mode==='target-ko'?w.pronunciation:null);
  $('tag').textContent=mode==='ko-target'?'한국어':(mixedReview?(w.languageName+' · '+(w.languageNative||'')):cfg.native);
 
  $('card').setAttribute('aria-pressed','false');
@@ -401,3 +411,15 @@ function fitMobileExample(){
  }
 }
 new ResizeObserver(()=>requestAnimationFrame(fitMobileExample)).observe($('examplePanel'));
+
+function renderPronunciation(element,pronunciation){
+ element.replaceChildren();element.hidden=!pronunciation;
+ if(!pronunciation)return;
+ element.setAttribute('aria-label','발음 '+pronunciation.text);
+ element.append(document.createTextNode('['));
+ for(const segment of pronunciation.segments){
+  if(segment.changed){const mark=document.createElement('mark');mark.textContent=segment.text;element.append(mark)}
+  else element.append(document.createTextNode(segment.text));
+ }
+ element.append(document.createTextNode(']'));
+}
