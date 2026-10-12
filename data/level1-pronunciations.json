@@ -1,0 +1,3265 @@
+{
+  "version": "1.4.31",
+  "level": "1",
+  "words": {
+    "학교": {
+      "text": "학꾜",
+      "segments": [
+        {
+          "text": "학",
+          "changed": false
+        },
+        {
+          "text": "꾜",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "학교",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "편의점": {
+      "text": "펴늬점",
+      "segments": [
+        {
+          "text": "펴늬",
+          "changed": true
+        },
+        {
+          "text": "점",
+          "changed": false
+        }
+      ],
+      "alternatives": [
+        "펴니점"
+      ],
+      "comparisonText": "편의점",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "식당": {
+      "text": "식땅",
+      "segments": [
+        {
+          "text": "식",
+          "changed": false
+        },
+        {
+          "text": "땅",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "식당",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약국": {
+      "text": "약꾹",
+      "segments": [
+        {
+          "text": "약",
+          "changed": false
+        },
+        {
+          "text": "꾹",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약국",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "극장": {
+      "text": "극짱",
+      "segments": [
+        {
+          "text": "극",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "극장",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "백화점": {
+      "text": "배콰점",
+      "segments": [
+        {
+          "text": "배콰",
+          "changed": true
+        },
+        {
+          "text": "점",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "백화점",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "회사 식당": {
+      "text": "회사 식땅",
+      "segments": [
+        {
+          "text": "회사 식",
+          "changed": false
+        },
+        {
+          "text": "땅",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "회사 식당",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "직원 식당": {
+      "text": "지권 식땅",
+      "segments": [
+        {
+          "text": "지권",
+          "changed": true
+        },
+        {
+          "text": " 식",
+          "changed": false
+        },
+        {
+          "text": "땅",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "직원 식당",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "밖": {
+      "text": "박",
+      "segments": [
+        {
+          "text": "박",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "밖",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "몇 월": {
+      "text": "며둴",
+      "segments": [
+        {
+          "text": "며둴",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "몇월",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "목요일": {
+      "text": "모교일",
+      "segments": [
+        {
+          "text": "모교",
+          "changed": true
+        },
+        {
+          "text": "일",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "목요일",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "일요일": {
+      "text": "이료일",
+      "segments": [
+        {
+          "text": "이료",
+          "changed": true
+        },
+        {
+          "text": "일",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "일요일",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "셋": {
+      "text": "섿",
+      "segments": [
+        {
+          "text": "섿",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "셋",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "넷": {
+      "text": "넫",
+      "segments": [
+        {
+          "text": "넫",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "넷",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "다섯": {
+      "text": "다섣",
+      "segments": [
+        {
+          "text": "다",
+          "changed": false
+        },
+        {
+          "text": "섣",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "다섯",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "여섯": {
+      "text": "여섣",
+      "segments": [
+        {
+          "text": "여",
+          "changed": false
+        },
+        {
+          "text": "섣",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "여섯",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "여덟": {
+      "text": "여덜",
+      "segments": [
+        {
+          "text": "여",
+          "changed": false
+        },
+        {
+          "text": "덜",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "여덟",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "낮": {
+      "text": "낟",
+      "segments": [
+        {
+          "text": "낟",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "낮",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "일어나다": {
+      "text": "이러나다",
+      "segments": [
+        {
+          "text": "이러",
+          "changed": true
+        },
+        {
+          "text": "나다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "일어나다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "옷을 입다": {
+      "text": "오슬 입따",
+      "segments": [
+        {
+          "text": "오슬",
+          "changed": true
+        },
+        {
+          "text": " 입",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "옷을 입다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "잠을 자다": {
+      "text": "자믈 자다",
+      "segments": [
+        {
+          "text": "자믈",
+          "changed": true
+        },
+        {
+          "text": " 자다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "잠을 자다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한국어를 배우다": {
+      "text": "한구거를 배우다",
+      "segments": [
+        {
+          "text": "한",
+          "changed": false
+        },
+        {
+          "text": "구거",
+          "changed": true
+        },
+        {
+          "text": "를 배우다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한국어를 배우다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "분식집": {
+      "text": "분식찝",
+      "segments": [
+        {
+          "text": "분식",
+          "changed": false
+        },
+        {
+          "text": "찝",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "분식집",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "김밥": {
+      "text": "김빱",
+      "segments": [
+        {
+          "text": "김",
+          "changed": false
+        },
+        {
+          "text": "빱",
+          "changed": true
+        }
+      ],
+      "alternatives": [
+        "김밥"
+      ],
+      "comparisonText": "김밥",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "떡볶이": {
+      "text": "떡뽀끼",
+      "segments": [
+        {
+          "text": "떡",
+          "changed": false
+        },
+        {
+          "text": "뽀끼",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "떡볶이",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한식집": {
+      "text": "한식찝",
+      "segments": [
+        {
+          "text": "한식",
+          "changed": false
+        },
+        {
+          "text": "찝",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한식집",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "삼겹살": {
+      "text": "삼겹쌀",
+      "segments": [
+        {
+          "text": "삼겹",
+          "changed": false
+        },
+        {
+          "text": "쌀",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "삼겹살",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "비빔밥": {
+      "text": "비빔빱",
+      "segments": [
+        {
+          "text": "비빔",
+          "changed": false
+        },
+        {
+          "text": "빱",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "비빔밥",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "일식집": {
+      "text": "일식찝",
+      "segments": [
+        {
+          "text": "일식",
+          "changed": false
+        },
+        {
+          "text": "찝",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "일식집",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "중국집": {
+      "text": "중국찝",
+      "segments": [
+        {
+          "text": "중국",
+          "changed": false
+        },
+        {
+          "text": "찝",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "중국집",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "이탈리아 식당": {
+      "text": "이탈리아 식땅",
+      "segments": [
+        {
+          "text": "이탈리아 식",
+          "changed": false
+        },
+        {
+          "text": "땅",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "이탈리아 식당",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "숟가락": {
+      "text": "숟까락",
+      "segments": [
+        {
+          "text": "숟",
+          "changed": false
+        },
+        {
+          "text": "까",
+          "changed": true
+        },
+        {
+          "text": "락",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "숟가락",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "젓가락": {
+      "text": "젇까락",
+      "segments": [
+        {
+          "text": "젇까",
+          "changed": true
+        },
+        {
+          "text": "락",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "젓가락",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "그릇": {
+      "text": "그륻",
+      "segments": [
+        {
+          "text": "그",
+          "changed": false
+        },
+        {
+          "text": "륻",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "그릇",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "이름을 쓰세요": {
+      "text": "이르믈 쓰세요",
+      "segments": [
+        {
+          "text": "이",
+          "changed": false
+        },
+        {
+          "text": "르믈",
+          "changed": true
+        },
+        {
+          "text": " 쓰세요",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "이름을 쓰세요",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "불고기 3인분 주세요": {
+      "text": "불고기 사민분 주세요",
+      "segments": [
+        {
+          "text": "불고기 ",
+          "changed": false
+        },
+        {
+          "text": "사민",
+          "changed": true
+        },
+        {
+          "text": "분 주세요",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "불고기 삼인분 주세요",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "잡지": {
+      "text": "잡찌",
+      "segments": [
+        {
+          "text": "잡",
+          "changed": false
+        },
+        {
+          "text": "찌",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "잡지",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "닭": {
+      "text": "닥",
+      "segments": [
+        {
+          "text": "닥",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "닭",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "닭고기": {
+      "text": "닥꼬기",
+      "segments": [
+        {
+          "text": "닥꼬",
+          "changed": true
+        },
+        {
+          "text": "기",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "닭고기",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "할인": {
+      "text": "하린",
+      "segments": [
+        {
+          "text": "하린",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "할인",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "집에서 쉬다": {
+      "text": "지베서 쉬다",
+      "segments": [
+        {
+          "text": "지베",
+          "changed": true
+        },
+        {
+          "text": "서 쉬다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "집에서 쉬다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "축구를 하다": {
+      "text": "축꾸를 하다",
+      "segments": [
+        {
+          "text": "축",
+          "changed": false
+        },
+        {
+          "text": "꾸",
+          "changed": true
+        },
+        {
+          "text": "를 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "축구를 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "산에 가다": {
+      "text": "사네 가다",
+      "segments": [
+        {
+          "text": "사네",
+          "changed": true
+        },
+        {
+          "text": " 가다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "산에 가다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "산책하다": {
+      "text": "산채카다",
+      "segments": [
+        {
+          "text": "산",
+          "changed": false
+        },
+        {
+          "text": "채카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "산책하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "공놀이를 하다": {
+      "text": "공노리를 하다",
+      "segments": [
+        {
+          "text": "공",
+          "changed": false
+        },
+        {
+          "text": "노리",
+          "changed": true
+        },
+        {
+          "text": "를 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "공놀이를 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "과일을 사다": {
+      "text": "과이를 사다",
+      "segments": [
+        {
+          "text": "과",
+          "changed": false
+        },
+        {
+          "text": "이를",
+          "changed": true
+        },
+        {
+          "text": " 사다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "과일을 사다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "신발을 사다": {
+      "text": "신바를 사다",
+      "segments": [
+        {
+          "text": "신",
+          "changed": false
+        },
+        {
+          "text": "바를",
+          "changed": true
+        },
+        {
+          "text": " 사다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "신발을 사다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "저녁을 먹다": {
+      "text": "저녀글 먹따",
+      "segments": [
+        {
+          "text": "저",
+          "changed": false
+        },
+        {
+          "text": "녀글",
+          "changed": true
+        },
+        {
+          "text": " 먹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "저녁을 먹다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "식사를 하다": {
+      "text": "식싸를 하다",
+      "segments": [
+        {
+          "text": "식",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        },
+        {
+          "text": "를 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "식사를 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "전화를 받다": {
+      "text": "전화를 받따",
+      "segments": [
+        {
+          "text": "전화를 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "전화를 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한옥 마을": {
+      "text": "하농 마을",
+      "segments": [
+        {
+          "text": "하농",
+          "changed": true
+        },
+        {
+          "text": " 마을",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한옥 마을",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한복을 입다": {
+      "text": "한보글 입따",
+      "segments": [
+        {
+          "text": "한",
+          "changed": false
+        },
+        {
+          "text": "보글",
+          "changed": true
+        },
+        {
+          "text": " 입",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한복을 입다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "걷다": {
+      "text": "걷따",
+      "segments": [
+        {
+          "text": "걷",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "걷다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "그렇지만": {
+      "text": "그러치만",
+      "segments": [
+        {
+          "text": "그",
+          "changed": false
+        },
+        {
+          "text": "러치",
+          "changed": true
+        },
+        {
+          "text": "만",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "그렇지만",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "즐겁다": {
+      "text": "즐겁따",
+      "segments": [
+        {
+          "text": "즐겁",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "즐겁다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "직업": {
+      "text": "지겁",
+      "segments": [
+        {
+          "text": "지겁",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "직업",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "국적": {
+      "text": "국쩍",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩍",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "국적",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "학생": {
+      "text": "학쌩",
+      "segments": [
+        {
+          "text": "학",
+          "changed": false
+        },
+        {
+          "text": "쌩",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "학생",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "공장 직원": {
+      "text": "공장 지권",
+      "segments": [
+        {
+          "text": "공장 ",
+          "changed": false
+        },
+        {
+          "text": "지권",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "공장 직원",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "초등학생": {
+      "text": "초등학쌩",
+      "segments": [
+        {
+          "text": "초등학",
+          "changed": false
+        },
+        {
+          "text": "쌩",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "초등학생",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한국어": {
+      "text": "한구거",
+      "segments": [
+        {
+          "text": "한",
+          "changed": false
+        },
+        {
+          "text": "구거",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한국어",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "기숙사": {
+      "text": "기숙싸",
+      "segments": [
+        {
+          "text": "기숙",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "기숙사",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "책상": {
+      "text": "책쌍",
+      "segments": [
+        {
+          "text": "책",
+          "changed": false
+        },
+        {
+          "text": "쌍",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "책상",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "부엌": {
+      "text": "부억",
+      "segments": [
+        {
+          "text": "부",
+          "changed": false
+        },
+        {
+          "text": "억",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "부엌",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "옷장": {
+      "text": "옫짱",
+      "segments": [
+        {
+          "text": "옫짱",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "옷장",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "많다": {
+      "text": "만타",
+      "segments": [
+        {
+          "text": "만타",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "많다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "적다": {
+      "text": "적따",
+      "segments": [
+        {
+          "text": "적",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "적다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "작다": {
+      "text": "작따",
+      "segments": [
+        {
+          "text": "작",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "작다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "맛있다": {
+      "text": "마싣따",
+      "segments": [
+        {
+          "text": "마싣따",
+          "changed": true
+        }
+      ],
+      "alternatives": [
+        "마딛따"
+      ],
+      "comparisonText": "맛있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "맛없다": {
+      "text": "마덥따",
+      "segments": [
+        {
+          "text": "마덥따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "맛없다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "어렵다": {
+      "text": "어렵따",
+      "segments": [
+        {
+          "text": "어렵",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "어렵다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "쉽다": {
+      "text": "쉽따",
+      "segments": [
+        {
+          "text": "쉽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "쉽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "춥다": {
+      "text": "춥따",
+      "segments": [
+        {
+          "text": "춥",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "춥다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "덥다": {
+      "text": "덥따",
+      "segments": [
+        {
+          "text": "덥",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "덥다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "재미있다": {
+      "text": "재미읻따",
+      "segments": [
+        {
+          "text": "재미",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "재미있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "재미없다": {
+      "text": "재미업따",
+      "segments": [
+        {
+          "text": "재미",
+          "changed": false
+        },
+        {
+          "text": "업따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "재미없다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "좋다": {
+      "text": "조타",
+      "segments": [
+        {
+          "text": "조타",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "좋다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "고향 음식을 요리하다": {
+      "text": "고향 음시글 요리하다",
+      "segments": [
+        {
+          "text": "고향 음",
+          "changed": false
+        },
+        {
+          "text": "시글",
+          "changed": true
+        },
+        {
+          "text": " 요리하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "고향 음식을 요리하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "책을 읽다": {
+      "text": "채글 익따",
+      "segments": [
+        {
+          "text": "채글",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "익따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "책을 읽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한국어를 공부하다": {
+      "text": "한구거를 공부하다",
+      "segments": [
+        {
+          "text": "한",
+          "changed": false
+        },
+        {
+          "text": "구거",
+          "changed": true
+        },
+        {
+          "text": "를 공부하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한국어를 공부하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "빵을 먹다": {
+      "text": "빵을 먹따",
+      "segments": [
+        {
+          "text": "빵을 먹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "빵을 먹다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "옷을 사다": {
+      "text": "오슬 사다",
+      "segments": [
+        {
+          "text": "오슬",
+          "changed": true
+        },
+        {
+          "text": " 사다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "옷을 사다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "학생들": {
+      "text": "학쌩들",
+      "segments": [
+        {
+          "text": "학",
+          "changed": false
+        },
+        {
+          "text": "쌩",
+          "changed": true
+        },
+        {
+          "text": "들",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "학생들",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "할아버지": {
+      "text": "하라버지",
+      "segments": [
+        {
+          "text": "하라",
+          "changed": true
+        },
+        {
+          "text": "버지",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "할아버지",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "외할아버지": {
+      "text": "외하라버지",
+      "segments": [
+        {
+          "text": "외",
+          "changed": false
+        },
+        {
+          "text": "하라",
+          "changed": true
+        },
+        {
+          "text": "버지",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "외할아버지",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "높임말": {
+      "text": "노핌말",
+      "segments": [
+        {
+          "text": "노핌",
+          "changed": true
+        },
+        {
+          "text": "말",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "높임말",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "드시다/잡수시다": {
+      "text": "드시다/잡쑤시다",
+      "segments": [
+        {
+          "text": "드시다/잡",
+          "changed": false
+        },
+        {
+          "text": "쑤",
+          "changed": true
+        },
+        {
+          "text": "시다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "드시다/잡수시다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "돌아가시다": {
+      "text": "도라가시다",
+      "segments": [
+        {
+          "text": "도라",
+          "changed": true
+        },
+        {
+          "text": "가시다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "돌아가시다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "고등학생": {
+      "text": "고등학쌩",
+      "segments": [
+        {
+          "text": "고등학",
+          "changed": false
+        },
+        {
+          "text": "쌩",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "고등학생",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "역사 공부를 하다": {
+      "text": "역싸 공부를 하다",
+      "segments": [
+        {
+          "text": "역",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        },
+        {
+          "text": " 공부를 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "역사 공부를 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "박물관": {
+      "text": "방물관",
+      "segments": [
+        {
+          "text": "방",
+          "changed": true
+        },
+        {
+          "text": "물관",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "박물관",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "경찰서": {
+      "text": "경찰써",
+      "segments": [
+        {
+          "text": "경찰",
+          "changed": false
+        },
+        {
+          "text": "써",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "경찰서",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "국제 운전면허증을 받다": {
+      "text": "국쩨 운전면허쯩을 받따",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩨",
+          "changed": true
+        },
+        {
+          "text": " 운전면허",
+          "changed": false
+        },
+        {
+          "text": "쯩",
+          "changed": true
+        },
+        {
+          "text": "을 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "국제 운전면허증을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "등록하다": {
+      "text": "등노카다",
+      "segments": [
+        {
+          "text": "등",
+          "changed": false
+        },
+        {
+          "text": "노카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "등록하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "꽃을 만지다": {
+      "text": "꼬츨 만지다",
+      "segments": [
+        {
+          "text": "꼬츨",
+          "changed": true
+        },
+        {
+          "text": " 만지다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "꽃을 만지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "잔디밭에 들어가다": {
+      "text": "잔디바테 드러가다",
+      "segments": [
+        {
+          "text": "잔디",
+          "changed": false
+        },
+        {
+          "text": "바테",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "드러",
+          "changed": true
+        },
+        {
+          "text": "가다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "잔디밭에 들어가다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "역사 박물관": {
+      "text": "역싸 방물관",
+      "segments": [
+        {
+          "text": "역",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "방",
+          "changed": true
+        },
+        {
+          "text": "물관",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "역사 박물관",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "설악산 국립 공원": {
+      "text": "서락싼 궁닙 꽁원",
+      "segments": [
+        {
+          "text": "서락싼",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "궁닙",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "꽁",
+          "changed": true
+        },
+        {
+          "text": "원",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "설악산 국립 공원",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "무릎": {
+      "text": "무릅",
+      "segments": [
+        {
+          "text": "무",
+          "changed": false
+        },
+        {
+          "text": "릅",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "무릎",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "내과": {
+      "text": "내꽈",
+      "segments": [
+        {
+          "text": "내",
+          "changed": false
+        },
+        {
+          "text": "꽈",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "내과",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "이비인후과": {
+      "text": "이비인후꽈",
+      "segments": [
+        {
+          "text": "이비인후",
+          "changed": false
+        },
+        {
+          "text": "꽈",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "이비인후과",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "정형외과": {
+      "text": "정형외꽈",
+      "segments": [
+        {
+          "text": "정형외",
+          "changed": false
+        },
+        {
+          "text": "꽈",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "정형외과",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "안과": {
+      "text": "안꽈",
+      "segments": [
+        {
+          "text": "안",
+          "changed": false
+        },
+        {
+          "text": "꽈",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "안과",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "치과": {
+      "text": "치꽈",
+      "segments": [
+        {
+          "text": "치",
+          "changed": false
+        },
+        {
+          "text": "꽈",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "치과",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "받다": {
+      "text": "받따",
+      "segments": [
+        {
+          "text": "받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "초대장": {
+      "text": "초대짱",
+      "segments": [
+        {
+          "text": "초대",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "초대장",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "졸업식": {
+      "text": "조럽씩",
+      "segments": [
+        {
+          "text": "조럽씩",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "졸업식",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "축하하다": {
+      "text": "추카하다",
+      "segments": [
+        {
+          "text": "추카",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "축하하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "어린이날": {
+      "text": "어리니날",
+      "segments": [
+        {
+          "text": "어",
+          "changed": false
+        },
+        {
+          "text": "리니",
+          "changed": true
+        },
+        {
+          "text": "날",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "어린이날",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "기분이 좋다": {
+      "text": "기부니 조타",
+      "segments": [
+        {
+          "text": "기",
+          "changed": false
+        },
+        {
+          "text": "부니",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "조타",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "기분이 좋다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "공원에서 농구를 하다": {
+      "text": "공워네서 농구를 하다",
+      "segments": [
+        {
+          "text": "공",
+          "changed": false
+        },
+        {
+          "text": "워네",
+          "changed": true
+        },
+        {
+          "text": "서 농구를 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "공원에서 농구를 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "가족하고 외식하다": {
+      "text": "가조카고 외시카다",
+      "segments": [
+        {
+          "text": "가",
+          "changed": false
+        },
+        {
+          "text": "조카",
+          "changed": true
+        },
+        {
+          "text": "고 외",
+          "changed": false
+        },
+        {
+          "text": "시카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "가족하고 외식하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "아이하고 놀이공원에 가다": {
+      "text": "아이하고 노리공워네 가다",
+      "segments": [
+        {
+          "text": "아이하고 ",
+          "changed": false
+        },
+        {
+          "text": "노리",
+          "changed": true
+        },
+        {
+          "text": "공",
+          "changed": false
+        },
+        {
+          "text": "워네",
+          "changed": true
+        },
+        {
+          "text": " 가다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "아이하고 놀이공원에 가다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한국어를 열심히 공부하다": {
+      "text": "한구거를 열씸히 공부하다",
+      "segments": [
+        {
+          "text": "한",
+          "changed": false
+        },
+        {
+          "text": "구거",
+          "changed": true
+        },
+        {
+          "text": "를 열",
+          "changed": false
+        },
+        {
+          "text": "씸",
+          "changed": true
+        },
+        {
+          "text": "히 공부하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한국어를 열심히 공부하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "한국 요리를 배우다": {
+      "text": "한궁 뇨리를 배우다",
+      "segments": [
+        {
+          "text": "한",
+          "changed": false
+        },
+        {
+          "text": "궁",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "뇨",
+          "changed": true
+        },
+        {
+          "text": "리를 배우다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "한국 요리를 배우다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "낮잠을 자다": {
+      "text": "낟짜믈 자다",
+      "segments": [
+        {
+          "text": "낟짜믈",
+          "changed": true
+        },
+        {
+          "text": " 자다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "낮잠을 자다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "친구 집에 놀러 가다": {
+      "text": "친구 지베 놀러 가다",
+      "segments": [
+        {
+          "text": "친구 ",
+          "changed": false
+        },
+        {
+          "text": "지베",
+          "changed": true
+        },
+        {
+          "text": " 놀러 가다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "친구 집에 놀러 가다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "(바다) 낚시를 하다": {
+      "text": "(바다) 낙씨를 하다",
+      "segments": [
+        {
+          "text": "(바다) ",
+          "changed": false
+        },
+        {
+          "text": "낙씨",
+          "changed": true
+        },
+        {
+          "text": "를 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "(바다) 낚시를 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "등산을 하다": {
+      "text": "등사늘 하다",
+      "segments": [
+        {
+          "text": "등",
+          "changed": false
+        },
+        {
+          "text": "사늘",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "등산을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "꽃구경을 하다": {
+      "text": "꼳꾸경을 하다",
+      "segments": [
+        {
+          "text": "꼳꾸",
+          "changed": true
+        },
+        {
+          "text": "경을 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "꽃구경을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "동물을 구경하다": {
+      "text": "동무를 구경하다",
+      "segments": [
+        {
+          "text": "동",
+          "changed": false
+        },
+        {
+          "text": "무를",
+          "changed": true
+        },
+        {
+          "text": " 구경하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "동물을 구경하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "놀이 기구를 타다": {
+      "text": "노리 기구를 타다",
+      "segments": [
+        {
+          "text": "노리",
+          "changed": true
+        },
+        {
+          "text": " 기구를 타다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "놀이 기구를 타다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "불꽃놀이를 보다": {
+      "text": "불꼰노리를 보다",
+      "segments": [
+        {
+          "text": "불",
+          "changed": false
+        },
+        {
+          "text": "꼰노리",
+          "changed": true
+        },
+        {
+          "text": "를 보다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "불꽃놀이를 보다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "부모님을 만나다": {
+      "text": "부모니믈 만나다",
+      "segments": [
+        {
+          "text": "부모",
+          "changed": false
+        },
+        {
+          "text": "니믈",
+          "changed": true
+        },
+        {
+          "text": " 만나다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "부모님을 만나다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "고향 음식을 먹다": {
+      "text": "고향 음시글 먹따",
+      "segments": [
+        {
+          "text": "고향 음",
+          "changed": false
+        },
+        {
+          "text": "시글",
+          "changed": true
+        },
+        {
+          "text": " 먹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "고향 음식을 먹다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "택시": {
+      "text": "택씨",
+      "segments": [
+        {
+          "text": "택",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "택시",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "정류장": {
+      "text": "정뉴장",
+      "segments": [
+        {
+          "text": "정",
+          "changed": false
+        },
+        {
+          "text": "뉴",
+          "changed": true
+        },
+        {
+          "text": "장",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "정류장",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "지하철역": {
+      "text": "지하철력",
+      "segments": [
+        {
+          "text": "지하철",
+          "changed": false
+        },
+        {
+          "text": "력",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "지하철역",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "고속버스 터미널": {
+      "text": "고속뻐스 터미널",
+      "segments": [
+        {
+          "text": "고속",
+          "changed": false
+        },
+        {
+          "text": "뻐",
+          "changed": true
+        },
+        {
+          "text": "스 터미널",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "고속버스 터미널",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "고속버스": {
+      "text": "고속뻐스",
+      "segments": [
+        {
+          "text": "고속",
+          "changed": false
+        },
+        {
+          "text": "뻐",
+          "changed": true
+        },
+        {
+          "text": "스",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "고속버스",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "직장 모임": {
+      "text": "직짱 모임",
+      "segments": [
+        {
+          "text": "직",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        },
+        {
+          "text": " 모임",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "직장 모임",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약속하다": {
+      "text": "약쏘카다",
+      "segments": [
+        {
+          "text": "약",
+          "changed": false
+        },
+        {
+          "text": "쏘카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약속하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약속을 지키다": {
+      "text": "약쏘글 지키다",
+      "segments": [
+        {
+          "text": "약",
+          "changed": false
+        },
+        {
+          "text": "쏘글",
+          "changed": true
+        },
+        {
+          "text": " 지키다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약속을 지키다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약속 시간을 정하다": {
+      "text": "약쏙 씨가늘 정하다",
+      "segments": [
+        {
+          "text": "약",
+          "changed": false
+        },
+        {
+          "text": "쏙",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "씨가늘",
+          "changed": true
+        },
+        {
+          "text": " 정하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약속 시간을 정하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약속 장소를 정하다": {
+      "text": "약쏙 짱소를 정하다",
+      "segments": [
+        {
+          "text": "약",
+          "changed": false
+        },
+        {
+          "text": "쏙",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        },
+        {
+          "text": "소를 정하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약속 장소를 정하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약속 장소를 바꾸다": {
+      "text": "약쏙 짱소를 바꾸다",
+      "segments": [
+        {
+          "text": "약",
+          "changed": false
+        },
+        {
+          "text": "쏙",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        },
+        {
+          "text": "소를 바꾸다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약속 장소를 바꾸다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약속 시간에 늦다": {
+      "text": "약쏙 씨가네 늗따",
+      "segments": [
+        {
+          "text": "약",
+          "changed": false
+        },
+        {
+          "text": "쏙",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "씨가네",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "늗따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약속 시간에 늦다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "일이 많다": {
+      "text": "이리 만타",
+      "segments": [
+        {
+          "text": "이리",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "만타",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "일이 많다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "야근을 하다": {
+      "text": "야그늘 하다",
+      "segments": [
+        {
+          "text": "야",
+          "changed": false
+        },
+        {
+          "text": "그늘",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "야근을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "회식이 있다": {
+      "text": "회시기 읻따",
+      "segments": [
+        {
+          "text": "회",
+          "changed": false
+        },
+        {
+          "text": "시기",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "회식이 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "몸이 아프다": {
+      "text": "모미 아프다",
+      "segments": [
+        {
+          "text": "모미",
+          "changed": true
+        },
+        {
+          "text": " 아프다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "몸이 아프다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "가족 모임이 있다": {
+      "text": "가종 모이미 읻따",
+      "segments": [
+        {
+          "text": "가",
+          "changed": false
+        },
+        {
+          "text": "종",
+          "changed": true
+        },
+        {
+          "text": " 모",
+          "changed": false
+        },
+        {
+          "text": "이미",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "가족 모임이 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "시험이 있다": {
+      "text": "시허미 읻따",
+      "segments": [
+        {
+          "text": "시",
+          "changed": false
+        },
+        {
+          "text": "허미",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "시험이 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "갑자기 일이 생기다": {
+      "text": "갑짜기 이리 생기다",
+      "segments": [
+        {
+          "text": "갑",
+          "changed": false
+        },
+        {
+          "text": "짜",
+          "changed": true
+        },
+        {
+          "text": "기 ",
+          "changed": false
+        },
+        {
+          "text": "이리",
+          "changed": true
+        },
+        {
+          "text": " 생기다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "갑자기 일이 생기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "회식을 하다": {
+      "text": "회시글 하다",
+      "segments": [
+        {
+          "text": "회",
+          "changed": false
+        },
+        {
+          "text": "시글",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "회식을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "답장하다": {
+      "text": "답짱하다",
+      "segments": [
+        {
+          "text": "답",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "답장하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "따뜻하다": {
+      "text": "따뜨타다",
+      "segments": [
+        {
+          "text": "따",
+          "changed": false
+        },
+        {
+          "text": "뜨타",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "따뜻하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "꽃이 많이 피다": {
+      "text": "꼬치 마니 피다",
+      "segments": [
+        {
+          "text": "꼬치",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "마니",
+          "changed": true
+        },
+        {
+          "text": " 피다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "꽃이 많이 피다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "바닷가": {
+      "text": "바다까",
+      "segments": [
+        {
+          "text": "바",
+          "changed": false
+        },
+        {
+          "text": "다까",
+          "changed": true
+        }
+      ],
+      "alternatives": [
+        "바닫까"
+      ],
+      "comparisonText": "바닷가",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "단풍이 아름답다": {
+      "text": "단풍이 아름답따",
+      "segments": [
+        {
+          "text": "단풍이 아름답",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "단풍이 아름답다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "맑다": {
+      "text": "막따",
+      "segments": [
+        {
+          "text": "막따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "맑다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "대중교통 수단을 이용하다": {
+      "text": "대중교통 수다늘 이용하다",
+      "segments": [
+        {
+          "text": "대중교통 수",
+          "changed": false
+        },
+        {
+          "text": "다늘",
+          "changed": true
+        },
+        {
+          "text": " 이용하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "대중교통 수단을 이용하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "택시를 잡다": {
+      "text": "택씨를 잡따",
+      "segments": [
+        {
+          "text": "택",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        },
+        {
+          "text": "를 잡",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "택시를 잡다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "졸업하다": {
+      "text": "조러파다",
+      "segments": [
+        {
+          "text": "조러파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "졸업하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "입학하다": {
+      "text": "이파카다",
+      "segments": [
+        {
+          "text": "이파카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "입학하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "방학이 있다": {
+      "text": "방하기 읻따",
+      "segments": [
+        {
+          "text": "방",
+          "changed": false
+        },
+        {
+          "text": "하기",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "방학이 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "외국인 등록증이 필요하다": {
+      "text": "외구긴 등녹쯩이 피료하다",
+      "segments": [
+        {
+          "text": "외",
+          "changed": false
+        },
+        {
+          "text": "구긴",
+          "changed": true
+        },
+        {
+          "text": " 등",
+          "changed": false
+        },
+        {
+          "text": "녹쯩",
+          "changed": true
+        },
+        {
+          "text": "이 ",
+          "changed": false
+        },
+        {
+          "text": "피료",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "외국인 등록증이 필요하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "건강 보험이 되다": {
+      "text": "건강 보허미 되다",
+      "segments": [
+        {
+          "text": "건강 보",
+          "changed": false
+        },
+        {
+          "text": "허미",
+          "changed": true
+        },
+        {
+          "text": " 되다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "건강 보험이 되다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "점심시간": {
+      "text": "점심씨간",
+      "segments": [
+        {
+          "text": "점심",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        },
+        {
+          "text": "간",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "점심시간",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "의식주": {
+      "text": "의식쭈",
+      "segments": [
+        {
+          "text": "의식",
+          "changed": false
+        },
+        {
+          "text": "쭈",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "의식주",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "24시간 배달이 되다": {
+      "text": "이십싸시간 배다리 되다",
+      "segments": [
+        {
+          "text": "이십",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        },
+        {
+          "text": "시간 배",
+          "changed": false
+        },
+        {
+          "text": "다리",
+          "changed": true
+        },
+        {
+          "text": " 되다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "이십사시간 배달이 되다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "문을 열다": {
+      "text": "무늘 열다",
+      "segments": [
+        {
+          "text": "무늘",
+          "changed": true
+        },
+        {
+          "text": " 열다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "문을 열다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "문을 닫다": {
+      "text": "무늘 닫따",
+      "segments": [
+        {
+          "text": "무늘",
+          "changed": true
+        },
+        {
+          "text": " 닫",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "문을 닫다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "약을 팔다": {
+      "text": "야글 팔다",
+      "segments": [
+        {
+          "text": "야글",
+          "changed": true
+        },
+        {
+          "text": " 팔다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "약을 팔다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "버스 전용 차로": {
+      "text": "버스 저뇽 차로",
+      "segments": [
+        {
+          "text": "버스 ",
+          "changed": false
+        },
+        {
+          "text": "저뇽",
+          "changed": true
+        },
+        {
+          "text": " 차로",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "버스 전용 차로",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "중국어": {
+      "text": "중구거",
+      "segments": [
+        {
+          "text": "중",
+          "changed": false
+        },
+        {
+          "text": "구거",
+          "changed": true
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "중국어",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    },
+    "익숙하다": {
+      "text": "익쑤카다",
+      "segments": [
+        {
+          "text": "익",
+          "changed": false
+        },
+        {
+          "text": "쑤카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "alternatives": [],
+      "comparisonText": "익숙하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "1단계 단어·표현, 이어 읽는 대표 발음, 장단음 생략"
+    }
+  }
+}
