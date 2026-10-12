@@ -238,3 +238,20 @@ details{margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}summar
  .practice-page main{grid-template-rows:auto auto 3px minmax(80px,.7fr) auto minmax(100px,1.3fr) auto}
  .practice-page main.long-example{grid-template-rows:auto auto 3px minmax(90px,.35fr) auto minmax(140px,1.65fr) auto}
 }
+
+/* Pronunciation appears below Korean only when the card is revealed. */
+.word-block,.answer-block{display:flex;flex-direction:column;align-items:center;justify-content:center;min-width:0;min-height:0;width:100%}
+.answer-block{display:none;width:min(600px,94%);margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+.card.revealed .answer-block{display:flex}
+.answer-block .answer{display:block;width:100%;border:0;margin:0;padding:0}
+.pronunciation{flex:none;margin-top:5px;font-family:system-ui,-apple-system,"Noto Sans KR",sans-serif;font-size:15px;line-height:1.35;font-weight:500;color:var(--muted);text-align:center;overflow-wrap:anywhere}
+.pronunciation[hidden]{display:none}
+.card:not(.revealed) .pronunciation{visibility:hidden}
+.pronunciation mark{padding:0 2px;border-radius:3px;background:#d4f2dc;color:#176b38;font-weight:750}
+@media(max-width:650px){
+ .practice-page .answer-block{display:flex;visibility:hidden;width:100%;height:100%;margin:0;padding:6px 0 0}
+ .practice-page .card.revealed .answer-block{visibility:visible}
+ .practice-page .word-block{height:100%}
+ .practice-page #card .word,.practice-page #card .answer{flex:0 1 auto}
+ .practice-page .pronunciation{font-size:13px;margin-top:3px;line-height:1.25}
+}
