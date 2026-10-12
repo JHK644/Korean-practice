@@ -255,3 +255,8 @@ details{margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}summar
  .practice-page #card .word,.practice-page #card .answer{flex:0 1 auto}
  .practice-page .pronunciation{font-size:13px;margin-top:3px;line-height:1.25}
 }
+
+/* Whole-reading playback: shared by every translation language. */
+.reading-full-sentence{box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.reading-full-sentence.reading-active,.reading-sentence .ko.reading-active{background:#ffe680;color:#222;border-radius:4px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.reading-active mark{background:#ffd34d;color:inherit;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}

@@ -32,13 +32,28 @@ function refreshVoices(){
 
 }
 
-function stopAudio(){audioRun++;clearTimeout(timer);clearTimeout(voiceStartTimer);const wasActive=!!activeUtterance;activeUtterance=null;if(synth&&(wasActive||synth.speaking||synth.pending))synth.cancel();document.querySelectorAll('[data-speak]').forEach(b=>{b.disabled=false;b.textContent='🔊 한국어 3번 듣기'});$('fullSpeak').disabled=false}
+function clearReadingHighlight(){document.querySelectorAll('.reading-active').forEach(el=>el.classList.remove('reading-active'))}
 
-function utter(text,onend){
+function highlightReadingSentence(index){
+ clearReadingHighlight();sentenceIndex=index;showSentence();
+ const card=$('sentences').children[index],line=$('fullText').children[index];
+ card?.querySelector('.ko').classList.add('reading-active');line?.classList.add('reading-active');
+ if(!$('fullText').hidden&&line){
+  const box=$('fullText');
+  if(box.scrollHeight>box.clientHeight){
+   const top=line.getBoundingClientRect().top-box.getBoundingClientRect().top+box.scrollTop;
+   if(top<box.scrollTop||top+line.offsetHeight>box.scrollTop+box.clientHeight)box.scrollTop=top;
+  }else line.scrollIntoView({block:'nearest'});
+ }
+}
+
+function stopAudio(){clearReadingHighlight();audioRun++;clearTimeout(timer);clearTimeout(voiceStartTimer);const wasActive=!!activeUtterance;activeUtterance=null;if(synth&&(wasActive||synth.speaking||synth.pending))synth.cancel();document.querySelectorAll('[data-speak]').forEach(b=>{b.disabled=false;b.textContent='🔊 한국어 3번 듣기'});$('fullSpeak').disabled=false}
+
+function utter(text,onend,onstart){
 
  const run=audioRun,u=new SpeechSynthesisUtterance(text),voice=koreanVoices().find(v=>voiceID(v)===voiceKey);
  activeUtterance=u;if(voice)u.voice=voice;u.lang='ko-KR';u.rate=.80;u.pitch=1;u.volume=1;
- u.onstart=()=>{if(run===audioRun)clearTimeout(voiceStartTimer)};
+ u.onstart=()=>{if(run===audioRun){clearTimeout(voiceStartTimer);if(onstart)onstart()}};
  u.onend=()=>{if(run!==audioRun)return;clearTimeout(voiceStartTimer);activeUtterance=null;onend()};
  const fail=code=>{
    if(run!==audioRun)return;stopAudio();
@@ -51,7 +66,14 @@ function utter(text,onend){
 
 }
 
-function speakWhole(lines){if(!synth)return;stopAudio();const run=audioRun;$('fullSpeak').disabled=true;let i=0;const play=()=>{if(run!==audioRun)return;if(i>=lines.length){$('fullSpeak').disabled=false;$('voiceStatus').textContent='전체 읽기 완료';return}$('voiceStatus').textContent=`전체 읽기 재생 중 · ${i+1}/${lines.length}`;utter(lines[i++],()=>{if(run===audioRun)timer=setTimeout(play,180)})};play()}
+function speakWhole(lines){if(!synth)return;stopAudio();const run=audioRun;$('fullSpeak').disabled=true;let i=0;const play=()=>{
+ if(run!==audioRun)return;
+ if(i>=lines.length){clearReadingHighlight();$('fullSpeak').disabled=false;$('voiceStatus').textContent='전체 읽기 완료';return}
+ const index=i++;
+ $('voiceStatus').textContent=`전체 읽기 재생 중 · ${index+1}/${lines.length}`;
+ utter(lines[index],()=>{if(run===audioRun){clearReadingHighlight();timer=setTimeout(play,180)}},()=>highlightReadingSentence(index));
+};play()}
+
 
 function speakThree(text,button){if(!synth)return;stopAudio();const run=audioRun;let n=0;button.disabled=true;const play=()=>{if(run!==audioRun)return;n++;button.textContent='🔊 '+n+'/3 듣는 중';$('voiceStatus').textContent='문장 듣기 · '+n+'/3';utter(text,()=>{if(run!==audioRun)return;if(n<3)timer=setTimeout(play,250);else{button.disabled=false;button.textContent='🔊 한국어 3번 듣기';$('voiceStatus').textContent='문장 듣기 완료'}})};play()}
 
@@ -59,7 +81,7 @@ function render(){
 
  const language=params.get('language'),cfg=db.languages[language];row=(db.readings||[]).find(x=>x.id===params.get('reading'));if(!cfg||!row){location.href='./reading.html';return}
 
- $('title').textContent=`${row.unit} ${row.kind==='culture'?'문화':'읽기'}`;$('subtitle').textContent=`${row.level}단계 · ${row.title} · ${cfg.name}`;$('kind').textContent=row.kind==='culture'?'문화':'읽기';$('readingTitle').textContent=row.title;$('fullText').textContent=row.items.map(x=>x.ko).join('\n');
+ $('title').textContent=`${row.unit} ${row.kind==='culture'?'문화':'읽기'}`;$('subtitle').textContent=`${row.level}단계 · ${row.title} · ${cfg.name}`;$('kind').textContent=row.kind==='culture'?'문화':'읽기';$('readingTitle').textContent=row.title;$('fullText').replaceChildren();row.items.forEach((item,i)=>{const line=document.createElement('span');line.className='reading-full-sentence';line.textContent=item.ko;if(i)$('fullText').append(document.createTextNode('\n'));$('fullText').append(line)});
 
  const box=$('sentences');box.replaceChildren();row.items.forEach((item,i)=>{const article=document.createElement('article');article.className='reading-sentence';const num=document.createElement('div');num.className='small';num.textContent=(i+1)+' / '+row.items.length;const ko=document.createElement('div');ko.className='ko';ko.textContent=item.ko;const tr=document.createElement('div');tr.className='translation';tr.dir=cfg.rtl?'rtl':'auto';tr.lang=cfg.lang||'';tr.textContent=item.translations?.[language]||'번역 준비 중';const btn=document.createElement('button');btn.className='plain';btn.dataset.speak='1';btn.textContent='🔊 한국어 3번 듣기';btn.onclick=()=>speakThree(item.ko,btn);article.append(num,ko,tr,btn);box.append(article)});
 
