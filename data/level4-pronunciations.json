@@ -1,0 +1,4793 @@
+{
+  "version": "1.4.32",
+  "level": "4",
+  "words": {
+    "뭐든 다 할 수 있을 것 같다": {
+      "text": "뭐든 다 할 쑤 이쓸 껃 깓따",
+      "segments": [
+        {
+          "text": "뭐든 다 할 ",
+          "changed": false
+        },
+        {
+          "text": "쑤",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "이쓸",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "껃",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "깓따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "뭐든 다 할 수 있을 것 같다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자신이 있다": {
+      "text": "자시니 읻따",
+      "segments": [
+        {
+          "text": "자",
+          "changed": false
+        },
+        {
+          "text": "시니",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "자신이 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "그립다": {
+      "text": "그립따",
+      "segments": [
+        {
+          "text": "그립",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "그립다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "답답하다": {
+      "text": "답따파다",
+      "segments": [
+        {
+          "text": "답",
+          "changed": false
+        },
+        {
+          "text": "따파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "답답하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "낯설다": {
+      "text": "낟썰다",
+      "segments": [
+        {
+          "text": "낟썰",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "낯설다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "적응하다": {
+      "text": "저긍하다",
+      "segments": [
+        {
+          "text": "저긍",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "적응하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "주변을 돌아보다": {
+      "text": "주벼늘 도라보다",
+      "segments": [
+        {
+          "text": "주",
+          "changed": false
+        },
+        {
+          "text": "벼늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "도라",
+          "changed": true
+        },
+        {
+          "text": "보다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "주변을 돌아보다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "오해를 받다": {
+      "text": "오해를 받따",
+      "segments": [
+        {
+          "text": "오해를 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "오해를 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자리를 잡다": {
+      "text": "자리를 잡따",
+      "segments": [
+        {
+          "text": "자리를 잡",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "자리를 잡다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "머리를 감다": {
+      "text": "머리를 감따",
+      "segments": [
+        {
+          "text": "머리를 감",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "머리를 감다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "앞만 보고 달리다": {
+      "text": "암만 보고 달리다",
+      "segments": [
+        {
+          "text": "암",
+          "changed": true
+        },
+        {
+          "text": "만 보고 달리다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "앞만 보고 달리다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "챙겨 먹다": {
+      "text": "챙겨 먹따",
+      "segments": [
+        {
+          "text": "챙겨 먹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "챙겨 먹다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "긍정적이다": {
+      "text": "긍정저기다",
+      "segments": [
+        {
+          "text": "긍정",
+          "changed": false
+        },
+        {
+          "text": "저기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "긍정적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "고생 끝에 낙이 오다": {
+      "text": "고생 끄테 나기 오다",
+      "segments": [
+        {
+          "text": "고생 ",
+          "changed": false
+        },
+        {
+          "text": "끄테",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "나기",
+          "changed": true
+        },
+        {
+          "text": " 오다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고생 끝에 낙이 오다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "엊그제": {
+      "text": "얻끄제",
+      "segments": [
+        {
+          "text": "얻끄",
+          "changed": true
+        },
+        {
+          "text": "제",
+          "changed": false
+        }
+      ],
+      "comparisonText": "엊그제",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "고진감래": {
+      "text": "고진감내",
+      "segments": [
+        {
+          "text": "고진감",
+          "changed": false
+        },
+        {
+          "text": "내",
+          "changed": true
+        }
+      ],
+      "comparisonText": "고진감래",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "옛말": {
+      "text": "옌말",
+      "segments": [
+        {
+          "text": "옌",
+          "changed": true
+        },
+        {
+          "text": "말",
+          "changed": false
+        }
+      ],
+      "comparisonText": "옛말",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "지름길": {
+      "text": "지름낄",
+      "segments": [
+        {
+          "text": "지름",
+          "changed": false
+        },
+        {
+          "text": "낄",
+          "changed": true
+        }
+      ],
+      "comparisonText": "지름길",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "번역자": {
+      "text": "버녁짜",
+      "segments": [
+        {
+          "text": "버녁짜",
+          "changed": true
+        }
+      ],
+      "comparisonText": "번역자",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "마음을 먹다": {
+      "text": "마으믈 먹따",
+      "segments": [
+        {
+          "text": "마",
+          "changed": false
+        },
+        {
+          "text": "으믈",
+          "changed": true
+        },
+        {
+          "text": " 먹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "마음을 먹다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "적성에 맞다": {
+      "text": "적썽에 맏따",
+      "segments": [
+        {
+          "text": "적",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        },
+        {
+          "text": "에 ",
+          "changed": false
+        },
+        {
+          "text": "맏따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "적성에 맞다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "겁이 나다": {
+      "text": "거비 나다",
+      "segments": [
+        {
+          "text": "거비",
+          "changed": true
+        },
+        {
+          "text": " 나다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "겁이 나다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "기회를 잡다": {
+      "text": "기회를 잡따",
+      "segments": [
+        {
+          "text": "기회를 잡",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "기회를 잡다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "핵가족": {
+      "text": "핵까족",
+      "segments": [
+        {
+          "text": "핵",
+          "changed": false
+        },
+        {
+          "text": "까",
+          "changed": true
+        },
+        {
+          "text": "족",
+          "changed": false
+        }
+      ],
+      "comparisonText": "핵가족",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "부모님을 모시다": {
+      "text": "부모니믈 모시다",
+      "segments": [
+        {
+          "text": "부모",
+          "changed": false
+        },
+        {
+          "text": "니믈",
+          "changed": true
+        },
+        {
+          "text": " 모시다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "부모님을 모시다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "유대가 깊다": {
+      "text": "유대가 깁따",
+      "segments": [
+        {
+          "text": "유대가 ",
+          "changed": false
+        },
+        {
+          "text": "깁따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "유대가 깊다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "맞벌이 부부": {
+      "text": "맏뻐리 부부",
+      "segments": [
+        {
+          "text": "맏뻐리",
+          "changed": true
+        },
+        {
+          "text": " 부부",
+          "changed": false
+        }
+      ],
+      "comparisonText": "맞벌이 부부",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "독거노인": {
+      "text": "독꺼노인",
+      "segments": [
+        {
+          "text": "독",
+          "changed": false
+        },
+        {
+          "text": "꺼",
+          "changed": true
+        },
+        {
+          "text": "노인",
+          "changed": false
+        }
+      ],
+      "comparisonText": "독거노인",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국제결혼": {
+      "text": "국쩨결혼",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩨",
+          "changed": true
+        },
+        {
+          "text": "결혼",
+          "changed": false
+        }
+      ],
+      "comparisonText": "국제결혼",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "아이를 낳다": {
+      "text": "아이를 나타",
+      "segments": [
+        {
+          "text": "아이를 ",
+          "changed": false
+        },
+        {
+          "text": "나타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "아이를 낳다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "입양하다": {
+      "text": "이뱡하다",
+      "segments": [
+        {
+          "text": "이뱡",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "입양하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "독립하다": {
+      "text": "동니파다",
+      "segments": [
+        {
+          "text": "동니파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "독립하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "전업": {
+      "text": "저넙",
+      "segments": [
+        {
+          "text": "저넙",
+          "changed": true
+        }
+      ],
+      "comparisonText": "전업",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "복지": {
+      "text": "복찌",
+      "segments": [
+        {
+          "text": "복",
+          "changed": false
+        },
+        {
+          "text": "찌",
+          "changed": true
+        }
+      ],
+      "comparisonText": "복지",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "식구": {
+      "text": "식꾸",
+      "segments": [
+        {
+          "text": "식",
+          "changed": false
+        },
+        {
+          "text": "꾸",
+          "changed": true
+        }
+      ],
+      "comparisonText": "식구",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "육아 휴직을 내다": {
+      "text": "유가 휴지글 내다",
+      "segments": [
+        {
+          "text": "유가",
+          "changed": true
+        },
+        {
+          "text": " 휴",
+          "changed": false
+        },
+        {
+          "text": "지글",
+          "changed": true
+        },
+        {
+          "text": " 내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "육아 휴직을 내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "경제적인 부담": {
+      "text": "경제저긴 부담",
+      "segments": [
+        {
+          "text": "경제",
+          "changed": false
+        },
+        {
+          "text": "저긴",
+          "changed": true
+        },
+        {
+          "text": " 부담",
+          "changed": false
+        }
+      ],
+      "comparisonText": "경제적인 부담",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "혼인율": {
+      "text": "호닌뉼",
+      "segments": [
+        {
+          "text": "호닌뉼",
+          "changed": true
+        }
+      ],
+      "comparisonText": "혼인율",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "연령": {
+      "text": "열령",
+      "segments": [
+        {
+          "text": "열",
+          "changed": true
+        },
+        {
+          "text": "령",
+          "changed": false
+        }
+      ],
+      "comparisonText": "연령",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "이혼율": {
+      "text": "이혼뉼",
+      "segments": [
+        {
+          "text": "이혼",
+          "changed": false
+        },
+        {
+          "text": "뉼",
+          "changed": true
+        }
+      ],
+      "comparisonText": "이혼율",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "경제 활동": {
+      "text": "경제 활똥",
+      "segments": [
+        {
+          "text": "경제 활",
+          "changed": false
+        },
+        {
+          "text": "똥",
+          "changed": true
+        }
+      ],
+      "comparisonText": "경제 활동",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "사물 인터넷(IoT)": {
+      "text": "사물 인터넫(IoT)",
+      "segments": [
+        {
+          "text": "사물 인터",
+          "changed": false
+        },
+        {
+          "text": "넫",
+          "changed": true
+        },
+        {
+          "text": "(IoT)",
+          "changed": false
+        }
+      ],
+      "comparisonText": "사물 인터넷(IoT)",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "목숨을 구하다": {
+      "text": "목쑤믈 구하다",
+      "segments": [
+        {
+          "text": "목",
+          "changed": false
+        },
+        {
+          "text": "쑤믈",
+          "changed": true
+        },
+        {
+          "text": " 구하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "목숨을 구하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "꼽다": {
+      "text": "꼽따",
+      "segments": [
+        {
+          "text": "꼽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "꼽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "시급하다": {
+      "text": "시그파다",
+      "segments": [
+        {
+          "text": "시",
+          "changed": false
+        },
+        {
+          "text": "그파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "시급하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "무인 편의점": {
+      "text": "무인 펴늬점",
+      "segments": [
+        {
+          "text": "무인 ",
+          "changed": false
+        },
+        {
+          "text": "펴늬",
+          "changed": true
+        },
+        {
+          "text": "점",
+          "changed": false
+        }
+      ],
+      "comparisonText": "무인 편의점",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "수집하다": {
+      "text": "수지파다",
+      "segments": [
+        {
+          "text": "수",
+          "changed": false
+        },
+        {
+          "text": "지파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "수집하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "분석하다": {
+      "text": "분서카다",
+      "segments": [
+        {
+          "text": "분",
+          "changed": false
+        },
+        {
+          "text": "서카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "분석하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "활용하다": {
+      "text": "화룡하다",
+      "segments": [
+        {
+          "text": "화룡",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "활용하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "응답하다": {
+      "text": "응다파다",
+      "segments": [
+        {
+          "text": "응",
+          "changed": false
+        },
+        {
+          "text": "다파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "응답하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "작동하다": {
+      "text": "작똥하다",
+      "segments": [
+        {
+          "text": "작",
+          "changed": false
+        },
+        {
+          "text": "똥",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "작동하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "끊임없이": {
+      "text": "끄니멉씨",
+      "segments": [
+        {
+          "text": "끄니멉씨",
+          "changed": true
+        }
+      ],
+      "comparisonText": "끊임없이",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "발전하다": {
+      "text": "발쩐하다",
+      "segments": [
+        {
+          "text": "발",
+          "changed": false
+        },
+        {
+          "text": "쩐",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "발전하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "주목받다": {
+      "text": "주목빧따",
+      "segments": [
+        {
+          "text": "주목",
+          "changed": false
+        },
+        {
+          "text": "빧따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "주목받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "결혼식장": {
+      "text": "결혼식짱",
+      "segments": [
+        {
+          "text": "결혼식",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        }
+      ],
+      "comparisonText": "결혼식장",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "축의금을 내다": {
+      "text": "추긔그믈 내다",
+      "segments": [
+        {
+          "text": "추긔그믈",
+          "changed": true
+        },
+        {
+          "text": " 내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "축의금을 내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "피로연을 하다": {
+      "text": "피로여늘 하다",
+      "segments": [
+        {
+          "text": "피로",
+          "changed": false
+        },
+        {
+          "text": "여늘",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "피로연을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "폐백을 하다": {
+      "text": "폐배글 하다",
+      "segments": [
+        {
+          "text": "폐",
+          "changed": false
+        },
+        {
+          "text": "배글",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "폐백을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "장례식장": {
+      "text": "장녜식짱",
+      "segments": [
+        {
+          "text": "장",
+          "changed": false
+        },
+        {
+          "text": "녜",
+          "changed": true
+        },
+        {
+          "text": "식",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        }
+      ],
+      "comparisonText": "장례식장",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "조의금을 내다": {
+      "text": "조의그믈 내다",
+      "segments": [
+        {
+          "text": "조의",
+          "changed": false
+        },
+        {
+          "text": "그믈",
+          "changed": true
+        },
+        {
+          "text": " 내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "조의금을 내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "상복을 입다": {
+      "text": "상보글 입따",
+      "segments": [
+        {
+          "text": "상",
+          "changed": false
+        },
+        {
+          "text": "보글",
+          "changed": true
+        },
+        {
+          "text": " 입",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "상복을 입다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "무덥다": {
+      "text": "무덥따",
+      "segments": [
+        {
+          "text": "무덥",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "무덥다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "촬영하다": {
+      "text": "촤령하다",
+      "segments": [
+        {
+          "text": "촤령",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "촬영하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "우울증": {
+      "text": "우울쯩",
+      "segments": [
+        {
+          "text": "우울",
+          "changed": false
+        },
+        {
+          "text": "쯩",
+          "changed": true
+        }
+      ],
+      "comparisonText": "우울증",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "혼인 서약": {
+      "text": "호닌 서약",
+      "segments": [
+        {
+          "text": "호닌",
+          "changed": true
+        },
+        {
+          "text": " 서약",
+          "changed": false
+        }
+      ],
+      "comparisonText": "혼인 서약",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "축가": {
+      "text": "축까",
+      "segments": [
+        {
+          "text": "축",
+          "changed": false
+        },
+        {
+          "text": "까",
+          "changed": true
+        }
+      ],
+      "comparisonText": "축가",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "명복을 빌다": {
+      "text": "명보글 빌다",
+      "segments": [
+        {
+          "text": "명",
+          "changed": false
+        },
+        {
+          "text": "보글",
+          "changed": true
+        },
+        {
+          "text": " 빌다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "명복을 빌다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "백일잔치": {
+      "text": "배길잔치",
+      "segments": [
+        {
+          "text": "배길",
+          "changed": true
+        },
+        {
+          "text": "잔치",
+          "changed": false
+        }
+      ],
+      "comparisonText": "백일잔치",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "회갑연/환갑잔치": {
+      "text": "회가변/환갑짠치",
+      "segments": [
+        {
+          "text": "회",
+          "changed": false
+        },
+        {
+          "text": "가변",
+          "changed": true
+        },
+        {
+          "text": "/환갑",
+          "changed": false
+        },
+        {
+          "text": "짠",
+          "changed": true
+        },
+        {
+          "text": "치",
+          "changed": false
+        }
+      ],
+      "comparisonText": "회갑연/환갑잔치",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "고희연/칠순 잔치": {
+      "text": "고히연/칠쑨 잔치",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "히",
+          "changed": true
+        },
+        {
+          "text": "연/칠",
+          "changed": false
+        },
+        {
+          "text": "쑨",
+          "changed": true
+        },
+        {
+          "text": " 잔치",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고희연/칠순 잔치",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "장래를 추측하다": {
+      "text": "장내를 추츠카다",
+      "segments": [
+        {
+          "text": "장",
+          "changed": false
+        },
+        {
+          "text": "내",
+          "changed": true
+        },
+        {
+          "text": "를 추",
+          "changed": false
+        },
+        {
+          "text": "츠카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "장래를 추측하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자리를 빛내다": {
+      "text": "자리를 빈내다",
+      "segments": [
+        {
+          "text": "자리를 ",
+          "changed": false
+        },
+        {
+          "text": "빈",
+          "changed": true
+        },
+        {
+          "text": "내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "자리를 빛내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "돌잡이": {
+      "text": "돌자비",
+      "segments": [
+        {
+          "text": "돌",
+          "changed": false
+        },
+        {
+          "text": "자비",
+          "changed": true
+        }
+      ],
+      "comparisonText": "돌잡이",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "감격하다": {
+      "text": "감겨카다",
+      "segments": [
+        {
+          "text": "감",
+          "changed": false
+        },
+        {
+          "text": "겨카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "감격하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "정겹다": {
+      "text": "정겹따",
+      "segments": [
+        {
+          "text": "정겹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "정겹다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자연 유산": {
+      "text": "자연 뉴산",
+      "segments": [
+        {
+          "text": "자연 ",
+          "changed": false
+        },
+        {
+          "text": "뉴",
+          "changed": true
+        },
+        {
+          "text": "산",
+          "changed": false
+        }
+      ],
+      "comparisonText": "자연 유산",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "무형 유산": {
+      "text": "무형 뉴산",
+      "segments": [
+        {
+          "text": "무형 ",
+          "changed": false
+        },
+        {
+          "text": "뉴",
+          "changed": true
+        },
+        {
+          "text": "산",
+          "changed": false
+        }
+      ],
+      "comparisonText": "무형 유산",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "기록 유산": {
+      "text": "기롱 뉴산",
+      "segments": [
+        {
+          "text": "기",
+          "changed": false
+        },
+        {
+          "text": "롱",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "뉴",
+          "changed": true
+        },
+        {
+          "text": "산",
+          "changed": false
+        }
+      ],
+      "comparisonText": "기록 유산",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "유적지": {
+      "text": "유적찌",
+      "segments": [
+        {
+          "text": "유적",
+          "changed": false
+        },
+        {
+          "text": "찌",
+          "changed": true
+        }
+      ],
+      "comparisonText": "유적지",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "화산 작용": {
+      "text": "화산 자굥",
+      "segments": [
+        {
+          "text": "화산 ",
+          "changed": false
+        },
+        {
+          "text": "자굥",
+          "changed": true
+        }
+      ],
+      "comparisonText": "화산 작용",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "우수성": {
+      "text": "우수썽",
+      "segments": [
+        {
+          "text": "우수",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "우수성",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "인정받다": {
+      "text": "인정받따",
+      "segments": [
+        {
+          "text": "인정받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "인정받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "집현전 학자": {
+      "text": "지편전 학짜",
+      "segments": [
+        {
+          "text": "지편",
+          "changed": true
+        },
+        {
+          "text": "전 학",
+          "changed": false
+        },
+        {
+          "text": "짜",
+          "changed": true
+        }
+      ],
+      "comparisonText": "집현전 학자",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "묻히다": {
+      "text": "무치다",
+      "segments": [
+        {
+          "text": "무치",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "묻히다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "절대적": {
+      "text": "절때적",
+      "segments": [
+        {
+          "text": "절",
+          "changed": false
+        },
+        {
+          "text": "때",
+          "changed": true
+        },
+        {
+          "text": "적",
+          "changed": false
+        }
+      ],
+      "comparisonText": "절대적",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "조각상": {
+      "text": "조각쌍",
+      "segments": [
+        {
+          "text": "조각",
+          "changed": false
+        },
+        {
+          "text": "쌍",
+          "changed": true
+        }
+      ],
+      "comparisonText": "조각상",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국제 협력 단체가 늘어나다": {
+      "text": "국쩨 혐녁 딴체가 느러나다",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩨",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "혐녁",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "딴",
+          "changed": true
+        },
+        {
+          "text": "체가 ",
+          "changed": false
+        },
+        {
+          "text": "느러",
+          "changed": true
+        },
+        {
+          "text": "나다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "국제 협력 단체가 늘어나다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국제 교류가 활발해지다": {
+      "text": "국쩨 교류가 활발해지다",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩨",
+          "changed": true
+        },
+        {
+          "text": " 교류가 활발해지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "국제 교류가 활발해지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국제 분쟁을 해결하다": {
+      "text": "국쩨 분쟁을 해결하다",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩨",
+          "changed": true
+        },
+        {
+          "text": " 분쟁을 해결하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "국제 분쟁을 해결하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국제기구에 가입하다": {
+      "text": "국쩨기구에 가이파다",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩨",
+          "changed": true
+        },
+        {
+          "text": "기구에 가",
+          "changed": false
+        },
+        {
+          "text": "이파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "국제기구에 가입하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "외교 관계를 맺다": {
+      "text": "외교 관계를 맫따",
+      "segments": [
+        {
+          "text": "외교 관계를 ",
+          "changed": false
+        },
+        {
+          "text": "맫따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "외교 관계를 맺다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "다국적 기업이 증가하다": {
+      "text": "다국쩍 기어비 증가하다",
+      "segments": [
+        {
+          "text": "다국",
+          "changed": false
+        },
+        {
+          "text": "쩍",
+          "changed": true
+        },
+        {
+          "text": " 기",
+          "changed": false
+        },
+        {
+          "text": "어비",
+          "changed": true
+        },
+        {
+          "text": " 증가하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "다국적 기업이 증가하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "외국어에 능통하다": {
+      "text": "외구거에 능통하다",
+      "segments": [
+        {
+          "text": "외",
+          "changed": false
+        },
+        {
+          "text": "구거",
+          "changed": true
+        },
+        {
+          "text": "에 능통하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "외국어에 능통하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "발 디딜 틈이 없다": {
+      "text": "발 디딜 트미 업따",
+      "segments": [
+        {
+          "text": "발 디딜 ",
+          "changed": false
+        },
+        {
+          "text": "트미",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "업따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "발 디딜 틈이 없다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "분야": {
+      "text": "부냐",
+      "segments": [
+        {
+          "text": "부냐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "분야",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "인력": {
+      "text": "일력",
+      "segments": [
+        {
+          "text": "일",
+          "changed": true
+        },
+        {
+          "text": "력",
+          "changed": false
+        }
+      ],
+      "comparisonText": "인력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "정신없다": {
+      "text": "정시넙따",
+      "segments": [
+        {
+          "text": "정",
+          "changed": false
+        },
+        {
+          "text": "시넙따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "정신없다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "낯설어 하다": {
+      "text": "낟써러 하다",
+      "segments": [
+        {
+          "text": "낟써러",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "낯설어 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "생각을 넓히다": {
+      "text": "생가글 널피다",
+      "segments": [
+        {
+          "text": "생",
+          "changed": false
+        },
+        {
+          "text": "가글",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "널피",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "생각을 넓히다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "저출산": {
+      "text": "저출싼",
+      "segments": [
+        {
+          "text": "저출",
+          "changed": false
+        },
+        {
+          "text": "싼",
+          "changed": true
+        }
+      ],
+      "comparisonText": "저출산",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "일손": {
+      "text": "일쏜",
+      "segments": [
+        {
+          "text": "일",
+          "changed": false
+        },
+        {
+          "text": "쏜",
+          "changed": true
+        }
+      ],
+      "comparisonText": "일손",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "갈등": {
+      "text": "갈뜽",
+      "segments": [
+        {
+          "text": "갈",
+          "changed": false
+        },
+        {
+          "text": "뜽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "갈등",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "언어 실력": {
+      "text": "어너 실력",
+      "segments": [
+        {
+          "text": "어너",
+          "changed": true
+        },
+        {
+          "text": " 실력",
+          "changed": false
+        }
+      ],
+      "comparisonText": "언어 실력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "업무": {
+      "text": "엄무",
+      "segments": [
+        {
+          "text": "엄",
+          "changed": true
+        },
+        {
+          "text": "무",
+          "changed": false
+        }
+      ],
+      "comparisonText": "업무",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "발전": {
+      "text": "발쩐",
+      "segments": [
+        {
+          "text": "발",
+          "changed": false
+        },
+        {
+          "text": "쩐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "발전",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "받아들이다": {
+      "text": "바다드리다",
+      "segments": [
+        {
+          "text": "바다드리",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "받아들이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "고열이 나다": {
+      "text": "고여리 나다",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "여리",
+          "changed": true
+        },
+        {
+          "text": " 나다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고열이 나다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "목이 따끔거리다": {
+      "text": "모기 따끔거리다",
+      "segments": [
+        {
+          "text": "모기",
+          "changed": true
+        },
+        {
+          "text": " 따끔거리다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "목이 따끔거리다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "속이 쓰리다": {
+      "text": "소기 쓰리다",
+      "segments": [
+        {
+          "text": "소기",
+          "changed": true
+        },
+        {
+          "text": " 쓰리다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "속이 쓰리다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "배가 더부룩하다": {
+      "text": "배가 더부루카다",
+      "segments": [
+        {
+          "text": "배가 더부",
+          "changed": false
+        },
+        {
+          "text": "루카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "배가 더부룩하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "얼굴에 뭐가 나다": {
+      "text": "얼구레 뭐가 나다",
+      "segments": [
+        {
+          "text": "얼",
+          "changed": false
+        },
+        {
+          "text": "구레",
+          "changed": true
+        },
+        {
+          "text": " 뭐가 나다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "얼굴에 뭐가 나다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "어지럽다": {
+      "text": "어지럽따",
+      "segments": [
+        {
+          "text": "어지럽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "어지럽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "다리가 붓다": {
+      "text": "다리가 붇따",
+      "segments": [
+        {
+          "text": "다리가 ",
+          "changed": false
+        },
+        {
+          "text": "붇따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "다리가 붓다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "혈압이 높다": {
+      "text": "혀라비 놉따",
+      "segments": [
+        {
+          "text": "혀라비",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "놉따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "혈압이 높다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자극적이다": {
+      "text": "자극쩌기다",
+      "segments": [
+        {
+          "text": "자극",
+          "changed": false
+        },
+        {
+          "text": "쩌기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "자극적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "뒷정리": {
+      "text": "뒤쩡니",
+      "segments": [
+        {
+          "text": "뒤쩡니",
+          "changed": true
+        }
+      ],
+      "comparisonText": "뒷정리",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "전염되다": {
+      "text": "저념되다",
+      "segments": [
+        {
+          "text": "저념",
+          "changed": true
+        },
+        {
+          "text": "되다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "전염되다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "급성": {
+      "text": "급썽",
+      "segments": [
+        {
+          "text": "급",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "급성",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "금연하다": {
+      "text": "그면하다",
+      "segments": [
+        {
+          "text": "그면",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "금연하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "밀접하다": {
+      "text": "밀쩌파다",
+      "segments": [
+        {
+          "text": "밀",
+          "changed": false
+        },
+        {
+          "text": "쩌파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "밀접하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "댓글": {
+      "text": "댇끌",
+      "segments": [
+        {
+          "text": "댇끌",
+          "changed": true
+        }
+      ],
+      "comparisonText": "댓글",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "접속하다": {
+      "text": "접쏘카다",
+      "segments": [
+        {
+          "text": "접",
+          "changed": false
+        },
+        {
+          "text": "쏘카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "접속하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "입력하다": {
+      "text": "임녀카다",
+      "segments": [
+        {
+          "text": "임녀카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "입력하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자격증": {
+      "text": "자격쯩",
+      "segments": [
+        {
+          "text": "자격",
+          "changed": false
+        },
+        {
+          "text": "쯩",
+          "changed": true
+        }
+      ],
+      "comparisonText": "자격증",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "악용되다": {
+      "text": "아굥되다",
+      "segments": [
+        {
+          "text": "아굥",
+          "changed": true
+        },
+        {
+          "text": "되다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "악용되다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "입장": {
+      "text": "입짱",
+      "segments": [
+        {
+          "text": "입",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        }
+      ],
+      "comparisonText": "입장",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "무기력하다": {
+      "text": "무기려카다",
+      "segments": [
+        {
+          "text": "무기",
+          "changed": false
+        },
+        {
+          "text": "려카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "무기력하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "거북목 증후군": {
+      "text": "거붕목 쯩후군",
+      "segments": [
+        {
+          "text": "거",
+          "changed": false
+        },
+        {
+          "text": "붕",
+          "changed": true
+        },
+        {
+          "text": "목 ",
+          "changed": false
+        },
+        {
+          "text": "쯩",
+          "changed": true
+        },
+        {
+          "text": "후군",
+          "changed": false
+        }
+      ],
+      "comparisonText": "거북목 증후군",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "의존성": {
+      "text": "의존썽",
+      "segments": [
+        {
+          "text": "의존",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "의존성",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "익명성": {
+      "text": "잉명썽",
+      "segments": [
+        {
+          "text": "잉",
+          "changed": true
+        },
+        {
+          "text": "명",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "익명성",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "손쉽다": {
+      "text": "손쉽따",
+      "segments": [
+        {
+          "text": "손쉽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "손쉽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "찢어지다": {
+      "text": "찌저지다",
+      "segments": [
+        {
+          "text": "찌저",
+          "changed": true
+        },
+        {
+          "text": "지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "찢어지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "목발을 짚다": {
+      "text": "목빠를 집따",
+      "segments": [
+        {
+          "text": "목",
+          "changed": false
+        },
+        {
+          "text": "빠를",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "집따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "목발을 짚다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자극적": {
+      "text": "자극쩍",
+      "segments": [
+        {
+          "text": "자극",
+          "changed": false
+        },
+        {
+          "text": "쩍",
+          "changed": true
+        }
+      ],
+      "comparisonText": "자극적",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "화상을 입다": {
+      "text": "화상을 입따",
+      "segments": [
+        {
+          "text": "화상을 입",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "화상을 입다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "부딪히다": {
+      "text": "부디치다",
+      "segments": [
+        {
+          "text": "부",
+          "changed": false
+        },
+        {
+          "text": "디치",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "부딪히다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "침입": {
+      "text": "치밉",
+      "segments": [
+        {
+          "text": "치밉",
+          "changed": true
+        }
+      ],
+      "comparisonText": "침입",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "폭행": {
+      "text": "포캥",
+      "segments": [
+        {
+          "text": "포캥",
+          "changed": true
+        }
+      ],
+      "comparisonText": "폭행",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "잇따르다": {
+      "text": "읻따르다",
+      "segments": [
+        {
+          "text": "읻",
+          "changed": true
+        },
+        {
+          "text": "따르다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "잇따르다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "신속하다": {
+      "text": "신소카다",
+      "segments": [
+        {
+          "text": "신",
+          "changed": false
+        },
+        {
+          "text": "소카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "신속하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "언어 예절을 지키다": {
+      "text": "어너 예저를 지키다",
+      "segments": [
+        {
+          "text": "어너",
+          "changed": true
+        },
+        {
+          "text": " 예",
+          "changed": false
+        },
+        {
+          "text": "저를",
+          "changed": true
+        },
+        {
+          "text": " 지키다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "언어 예절을 지키다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "올바른 언어를 사용하다": {
+      "text": "올바른 어너를 사용하다",
+      "segments": [
+        {
+          "text": "올바른 ",
+          "changed": false
+        },
+        {
+          "text": "어너",
+          "changed": true
+        },
+        {
+          "text": "를 사용하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "올바른 언어를 사용하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "때와 장소에 맞게 말하다": {
+      "text": "때와 장소에 맏께 말하다",
+      "segments": [
+        {
+          "text": "때와 장소에 ",
+          "changed": false
+        },
+        {
+          "text": "맏께",
+          "changed": true
+        },
+        {
+          "text": " 말하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "때와 장소에 맞게 말하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "표준어를 구사하다": {
+      "text": "표주너를 구사하다",
+      "segments": [
+        {
+          "text": "표",
+          "changed": false
+        },
+        {
+          "text": "주너",
+          "changed": true
+        },
+        {
+          "text": "를 구사하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "표준어를 구사하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "정확하게 발음하다": {
+      "text": "정화카게 바름하다",
+      "segments": [
+        {
+          "text": "정",
+          "changed": false
+        },
+        {
+          "text": "화카",
+          "changed": true
+        },
+        {
+          "text": "게 ",
+          "changed": false
+        },
+        {
+          "text": "바름",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "정확하게 발음하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "적절한 호칭을 쓰다": {
+      "text": "적쩔한 호칭을 쓰다",
+      "segments": [
+        {
+          "text": "적",
+          "changed": false
+        },
+        {
+          "text": "쩔",
+          "changed": true
+        },
+        {
+          "text": "한 호칭을 쓰다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "적절한 호칭을 쓰다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "비속어": {
+      "text": "비소거",
+      "segments": [
+        {
+          "text": "비",
+          "changed": false
+        },
+        {
+          "text": "소거",
+          "changed": true
+        }
+      ],
+      "comparisonText": "비속어",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "맞춤법이 틀리다": {
+      "text": "맏춤뻐비 틀리다",
+      "segments": [
+        {
+          "text": "맏",
+          "changed": true
+        },
+        {
+          "text": "춤",
+          "changed": false
+        },
+        {
+          "text": "뻐비",
+          "changed": true
+        },
+        {
+          "text": " 틀리다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "맞춤법이 틀리다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "띄어쓰기를 잘못하다": {
+      "text": "띠어쓰기를 잘모타다",
+      "segments": [
+        {
+          "text": "띠",
+          "changed": true
+        },
+        {
+          "text": "어쓰기를 잘",
+          "changed": false
+        },
+        {
+          "text": "모타",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "띄어쓰기를 잘못하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "발음이 부정확하다": {
+      "text": "바르미 부정화카다",
+      "segments": [
+        {
+          "text": "바르미",
+          "changed": true
+        },
+        {
+          "text": " 부정",
+          "changed": false
+        },
+        {
+          "text": "화카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "발음이 부정확하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "억양이 부자연스럽다": {
+      "text": "어걍이 부자연스럽따",
+      "segments": [
+        {
+          "text": "어걍",
+          "changed": true
+        },
+        {
+          "text": "이 부자연스럽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "억양이 부자연스럽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "속담": {
+      "text": "속땀",
+      "segments": [
+        {
+          "text": "속",
+          "changed": false
+        },
+        {
+          "text": "땀",
+          "changed": true
+        }
+      ],
+      "comparisonText": "속담",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "활용": {
+      "text": "화룡",
+      "segments": [
+        {
+          "text": "화룡",
+          "changed": true
+        }
+      ],
+      "comparisonText": "활용",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "모국어": {
+      "text": "모구거",
+      "segments": [
+        {
+          "text": "모",
+          "changed": false
+        },
+        {
+          "text": "구거",
+          "changed": true
+        }
+      ],
+      "comparisonText": "모국어",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "섞다": {
+      "text": "석따",
+      "segments": [
+        {
+          "text": "석따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "섞다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "헷갈리다": {
+      "text": "헫깔리다",
+      "segments": [
+        {
+          "text": "헫깔",
+          "changed": true
+        },
+        {
+          "text": "리다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "헷갈리다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "동문서답하다": {
+      "text": "동문서다파다",
+      "segments": [
+        {
+          "text": "동문서",
+          "changed": false
+        },
+        {
+          "text": "다파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "동문서답하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "결심하다": {
+      "text": "결씸하다",
+      "segments": [
+        {
+          "text": "결",
+          "changed": false
+        },
+        {
+          "text": "씸",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "결심하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "별일": {
+      "text": "별릴",
+      "segments": [
+        {
+          "text": "별",
+          "changed": false
+        },
+        {
+          "text": "릴",
+          "changed": true
+        }
+      ],
+      "comparisonText": "별일",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "적절하다": {
+      "text": "적쩔하다",
+      "segments": [
+        {
+          "text": "적",
+          "changed": false
+        },
+        {
+          "text": "쩔",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "적절하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "격식을 차리다": {
+      "text": "격씨글 차리다",
+      "segments": [
+        {
+          "text": "격",
+          "changed": false
+        },
+        {
+          "text": "씨글",
+          "changed": true
+        },
+        {
+          "text": " 차리다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "격식을 차리다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "혼란을 일으키다": {
+      "text": "홀라늘 이르키다",
+      "segments": [
+        {
+          "text": "홀라늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "이르",
+          "changed": true
+        },
+        {
+          "text": "키다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "혼란을 일으키다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "급변하다": {
+      "text": "급뼌하다",
+      "segments": [
+        {
+          "text": "급",
+          "changed": false
+        },
+        {
+          "text": "뼌",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "급변하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "지적하다": {
+      "text": "지저카다",
+      "segments": [
+        {
+          "text": "지",
+          "changed": false
+        },
+        {
+          "text": "저카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "지적하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국립/공립": {
+      "text": "궁닙/공닙",
+      "segments": [
+        {
+          "text": "궁닙",
+          "changed": true
+        },
+        {
+          "text": "/공",
+          "changed": false
+        },
+        {
+          "text": "닙",
+          "changed": true
+        }
+      ],
+      "comparisonText": "국립/공립",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국가": {
+      "text": "국까",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "까",
+          "changed": true
+        }
+      ],
+      "comparisonText": "국가",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "자율적": {
+      "text": "자율쩍",
+      "segments": [
+        {
+          "text": "자율",
+          "changed": false
+        },
+        {
+          "text": "쩍",
+          "changed": true
+        }
+      ],
+      "comparisonText": "자율적",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "교육열": {
+      "text": "교융녈",
+      "segments": [
+        {
+          "text": "교",
+          "changed": false
+        },
+        {
+          "text": "융녈",
+          "changed": true
+        }
+      ],
+      "comparisonText": "교육열",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "주입식 교육": {
+      "text": "주입씩 꾜육",
+      "segments": [
+        {
+          "text": "주입",
+          "changed": false
+        },
+        {
+          "text": "씩",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "꾜",
+          "changed": true
+        },
+        {
+          "text": "육",
+          "changed": false
+        }
+      ],
+      "comparisonText": "주입식 교육",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "낡다": {
+      "text": "낙따",
+      "segments": [
+        {
+          "text": "낙따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "낡다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "학력": {
+      "text": "항녁",
+      "segments": [
+        {
+          "text": "항녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "학력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "습득력": {
+      "text": "습뜽녁",
+      "segments": [
+        {
+          "text": "습",
+          "changed": false
+        },
+        {
+          "text": "뜽녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "습득력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "부작용": {
+      "text": "부자굥",
+      "segments": [
+        {
+          "text": "부",
+          "changed": false
+        },
+        {
+          "text": "자굥",
+          "changed": true
+        }
+      ],
+      "comparisonText": "부작용",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "대학 수학 능력 시험(수능)": {
+      "text": "대학 쑤항 능녁 씨험(수능)",
+      "segments": [
+        {
+          "text": "대학 ",
+          "changed": false
+        },
+        {
+          "text": "쑤항",
+          "changed": true
+        },
+        {
+          "text": " 능",
+          "changed": false
+        },
+        {
+          "text": "녁",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        },
+        {
+          "text": "험(수능)",
+          "changed": false
+        }
+      ],
+      "comparisonText": "대학 수학 능력 시험(수능)",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "방과 후 학습": {
+      "text": "방과 후 학씁",
+      "segments": [
+        {
+          "text": "방과 후 학",
+          "changed": false
+        },
+        {
+          "text": "씁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "방과 후 학습",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "체험 학습": {
+      "text": "체험 학씁",
+      "segments": [
+        {
+          "text": "체험 학",
+          "changed": false
+        },
+        {
+          "text": "씁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "체험 학습",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "선행 학습": {
+      "text": "선행 학씁",
+      "segments": [
+        {
+          "text": "선행 학",
+          "changed": false
+        },
+        {
+          "text": "씁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "선행 학습",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "평생 학습": {
+      "text": "평생 학씁",
+      "segments": [
+        {
+          "text": "평생 학",
+          "changed": false
+        },
+        {
+          "text": "씁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "평생 학습",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "진학률": {
+      "text": "진항뉼",
+      "segments": [
+        {
+          "text": "진",
+          "changed": false
+        },
+        {
+          "text": "항뉼",
+          "changed": true
+        }
+      ],
+      "comparisonText": "진학률",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "국회 의원": {
+      "text": "구쾨 의원",
+      "segments": [
+        {
+          "text": "구쾨",
+          "changed": true
+        },
+        {
+          "text": " 의원",
+          "changed": false
+        }
+      ],
+      "comparisonText": "국회 의원",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "교육감": {
+      "text": "교육깜",
+      "segments": [
+        {
+          "text": "교육",
+          "changed": false
+        },
+        {
+          "text": "깜",
+          "changed": true
+        }
+      ],
+      "comparisonText": "교육감",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "투표함에 넣다": {
+      "text": "투표하메 너타",
+      "segments": [
+        {
+          "text": "투표",
+          "changed": false
+        },
+        {
+          "text": "하메",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "너타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "투표함에 넣다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "지지율이 높다/낮다": {
+      "text": "지지유리 놉따/낟따",
+      "segments": [
+        {
+          "text": "지지",
+          "changed": false
+        },
+        {
+          "text": "유리",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "놉따",
+          "changed": true
+        },
+        {
+          "text": "/",
+          "changed": false
+        },
+        {
+          "text": "낟따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "지지율이 높다/낮다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "득표율이 높다/낮다": {
+      "text": "득표유리 놉따/낟따",
+      "segments": [
+        {
+          "text": "득표",
+          "changed": false
+        },
+        {
+          "text": "유리",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "놉따",
+          "changed": true
+        },
+        {
+          "text": "/",
+          "changed": false
+        },
+        {
+          "text": "낟따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "득표율이 높다/낮다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "권리": {
+      "text": "궐리",
+      "segments": [
+        {
+          "text": "궐",
+          "changed": true
+        },
+        {
+          "text": "리",
+          "changed": false
+        }
+      ],
+      "comparisonText": "권리",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "투표권": {
+      "text": "투표꿘",
+      "segments": [
+        {
+          "text": "투표",
+          "changed": false
+        },
+        {
+          "text": "꿘",
+          "changed": true
+        }
+      ],
+      "comparisonText": "투표권",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "발길이 뜸하다": {
+      "text": "발끼리 뜸하다",
+      "segments": [
+        {
+          "text": "발",
+          "changed": false
+        },
+        {
+          "text": "끼리",
+          "changed": true
+        },
+        {
+          "text": " 뜸하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "발길이 뜸하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "앞서": {
+      "text": "압써",
+      "segments": [
+        {
+          "text": "압써",
+          "changed": true
+        }
+      ],
+      "comparisonText": "앞서",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "(평균을) 밑돌다": {
+      "text": "(평규늘) 믿똘다",
+      "segments": [
+        {
+          "text": "(평",
+          "changed": false
+        },
+        {
+          "text": "규늘",
+          "changed": true
+        },
+        {
+          "text": ") ",
+          "changed": false
+        },
+        {
+          "text": "믿똘",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "(평균을) 밑돌다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "본인": {
+      "text": "보닌",
+      "segments": [
+        {
+          "text": "보닌",
+          "changed": true
+        }
+      ],
+      "comparisonText": "본인",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "도덕성": {
+      "text": "도덕썽",
+      "segments": [
+        {
+          "text": "도덕",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "도덕성",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "소통 능력": {
+      "text": "소통 능녁",
+      "segments": [
+        {
+          "text": "소통 능",
+          "changed": false
+        },
+        {
+          "text": "녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "소통 능력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "판단력": {
+      "text": "판단녁",
+      "segments": [
+        {
+          "text": "판단",
+          "changed": false
+        },
+        {
+          "text": "녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "판단력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "추진력": {
+      "text": "추진녁",
+      "segments": [
+        {
+          "text": "추진",
+          "changed": false
+        },
+        {
+          "text": "녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "추진력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "전문성": {
+      "text": "전문썽",
+      "segments": [
+        {
+          "text": "전문",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "전문성",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "합법적": {
+      "text": "합뻡쩍",
+      "segments": [
+        {
+          "text": "합",
+          "changed": false
+        },
+        {
+          "text": "뻡쩍",
+          "changed": true
+        }
+      ],
+      "comparisonText": "합법적",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "강력하다": {
+      "text": "강녀카다",
+      "segments": [
+        {
+          "text": "강",
+          "changed": false
+        },
+        {
+          "text": "녀카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "강력하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "협상적": {
+      "text": "협쌍적",
+      "segments": [
+        {
+          "text": "협",
+          "changed": false
+        },
+        {
+          "text": "쌍",
+          "changed": true
+        },
+        {
+          "text": "적",
+          "changed": false
+        }
+      ],
+      "comparisonText": "협상적",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "갖추다": {
+      "text": "갇추다",
+      "segments": [
+        {
+          "text": "갇",
+          "changed": true
+        },
+        {
+          "text": "추다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "갖추다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "상대적으로": {
+      "text": "상대저그로",
+      "segments": [
+        {
+          "text": "상대",
+          "changed": false
+        },
+        {
+          "text": "저그",
+          "changed": true
+        },
+        {
+          "text": "로",
+          "changed": false
+        }
+      ],
+      "comparisonText": "상대적으로",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "압도적으로": {
+      "text": "압또저그로",
+      "segments": [
+        {
+          "text": "압",
+          "changed": false
+        },
+        {
+          "text": "또저그",
+          "changed": true
+        },
+        {
+          "text": "로",
+          "changed": false
+        }
+      ],
+      "comparisonText": "압도적으로",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "대기 오염이 발생하다": {
+      "text": "대기 오여미 발쌩하다",
+      "segments": [
+        {
+          "text": "대기 오",
+          "changed": false
+        },
+        {
+          "text": "여미",
+          "changed": true
+        },
+        {
+          "text": " 발",
+          "changed": false
+        },
+        {
+          "text": "쌩",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "대기 오염이 발생하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "수질 오염이 심각하다": {
+      "text": "수질 오여미 심가카다",
+      "segments": [
+        {
+          "text": "수질 오",
+          "changed": false
+        },
+        {
+          "text": "여미",
+          "changed": true
+        },
+        {
+          "text": " 심",
+          "changed": false
+        },
+        {
+          "text": "가카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "수질 오염이 심각하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "떼죽음을 당하다": {
+      "text": "떼주그믈 당하다",
+      "segments": [
+        {
+          "text": "떼",
+          "changed": false
+        },
+        {
+          "text": "주그믈",
+          "changed": true
+        },
+        {
+          "text": " 당하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "떼죽음을 당하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "토양 오염을 일으키다": {
+      "text": "토양 오여믈 이르키다",
+      "segments": [
+        {
+          "text": "토양 오",
+          "changed": false
+        },
+        {
+          "text": "여믈",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "이르",
+          "changed": true
+        },
+        {
+          "text": "키다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "토양 오염을 일으키다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "농약에 중독되다": {
+      "text": "농야게 중독뙤다",
+      "segments": [
+        {
+          "text": "농",
+          "changed": false
+        },
+        {
+          "text": "야게",
+          "changed": true
+        },
+        {
+          "text": " 중독",
+          "changed": false
+        },
+        {
+          "text": "뙤",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "농약에 중독되다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "배기가스를 줄이다": {
+      "text": "배기가스를 주리다",
+      "segments": [
+        {
+          "text": "배기가스를 ",
+          "changed": false
+        },
+        {
+          "text": "주리",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "배기가스를 줄이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "차량 2부제를 실시하다": {
+      "text": "차량 이부제를 실씨하다",
+      "segments": [
+        {
+          "text": "차량 이부제를 실",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "차량 이부제를 실시하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "농약 사용을 줄이다": {
+      "text": "농약 싸용을 주리다",
+      "segments": [
+        {
+          "text": "농약 ",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        },
+        {
+          "text": "용을 ",
+          "changed": false
+        },
+        {
+          "text": "주리",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "농약 사용을 줄이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "쓰레기 종량제를 실시하다": {
+      "text": "쓰레기 종냥제를 실씨하다",
+      "segments": [
+        {
+          "text": "쓰레기 종",
+          "changed": false
+        },
+        {
+          "text": "냥",
+          "changed": true
+        },
+        {
+          "text": "제를 실",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "쓰레기 종량제를 실시하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "일회용품 사용을 줄이다": {
+      "text": "일회용품 사용을 주리다",
+      "segments": [
+        {
+          "text": "일회용품 사용을 ",
+          "changed": false
+        },
+        {
+          "text": "주리",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "일회용품 사용을 줄이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "눈발": {
+      "text": "눈빨",
+      "segments": [
+        {
+          "text": "눈",
+          "changed": false
+        },
+        {
+          "text": "빨",
+          "changed": true
+        }
+      ],
+      "comparisonText": "눈발",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "입사 시험": {
+      "text": "입싸 시험",
+      "segments": [
+        {
+          "text": "입",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        },
+        {
+          "text": " 시험",
+          "changed": false
+        }
+      ],
+      "comparisonText": "입사 시험",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "껍질": {
+      "text": "껍찔",
+      "segments": [
+        {
+          "text": "껍",
+          "changed": false
+        },
+        {
+          "text": "찔",
+          "changed": true
+        }
+      ],
+      "comparisonText": "껍질",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "찻잎": {
+      "text": "찬닙",
+      "segments": [
+        {
+          "text": "찬닙",
+          "changed": true
+        }
+      ],
+      "comparisonText": "찻잎",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "폭설": {
+      "text": "폭썰",
+      "segments": [
+        {
+          "text": "폭",
+          "changed": false
+        },
+        {
+          "text": "썰",
+          "changed": true
+        }
+      ],
+      "comparisonText": "폭설",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "세계 곳곳": {
+      "text": "세계 곧꼳",
+      "segments": [
+        {
+          "text": "세계 ",
+          "changed": false
+        },
+        {
+          "text": "곧꼳",
+          "changed": true
+        }
+      ],
+      "comparisonText": "세계 곳곳",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "입을 모으다": {
+      "text": "이블 모으다",
+      "segments": [
+        {
+          "text": "이블",
+          "changed": true
+        },
+        {
+          "text": " 모으다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "입을 모으다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "석유": {
+      "text": "서규",
+      "segments": [
+        {
+          "text": "서규",
+          "changed": true
+        }
+      ],
+      "comparisonText": "석유",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "하락하다": {
+      "text": "하라카다",
+      "segments": [
+        {
+          "text": "하",
+          "changed": false
+        },
+        {
+          "text": "라카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "하락하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "실업률": {
+      "text": "시럼뉼",
+      "segments": [
+        {
+          "text": "시럼뉼",
+          "changed": true
+        }
+      ],
+      "comparisonText": "실업률",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "급등": {
+      "text": "급뜽",
+      "segments": [
+        {
+          "text": "급",
+          "changed": false
+        },
+        {
+          "text": "뜽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "급등",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "옷차림": {
+      "text": "옫차림",
+      "segments": [
+        {
+          "text": "옫",
+          "changed": true
+        },
+        {
+          "text": "차림",
+          "changed": false
+        }
+      ],
+      "comparisonText": "옷차림",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "신뢰감": {
+      "text": "실뢰감",
+      "segments": [
+        {
+          "text": "실",
+          "changed": true
+        },
+        {
+          "text": "뢰감",
+          "changed": false
+        }
+      ],
+      "comparisonText": "신뢰감",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "폭락": {
+      "text": "퐁낙",
+      "segments": [
+        {
+          "text": "퐁낙",
+          "changed": true
+        }
+      ],
+      "comparisonText": "폭락",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "폭등": {
+      "text": "폭뜽",
+      "segments": [
+        {
+          "text": "폭",
+          "changed": false
+        },
+        {
+          "text": "뜽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "폭등",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "법/법규를 위반하다": {
+      "text": "법/법뀨를 위반하다",
+      "segments": [
+        {
+          "text": "법/법",
+          "changed": false
+        },
+        {
+          "text": "뀨",
+          "changed": true
+        },
+        {
+          "text": "를 위반하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "법/법규를 위반하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "범칙금/벌금을 내다": {
+      "text": "범칙끔/벌그믈 내다",
+      "segments": [
+        {
+          "text": "범칙",
+          "changed": false
+        },
+        {
+          "text": "끔",
+          "changed": true
+        },
+        {
+          "text": "/벌",
+          "changed": false
+        },
+        {
+          "text": "그믈",
+          "changed": true
+        },
+        {
+          "text": " 내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "범칙금/벌금을 내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "처벌을 받다": {
+      "text": "처버를 받따",
+      "segments": [
+        {
+          "text": "처",
+          "changed": false
+        },
+        {
+          "text": "버를",
+          "changed": true
+        },
+        {
+          "text": " 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "처벌을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "불법": {
+      "text": "불뻡",
+      "segments": [
+        {
+          "text": "불",
+          "changed": false
+        },
+        {
+          "text": "뻡",
+          "changed": true
+        }
+      ],
+      "comparisonText": "불법",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략",
+      "alternatives": [
+        "불법"
+      ]
+    },
+    "저작권법": {
+      "text": "저작꿘뻡",
+      "segments": [
+        {
+          "text": "저작",
+          "changed": false
+        },
+        {
+          "text": "꿘뻡",
+          "changed": true
+        }
+      ],
+      "comparisonText": "저작권법",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "불법 투기 단속": {
+      "text": "불뻡 투기 단속",
+      "segments": [
+        {
+          "text": "불",
+          "changed": false
+        },
+        {
+          "text": "뻡",
+          "changed": true
+        },
+        {
+          "text": " 투기 단속",
+          "changed": false
+        }
+      ],
+      "comparisonText": "불법 투기 단속",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "짐작하다": {
+      "text": "짐자카다",
+      "segments": [
+        {
+          "text": "짐",
+          "changed": false
+        },
+        {
+          "text": "자카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "짐작하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "버릇": {
+      "text": "버륻",
+      "segments": [
+        {
+          "text": "버",
+          "changed": false
+        },
+        {
+          "text": "륻",
+          "changed": true
+        }
+      ],
+      "comparisonText": "버릇",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "응급실": {
+      "text": "응급씰",
+      "segments": [
+        {
+          "text": "응급",
+          "changed": false
+        },
+        {
+          "text": "씰",
+          "changed": true
+        }
+      ],
+      "comparisonText": "응급실",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "명예 훼손죄": {
+      "text": "명예 훼손쬐",
+      "segments": [
+        {
+          "text": "명예 훼손",
+          "changed": false
+        },
+        {
+          "text": "쬐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "명예 훼손죄",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "모욕죄": {
+      "text": "모욕쬐",
+      "segments": [
+        {
+          "text": "모욕",
+          "changed": false
+        },
+        {
+          "text": "쬐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "모욕죄",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "경범죄": {
+      "text": "경범쬐",
+      "segments": [
+        {
+          "text": "경범",
+          "changed": false
+        },
+        {
+          "text": "쬐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "경범죄",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "무단 침입": {
+      "text": "무단 치밉",
+      "segments": [
+        {
+          "text": "무단 ",
+          "changed": false
+        },
+        {
+          "text": "치밉",
+          "changed": true
+        }
+      ],
+      "comparisonText": "무단 침입",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "살인": {
+      "text": "사린",
+      "segments": [
+        {
+          "text": "사린",
+          "changed": true
+        }
+      ],
+      "comparisonText": "살인",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "폭력": {
+      "text": "퐁녁",
+      "segments": [
+        {
+          "text": "퐁녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "폭력",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "대수롭지 않다": {
+      "text": "대수롭찌 안타",
+      "segments": [
+        {
+          "text": "대수롭",
+          "changed": false
+        },
+        {
+          "text": "찌",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "안타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "대수롭지 않다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "지속적": {
+      "text": "지속쩍",
+      "segments": [
+        {
+          "text": "지속",
+          "changed": false
+        },
+        {
+          "text": "쩍",
+          "changed": true
+        }
+      ],
+      "comparisonText": "지속적",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "성숙하다": {
+      "text": "성수카다",
+      "segments": [
+        {
+          "text": "성",
+          "changed": false
+        },
+        {
+          "text": "수카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "성숙하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "막막하다": {
+      "text": "망마카다",
+      "segments": [
+        {
+          "text": "망마카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "막막하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "갈등을 겪다": {
+      "text": "갈뜽을 격따",
+      "segments": [
+        {
+          "text": "갈",
+          "changed": false
+        },
+        {
+          "text": "뜽",
+          "changed": true
+        },
+        {
+          "text": "을 ",
+          "changed": false
+        },
+        {
+          "text": "격따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "갈등을 겪다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "극복하다": {
+      "text": "극뽀카다",
+      "segments": [
+        {
+          "text": "극",
+          "changed": false
+        },
+        {
+          "text": "뽀카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "극복하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "법에 호소하다": {
+      "text": "버베 호소하다",
+      "segments": [
+        {
+          "text": "버베",
+          "changed": true
+        },
+        {
+          "text": " 호소하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "법에 호소하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "불의에 타협하다": {
+      "text": "부릐에 타혀파다",
+      "segments": [
+        {
+          "text": "부릐",
+          "changed": true
+        },
+        {
+          "text": "에 타",
+          "changed": false
+        },
+        {
+          "text": "혀파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "불의에 타협하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "불치병": {
+      "text": "불치뼝",
+      "segments": [
+        {
+          "text": "불치",
+          "changed": false
+        },
+        {
+          "text": "뼝",
+          "changed": true
+        }
+      ],
+      "comparisonText": "불치병",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "멸종하다": {
+      "text": "멸쫑하다",
+      "segments": [
+        {
+          "text": "멸",
+          "changed": false
+        },
+        {
+          "text": "쫑",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "멸종하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "영주권": {
+      "text": "영주꿘",
+      "segments": [
+        {
+          "text": "영주",
+          "changed": false
+        },
+        {
+          "text": "꿘",
+          "changed": true
+        }
+      ],
+      "comparisonText": "영주권",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "마음먹다": {
+      "text": "마음먹따",
+      "segments": [
+        {
+          "text": "마음먹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "마음먹다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "열정을 쏟다": {
+      "text": "열쩡을 쏟따",
+      "segments": [
+        {
+          "text": "열",
+          "changed": false
+        },
+        {
+          "text": "쩡",
+          "changed": true
+        },
+        {
+          "text": "을 쏟",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "열정을 쏟다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "고난을 이기다": {
+      "text": "고나늘 이기다",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "나늘",
+          "changed": true
+        },
+        {
+          "text": " 이기다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고난을 이기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    },
+    "직후": {
+      "text": "지쿠",
+      "segments": [
+        {
+          "text": "지쿠",
+          "changed": true
+        }
+      ],
+      "comparisonText": "직후",
+      "reviewedDate": "2026-10-12",
+      "scope": "4단계 단어·표현의 대표 발음, 장단음 생략"
+    }
+  }
+}

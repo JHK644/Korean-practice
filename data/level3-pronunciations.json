@@ -1,0 +1,4823 @@
+{
+  "version": "1.4.34",
+  "level": "3",
+  "words": {
+    "공감대가 없다": {
+      "text": "공감대가 업따",
+      "segments": [
+        {
+          "text": "공감대가 ",
+          "changed": false
+        },
+        {
+          "text": "업따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "공감대가 없다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "사이가 멀어지다": {
+      "text": "사이가 머러지다",
+      "segments": [
+        {
+          "text": "사이가 ",
+          "changed": false
+        },
+        {
+          "text": "머러",
+          "changed": true
+        },
+        {
+          "text": "지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "사이가 멀어지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "연락이 끊기다": {
+      "text": "열라기 끈키다",
+      "segments": [
+        {
+          "text": "열라기",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "끈키",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "연락이 끊기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "솔직하다": {
+      "text": "솔찌카다",
+      "segments": [
+        {
+          "text": "솔",
+          "changed": false
+        },
+        {
+          "text": "찌카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "솔직하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "부족하다": {
+      "text": "부조카다",
+      "segments": [
+        {
+          "text": "부",
+          "changed": false
+        },
+        {
+          "text": "조카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "부족하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "내성적이다": {
+      "text": "내성저기다",
+      "segments": [
+        {
+          "text": "내성",
+          "changed": false
+        },
+        {
+          "text": "저기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "내성적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "속도": {
+      "text": "속또",
+      "segments": [
+        {
+          "text": "속",
+          "changed": false
+        },
+        {
+          "text": "또",
+          "changed": true
+        }
+      ],
+      "comparisonText": "속도",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "관심을 갖다": {
+      "text": "관시믈 갇따",
+      "segments": [
+        {
+          "text": "관",
+          "changed": false
+        },
+        {
+          "text": "시믈",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "갇따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "관심을 갖다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "사이좋다": {
+      "text": "사이조타",
+      "segments": [
+        {
+          "text": "사이",
+          "changed": false
+        },
+        {
+          "text": "조타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "사이좋다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "줄이다": {
+      "text": "주리다",
+      "segments": [
+        {
+          "text": "주리",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "줄이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "적응하다": {
+      "text": "저긍하다",
+      "segments": [
+        {
+          "text": "저긍",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "적응하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "노력 중이다": {
+      "text": "노력 쭝이다",
+      "segments": [
+        {
+          "text": "노력 ",
+          "changed": false
+        },
+        {
+          "text": "쭝",
+          "changed": true
+        },
+        {
+          "text": "이다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "노력 중이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "답답하다": {
+      "text": "답따파다",
+      "segments": [
+        {
+          "text": "답",
+          "changed": false
+        },
+        {
+          "text": "따파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "답답하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "옮기다": {
+      "text": "옴기다",
+      "segments": [
+        {
+          "text": "옴",
+          "changed": true
+        },
+        {
+          "text": "기다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "옮기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "외향적이다": {
+      "text": "외향저기다",
+      "segments": [
+        {
+          "text": "외향",
+          "changed": false
+        },
+        {
+          "text": "저기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "외향적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "적극적이다": {
+      "text": "적끅쩌기다",
+      "segments": [
+        {
+          "text": "적",
+          "changed": false
+        },
+        {
+          "text": "끅쩌기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "적극적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "소극적이다": {
+      "text": "소극쩌기다",
+      "segments": [
+        {
+          "text": "소극",
+          "changed": false
+        },
+        {
+          "text": "쩌기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "소극적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "무뚝뚝하다": {
+      "text": "무뚝뚜카다",
+      "segments": [
+        {
+          "text": "무뚝",
+          "changed": false
+        },
+        {
+          "text": "뚜카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "무뚝뚝하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "(성격이) 느긋하다": {
+      "text": "(성껴기) 느그타다",
+      "segments": [
+        {
+          "text": "(성",
+          "changed": false
+        },
+        {
+          "text": "껴기",
+          "changed": true
+        },
+        {
+          "text": ") 느",
+          "changed": false
+        },
+        {
+          "text": "그타",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "(성격이) 느긋하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "(성격이) 급하다": {
+      "text": "(성껴기) 그파다",
+      "segments": [
+        {
+          "text": "(성",
+          "changed": false
+        },
+        {
+          "text": "껴기",
+          "changed": true
+        },
+        {
+          "text": ") ",
+          "changed": false
+        },
+        {
+          "text": "그파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "(성격이) 급하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "습관": {
+      "text": "습꽌",
+      "segments": [
+        {
+          "text": "습",
+          "changed": false
+        },
+        {
+          "text": "꽌",
+          "changed": true
+        }
+      ],
+      "comparisonText": "습관",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "(계획을) 세우다": {
+      "text": "(계회글) 세우다",
+      "segments": [
+        {
+          "text": "(계",
+          "changed": false
+        },
+        {
+          "text": "회글",
+          "changed": true
+        },
+        {
+          "text": ") 세우다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "(계획을) 세우다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "앞에 나서다": {
+      "text": "아페 나서다",
+      "segments": [
+        {
+          "text": "아페",
+          "changed": true
+        },
+        {
+          "text": " 나서다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "앞에 나서다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "낯설다": {
+      "text": "낟썰다",
+      "segments": [
+        {
+          "text": "낟썰",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "낯설다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "유머 감각이 많다": {
+      "text": "유머 감가기 만타",
+      "segments": [
+        {
+          "text": "유머 감",
+          "changed": false
+        },
+        {
+          "text": "가기",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "만타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "유머 감각이 많다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "시끄럽다": {
+      "text": "시끄럽따",
+      "segments": [
+        {
+          "text": "시끄럽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "시끄럽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "눈을 흘기다": {
+      "text": "누늘 흘기다",
+      "segments": [
+        {
+          "text": "누늘",
+          "changed": true
+        },
+        {
+          "text": " 흘기다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "눈을 흘기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "상담을 받다": {
+      "text": "상다믈 받따",
+      "segments": [
+        {
+          "text": "상",
+          "changed": false
+        },
+        {
+          "text": "다믈",
+          "changed": true
+        },
+        {
+          "text": " 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "상담을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "통번역 서비스를 받다": {
+      "text": "통버녁 서비스를 받따",
+      "segments": [
+        {
+          "text": "통",
+          "changed": false
+        },
+        {
+          "text": "버녁",
+          "changed": true
+        },
+        {
+          "text": " 서비스를 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "통번역 서비스를 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "구직/창업 상담을 받다": {
+      "text": "구직/창업 상담을 받따",
+      "segments": [
+        {
+          "text": "구직/창업 상담을 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "구직/창업 상담을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "아이를 맡기다": {
+      "text": "아이를 맏끼다",
+      "segments": [
+        {
+          "text": "아이를 ",
+          "changed": false
+        },
+        {
+          "text": "맏끼",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "아이를 맡기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "장난감을 대여하다": {
+      "text": "장난가믈 대여하다",
+      "segments": [
+        {
+          "text": "장난",
+          "changed": false
+        },
+        {
+          "text": "가믈",
+          "changed": true
+        },
+        {
+          "text": " 대여하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "장난감을 대여하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "육아 정보를 얻다": {
+      "text": "유가 정보를 얻따",
+      "segments": [
+        {
+          "text": "유가",
+          "changed": true
+        },
+        {
+          "text": " 정보를 얻",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "육아 정보를 얻다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "노인을 돌보다": {
+      "text": "노이늘 돌보다",
+      "segments": [
+        {
+          "text": "노",
+          "changed": false
+        },
+        {
+          "text": "이늘",
+          "changed": true
+        },
+        {
+          "text": " 돌보다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "노인을 돌보다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "건강 검진을 받다": {
+      "text": "건강 검지늘 받따",
+      "segments": [
+        {
+          "text": "건강 검",
+          "changed": false
+        },
+        {
+          "text": "지늘",
+          "changed": true
+        },
+        {
+          "text": " 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "건강 검진을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "예방 접종을 받다": {
+      "text": "예방 접쫑을 받따",
+      "segments": [
+        {
+          "text": "예방 접",
+          "changed": false
+        },
+        {
+          "text": "쫑",
+          "changed": true
+        },
+        {
+          "text": "을 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "예방 접종을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "산업 재해": {
+      "text": "사넙 재해",
+      "segments": [
+        {
+          "text": "사넙",
+          "changed": true
+        },
+        {
+          "text": " 재해",
+          "changed": false
+        }
+      ],
+      "comparisonText": "산업 재해",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "활용되다": {
+      "text": "화룡되다",
+      "segments": [
+        {
+          "text": "화룡",
+          "changed": true
+        },
+        {
+          "text": "되다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "활용되다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "사이즈가 작다": {
+      "text": "사이즈가 작따",
+      "segments": [
+        {
+          "text": "사이즈가 작",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "사이즈가 작다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "얼룩이 있다": {
+      "text": "얼루기 읻따",
+      "segments": [
+        {
+          "text": "얼",
+          "changed": false
+        },
+        {
+          "text": "루기",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "얼룩이 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "단추가 떨어지다": {
+      "text": "단추가 떠러지다",
+      "segments": [
+        {
+          "text": "단추가 ",
+          "changed": false
+        },
+        {
+          "text": "떠러",
+          "changed": true
+        },
+        {
+          "text": "지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "단추가 떨어지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "바느질이 잘못되다": {
+      "text": "바느지리 잘몯뙤다",
+      "segments": [
+        {
+          "text": "바느",
+          "changed": false
+        },
+        {
+          "text": "지리",
+          "changed": true
+        },
+        {
+          "text": " 잘",
+          "changed": false
+        },
+        {
+          "text": "몯뙤",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "바느질이 잘못되다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "디자인이 마음에 안 들다": {
+      "text": "디자이니 마으메 안 들다",
+      "segments": [
+        {
+          "text": "디자",
+          "changed": false
+        },
+        {
+          "text": "이니",
+          "changed": true
+        },
+        {
+          "text": " 마",
+          "changed": false
+        },
+        {
+          "text": "으메",
+          "changed": true
+        },
+        {
+          "text": " 안 들다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "디자인이 마음에 안 들다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고객 센터에 문의하다": {
+      "text": "고객 센터에 무늬하다",
+      "segments": [
+        {
+          "text": "고객 센터에 ",
+          "changed": false
+        },
+        {
+          "text": "무늬",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고객 센터에 문의하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "택배비": {
+      "text": "택빼비",
+      "segments": [
+        {
+          "text": "택",
+          "changed": false
+        },
+        {
+          "text": "빼",
+          "changed": true
+        },
+        {
+          "text": "비",
+          "changed": false
+        }
+      ],
+      "comparisonText": "택배비",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "구입하다": {
+      "text": "구이파다",
+      "segments": [
+        {
+          "text": "구",
+          "changed": false
+        },
+        {
+          "text": "이파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "구입하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "반납하다": {
+      "text": "반나파다",
+      "segments": [
+        {
+          "text": "반",
+          "changed": false
+        },
+        {
+          "text": "나파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "반납하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "문의하다": {
+      "text": "무늬하다",
+      "segments": [
+        {
+          "text": "무늬",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "문의하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "특별하다": {
+      "text": "특뼐하다",
+      "segments": [
+        {
+          "text": "특",
+          "changed": false
+        },
+        {
+          "text": "뼐",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "특별하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "축의금": {
+      "text": "추긔금",
+      "segments": [
+        {
+          "text": "추긔",
+          "changed": true
+        },
+        {
+          "text": "금",
+          "changed": false
+        }
+      ],
+      "comparisonText": "축의금",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음.",
+      "alternatives": [
+        "추기금"
+      ]
+    },
+    "식비": {
+      "text": "식삐",
+      "segments": [
+        {
+          "text": "식",
+          "changed": false
+        },
+        {
+          "text": "삐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "식비",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "교육비": {
+      "text": "교육삐",
+      "segments": [
+        {
+          "text": "교육",
+          "changed": false
+        },
+        {
+          "text": "삐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "교육비",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "결제하다": {
+      "text": "결쩨하다",
+      "segments": [
+        {
+          "text": "결",
+          "changed": false
+        },
+        {
+          "text": "쩨",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "결제하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "적립하다": {
+      "text": "정니파다",
+      "segments": [
+        {
+          "text": "정니파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "적립하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "물려받다": {
+      "text": "물려받따",
+      "segments": [
+        {
+          "text": "물려받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "물려받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "합리적이다": {
+      "text": "함니저기다",
+      "segments": [
+        {
+          "text": "함니저기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "합리적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "비용이 부담스럽다": {
+      "text": "비용이 부담스럽따",
+      "segments": [
+        {
+          "text": "비용이 부담스럽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "비용이 부담스럽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "비용을 줄이다": {
+      "text": "비용을 주리다",
+      "segments": [
+        {
+          "text": "비용을 ",
+          "changed": false
+        },
+        {
+          "text": "주리",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "비용을 줄이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "벼룩시장": {
+      "text": "벼룩씨장",
+      "segments": [
+        {
+          "text": "벼룩",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        },
+        {
+          "text": "장",
+          "changed": false
+        }
+      ],
+      "comparisonText": "벼룩시장",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "흠집": {
+      "text": "흠찝",
+      "segments": [
+        {
+          "text": "흠",
+          "changed": false
+        },
+        {
+          "text": "찝",
+          "changed": true
+        }
+      ],
+      "comparisonText": "흠집",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "육아용품": {
+      "text": "유가용품",
+      "segments": [
+        {
+          "text": "유가",
+          "changed": true
+        },
+        {
+          "text": "용품",
+          "changed": false
+        }
+      ],
+      "comparisonText": "육아용품",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "빌딩 숲": {
+      "text": "빌딩 숩",
+      "segments": [
+        {
+          "text": "빌딩 ",
+          "changed": false
+        },
+        {
+          "text": "숩",
+          "changed": true
+        }
+      ],
+      "comparisonText": "빌딩 숲",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "산업 단지": {
+      "text": "사넙 단지",
+      "segments": [
+        {
+          "text": "사넙",
+          "changed": true
+        },
+        {
+          "text": " 단지",
+          "changed": false
+        }
+      ],
+      "comparisonText": "산업 단지",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "소음이 심하다": {
+      "text": "소으미 심하다",
+      "segments": [
+        {
+          "text": "소",
+          "changed": false
+        },
+        {
+          "text": "으미",
+          "changed": true
+        },
+        {
+          "text": " 심하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "소음이 심하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "공기가 탁하다": {
+      "text": "공기가 타카다",
+      "segments": [
+        {
+          "text": "공기가 ",
+          "changed": false
+        },
+        {
+          "text": "타카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "공기가 탁하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "산책로가 있다": {
+      "text": "산챙노가 읻따",
+      "segments": [
+        {
+          "text": "산",
+          "changed": false
+        },
+        {
+          "text": "챙노",
+          "changed": true
+        },
+        {
+          "text": "가 ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "산책로가 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "거리가 깨끗하다": {
+      "text": "거리가 깨끄타다",
+      "segments": [
+        {
+          "text": "거리가 깨",
+          "changed": false
+        },
+        {
+          "text": "끄타",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "거리가 깨끗하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "문화 시설이 많다": {
+      "text": "문화 시서리 만타",
+      "segments": [
+        {
+          "text": "문화 시",
+          "changed": false
+        },
+        {
+          "text": "서리",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "만타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "문화 시설이 많다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "걸어서 공원에 갈 수 있다": {
+      "text": "거러서 공워네 갈 쑤 읻따",
+      "segments": [
+        {
+          "text": "거러",
+          "changed": true
+        },
+        {
+          "text": "서 공",
+          "changed": false
+        },
+        {
+          "text": "워네",
+          "changed": true
+        },
+        {
+          "text": " 갈 ",
+          "changed": false
+        },
+        {
+          "text": "쑤",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "읻따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "걸어서 공원에 갈 수 있다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "밭": {
+      "text": "받",
+      "segments": [
+        {
+          "text": "받",
+          "changed": true
+        }
+      ],
+      "comparisonText": "밭",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "한적하다": {
+      "text": "한저카다",
+      "segments": [
+        {
+          "text": "한",
+          "changed": false
+        },
+        {
+          "text": "저카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "한적하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "공기가 맑다": {
+      "text": "공기가 막따",
+      "segments": [
+        {
+          "text": "공기가 ",
+          "changed": false
+        },
+        {
+          "text": "막따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "공기가 맑다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "직접 농사를 짓다": {
+      "text": "직쩝 농사를 짇따",
+      "segments": [
+        {
+          "text": "직",
+          "changed": false
+        },
+        {
+          "text": "쩝",
+          "changed": true
+        },
+        {
+          "text": " 농사를 ",
+          "changed": false
+        },
+        {
+          "text": "짇따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "직접 농사를 짓다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "하천이 흐르다": {
+      "text": "하처니 흐르다",
+      "segments": [
+        {
+          "text": "하",
+          "changed": false
+        },
+        {
+          "text": "처니",
+          "changed": true
+        },
+        {
+          "text": " 흐르다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "하천이 흐르다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "경치가 좋다": {
+      "text": "경치가 조타",
+      "segments": [
+        {
+          "text": "경치가 ",
+          "changed": false
+        },
+        {
+          "text": "조타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "경치가 좋다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "자연환경이 좋다": {
+      "text": "자연환경이 조타",
+      "segments": [
+        {
+          "text": "자연환경이 ",
+          "changed": false
+        },
+        {
+          "text": "조타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "자연환경이 좋다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "범인": {
+      "text": "버민",
+      "segments": [
+        {
+          "text": "버민",
+          "changed": true
+        }
+      ],
+      "comparisonText": "범인",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "옛날": {
+      "text": "옌날",
+      "segments": [
+        {
+          "text": "옌",
+          "changed": true
+        },
+        {
+          "text": "날",
+          "changed": false
+        }
+      ],
+      "comparisonText": "옛날",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "건축물": {
+      "text": "건충물",
+      "segments": [
+        {
+          "text": "건",
+          "changed": false
+        },
+        {
+          "text": "충",
+          "changed": true
+        },
+        {
+          "text": "물",
+          "changed": false
+        }
+      ],
+      "comparisonText": "건축물",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "간직하다": {
+      "text": "간지카다",
+      "segments": [
+        {
+          "text": "간",
+          "changed": false
+        },
+        {
+          "text": "지카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "간직하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "일정": {
+      "text": "일쩡",
+      "segments": [
+        {
+          "text": "일",
+          "changed": false
+        },
+        {
+          "text": "쩡",
+          "changed": true
+        }
+      ],
+      "comparisonText": "일정",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "사물놀이": {
+      "text": "사물로리",
+      "segments": [
+        {
+          "text": "사물",
+          "changed": false
+        },
+        {
+          "text": "로리",
+          "changed": true
+        }
+      ],
+      "comparisonText": "사물놀이",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "길거리 공연(버스킹)": {
+      "text": "길꺼리 공연(버스킹)",
+      "segments": [
+        {
+          "text": "길",
+          "changed": false
+        },
+        {
+          "text": "꺼",
+          "changed": true
+        },
+        {
+          "text": "리 공연(버스킹)",
+          "changed": false
+        }
+      ],
+      "comparisonText": "길거리 공연(버스킹)",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "정보를 검색하다": {
+      "text": "정보를 검새카다",
+      "segments": [
+        {
+          "text": "정보를 검",
+          "changed": false
+        },
+        {
+          "text": "새카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "정보를 검색하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "찾다": {
+      "text": "찯따",
+      "segments": [
+        {
+          "text": "찯따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "찾다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "관람하다": {
+      "text": "괄람하다",
+      "segments": [
+        {
+          "text": "괄",
+          "changed": true
+        },
+        {
+          "text": "람하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "관람하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "감동적이다": {
+      "text": "감동저기다",
+      "segments": [
+        {
+          "text": "감동",
+          "changed": false
+        },
+        {
+          "text": "저기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "감동적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "인상적이다": {
+      "text": "인상저기다",
+      "segments": [
+        {
+          "text": "인상",
+          "changed": false
+        },
+        {
+          "text": "저기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "인상적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "전원을 끄다": {
+      "text": "저눠늘 끄다",
+      "segments": [
+        {
+          "text": "저눠늘",
+          "changed": true
+        },
+        {
+          "text": " 끄다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "전원을 끄다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "입장하다": {
+      "text": "입짱하다",
+      "segments": [
+        {
+          "text": "입",
+          "changed": false
+        },
+        {
+          "text": "짱",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "입장하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "택배": {
+      "text": "택빼",
+      "segments": [
+        {
+          "text": "택",
+          "changed": false
+        },
+        {
+          "text": "빼",
+          "changed": true
+        }
+      ],
+      "comparisonText": "택배",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "참석하다": {
+      "text": "참서카다",
+      "segments": [
+        {
+          "text": "참",
+          "changed": false
+        },
+        {
+          "text": "서카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "참석하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "작가": {
+      "text": "작까",
+      "segments": [
+        {
+          "text": "작",
+          "changed": false
+        },
+        {
+          "text": "까",
+          "changed": true
+        }
+      ],
+      "comparisonText": "작가",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "입장권": {
+      "text": "입짱꿘",
+      "segments": [
+        {
+          "text": "입",
+          "changed": false
+        },
+        {
+          "text": "짱꿘",
+          "changed": true
+        }
+      ],
+      "comparisonText": "입장권",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "예약 번호": {
+      "text": "예약 버노",
+      "segments": [
+        {
+          "text": "예약 ",
+          "changed": false
+        },
+        {
+          "text": "버노",
+          "changed": true
+        }
+      ],
+      "comparisonText": "예약 번호",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "할인": {
+      "text": "하린",
+      "segments": [
+        {
+          "text": "하린",
+          "changed": true
+        }
+      ],
+      "comparisonText": "할인",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "연령": {
+      "text": "열령",
+      "segments": [
+        {
+          "text": "열",
+          "changed": true
+        },
+        {
+          "text": "령",
+          "changed": false
+        }
+      ],
+      "comparisonText": "연령",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "부담이 없다": {
+      "text": "부다미 업따",
+      "segments": [
+        {
+          "text": "부",
+          "changed": false
+        },
+        {
+          "text": "다미",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "업따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "부담이 없다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "할인을 받다": {
+      "text": "하리늘 받따",
+      "segments": [
+        {
+          "text": "하리늘",
+          "changed": true
+        },
+        {
+          "text": " 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "할인을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "박물관": {
+      "text": "방물관",
+      "segments": [
+        {
+          "text": "방",
+          "changed": true
+        },
+        {
+          "text": "물관",
+          "changed": false
+        }
+      ],
+      "comparisonText": "박물관",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "경험이 쌓이다": {
+      "text": "경허미 싸이다",
+      "segments": [
+        {
+          "text": "경",
+          "changed": false
+        },
+        {
+          "text": "허미",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        },
+        {
+          "text": "이다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "경험이 쌓이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고춧가루": {
+      "text": "고추까루",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "추까",
+          "changed": true
+        },
+        {
+          "text": "루",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고춧가루",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음.",
+      "alternatives": [
+        "고춛까루"
+      ]
+    },
+    "당근을 씻다": {
+      "text": "당그늘 씯따",
+      "segments": [
+        {
+          "text": "당",
+          "changed": false
+        },
+        {
+          "text": "그늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "씯따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "당근을 씻다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "양파 껍질을 벗기다": {
+      "text": "양파 껍찌를 벋끼다",
+      "segments": [
+        {
+          "text": "양파 껍",
+          "changed": false
+        },
+        {
+          "text": "찌를",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "벋끼",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "양파 껍질을 벗기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "마늘을 다지다": {
+      "text": "마느를 다지다",
+      "segments": [
+        {
+          "text": "마",
+          "changed": false
+        },
+        {
+          "text": "느를",
+          "changed": true
+        },
+        {
+          "text": " 다지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "마늘을 다지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "물을 끓이다": {
+      "text": "무를 끄리다",
+      "segments": [
+        {
+          "text": "무를",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "끄리",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "물을 끓이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "기름에 튀기다": {
+      "text": "기르메 튀기다",
+      "segments": [
+        {
+          "text": "기",
+          "changed": false
+        },
+        {
+          "text": "르메",
+          "changed": true
+        },
+        {
+          "text": " 튀기다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "기름에 튀기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "계란을 삶다": {
+      "text": "계라늘 삼따",
+      "segments": [
+        {
+          "text": "계",
+          "changed": false
+        },
+        {
+          "text": "라늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "삼따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "계란을 삶다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "밥을 볶다": {
+      "text": "바블 복따",
+      "segments": [
+        {
+          "text": "바블",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "복따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "밥을 볶다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "나물을 무치다": {
+      "text": "나무를 무치다",
+      "segments": [
+        {
+          "text": "나",
+          "changed": false
+        },
+        {
+          "text": "무를",
+          "changed": true
+        },
+        {
+          "text": " 무치다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "나물을 무치다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고기를 굽다": {
+      "text": "고기를 굽따",
+      "segments": [
+        {
+          "text": "고기를 굽",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "고기를 굽다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "익다": {
+      "text": "익따",
+      "segments": [
+        {
+          "text": "익",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "익다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "믹서기": {
+      "text": "믹써기",
+      "segments": [
+        {
+          "text": "믹",
+          "changed": false
+        },
+        {
+          "text": "써",
+          "changed": true
+        },
+        {
+          "text": "기",
+          "changed": false
+        }
+      ],
+      "comparisonText": "믹서기",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "군침이 돌다": {
+      "text": "군치미 돌다",
+      "segments": [
+        {
+          "text": "군",
+          "changed": false
+        },
+        {
+          "text": "치미",
+          "changed": true
+        },
+        {
+          "text": " 돌다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "군침이 돌다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "얇게 썰다": {
+      "text": "얄께 썰다",
+      "segments": [
+        {
+          "text": "얄께",
+          "changed": true
+        },
+        {
+          "text": " 썰다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "얇게 썰다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "깍둑썰다": {
+      "text": "깍뚝썰다",
+      "segments": [
+        {
+          "text": "깍",
+          "changed": false
+        },
+        {
+          "text": "뚝",
+          "changed": true
+        },
+        {
+          "text": "썰다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "깍둑썰다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "담다": {
+      "text": "담따",
+      "segments": [
+        {
+          "text": "담",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "담다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "간을 맞추다": {
+      "text": "가늘 맏추다",
+      "segments": [
+        {
+          "text": "가늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "맏",
+          "changed": true
+        },
+        {
+          "text": "추다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "간을 맞추다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "양을 맞추다": {
+      "text": "양을 맏추다",
+      "segments": [
+        {
+          "text": "양을 ",
+          "changed": false
+        },
+        {
+          "text": "맏",
+          "changed": true
+        },
+        {
+          "text": "추다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "양을 맞추다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "시간을 맞추다": {
+      "text": "시가늘 맏추다",
+      "segments": [
+        {
+          "text": "시",
+          "changed": false
+        },
+        {
+          "text": "가늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "맏",
+          "changed": true
+        },
+        {
+          "text": "추다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "시간을 맞추다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "둘이 먹다가 하나가 죽어도 모른다": {
+      "text": "두리 먹따가 하나가 주거도 모른다",
+      "segments": [
+        {
+          "text": "두리",
+          "changed": true
+        },
+        {
+          "text": " 먹",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        },
+        {
+          "text": "가 하나가 ",
+          "changed": false
+        },
+        {
+          "text": "주거",
+          "changed": true
+        },
+        {
+          "text": "도 모른다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "둘이 먹다가 하나가 죽어도 모른다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "식용유를 두르다": {
+      "text": "시굥뉴를 두르다",
+      "segments": [
+        {
+          "text": "시굥뉴",
+          "changed": true
+        },
+        {
+          "text": "를 두르다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "식용유를 두르다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "하수구가 막히다": {
+      "text": "하수구가 마키다",
+      "segments": [
+        {
+          "text": "하수구가 ",
+          "changed": false
+        },
+        {
+          "text": "마키",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "하수구가 막히다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "변기가 막히다": {
+      "text": "변기가 마키다",
+      "segments": [
+        {
+          "text": "변기가 ",
+          "changed": false
+        },
+        {
+          "text": "마키",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "변기가 막히다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "물이 안 나오다": {
+      "text": "무리 안 나오다",
+      "segments": [
+        {
+          "text": "무리",
+          "changed": true
+        },
+        {
+          "text": " 안 나오다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "물이 안 나오다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "물이 새다": {
+      "text": "무리 새다",
+      "segments": [
+        {
+          "text": "무리",
+          "changed": true
+        },
+        {
+          "text": " 새다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "물이 새다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "문이 잠기다": {
+      "text": "무니 잠기다",
+      "segments": [
+        {
+          "text": "무니",
+          "changed": true
+        },
+        {
+          "text": " 잠기다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "문이 잠기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "가스불이 안 들어오다": {
+      "text": "가스부리 안 드러오다",
+      "segments": [
+        {
+          "text": "가스",
+          "changed": false
+        },
+        {
+          "text": "부리",
+          "changed": true
+        },
+        {
+          "text": " 안 ",
+          "changed": false
+        },
+        {
+          "text": "드러",
+          "changed": true
+        },
+        {
+          "text": "오다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "가스불이 안 들어오다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "액정이 깨지다": {
+      "text": "액쩡이 깨지다",
+      "segments": [
+        {
+          "text": "액",
+          "changed": false
+        },
+        {
+          "text": "쩡",
+          "changed": true
+        },
+        {
+          "text": "이 깨지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "액정이 깨지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "전원이 안 켜지다": {
+      "text": "저눠니 안 켜지다",
+      "segments": [
+        {
+          "text": "저눠니",
+          "changed": true
+        },
+        {
+          "text": " 안 켜지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "전원이 안 켜지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "서비스 센터에 문의하다": {
+      "text": "서비스 센터에 무늬하다",
+      "segments": [
+        {
+          "text": "서비스 센터에 ",
+          "changed": false
+        },
+        {
+          "text": "무늬",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "서비스 센터에 문의하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "무상 수리를 받다": {
+      "text": "무상 수리를 받따",
+      "segments": [
+        {
+          "text": "무상 수리를 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "무상 수리를 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "딱딱하다": {
+      "text": "딱따카다",
+      "segments": [
+        {
+          "text": "딱",
+          "changed": false
+        },
+        {
+          "text": "따카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "딱딱하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "보험에 가입하다": {
+      "text": "보허메 가이파다",
+      "segments": [
+        {
+          "text": "보",
+          "changed": false
+        },
+        {
+          "text": "허메",
+          "changed": true
+        },
+        {
+          "text": " 가",
+          "changed": false
+        },
+        {
+          "text": "이파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "보험에 가입하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고객 부담금": {
+      "text": "고객 뿌담금",
+      "segments": [
+        {
+          "text": "고객 ",
+          "changed": false
+        },
+        {
+          "text": "뿌",
+          "changed": true
+        },
+        {
+          "text": "담금",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고객 부담금",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "환급받다": {
+      "text": "환급빧따",
+      "segments": [
+        {
+          "text": "환급",
+          "changed": false
+        },
+        {
+          "text": "빧따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "환급받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "갈등": {
+      "text": "갈뜽",
+      "segments": [
+        {
+          "text": "갈",
+          "changed": false
+        },
+        {
+          "text": "뜽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "갈등",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "일시적": {
+      "text": "일씨적",
+      "segments": [
+        {
+          "text": "일",
+          "changed": false
+        },
+        {
+          "text": "씨",
+          "changed": true
+        },
+        {
+          "text": "적",
+          "changed": false
+        }
+      ],
+      "comparisonText": "일시적",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "뽑다": {
+      "text": "뽑따",
+      "segments": [
+        {
+          "text": "뽑",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "뽑다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "꽂다": {
+      "text": "꼳따",
+      "segments": [
+        {
+          "text": "꼳따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "꽂다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "종료하다": {
+      "text": "종뇨하다",
+      "segments": [
+        {
+          "text": "종",
+          "changed": false
+        },
+        {
+          "text": "뇨",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "종료하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "뚫다": {
+      "text": "뚤타",
+      "segments": [
+        {
+          "text": "뚤타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "뚫다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "이물질": {
+      "text": "이물찔",
+      "segments": [
+        {
+          "text": "이물",
+          "changed": false
+        },
+        {
+          "text": "찔",
+          "changed": true
+        }
+      ],
+      "comparisonText": "이물질",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "학원 강사": {
+      "text": "하권 강사",
+      "segments": [
+        {
+          "text": "하권",
+          "changed": true
+        },
+        {
+          "text": " 강사",
+          "changed": false
+        }
+      ],
+      "comparisonText": "학원 강사",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "다문화 언어 강사": {
+      "text": "다문화 어너 강사",
+      "segments": [
+        {
+          "text": "다문화 ",
+          "changed": false
+        },
+        {
+          "text": "어너",
+          "changed": true
+        },
+        {
+          "text": " 강사",
+          "changed": false
+        }
+      ],
+      "comparisonText": "다문화 언어 강사",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "편의점 아르바이트": {
+      "text": "펴늬점 아르바이트",
+      "segments": [
+        {
+          "text": "펴늬",
+          "changed": true
+        },
+        {
+          "text": "점 아르바이트",
+          "changed": false
+        }
+      ],
+      "comparisonText": "편의점 아르바이트",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "사업하다": {
+      "text": "사어파다",
+      "segments": [
+        {
+          "text": "사",
+          "changed": false
+        },
+        {
+          "text": "어파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "사업하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "번역": {
+      "text": "버녁",
+      "segments": [
+        {
+          "text": "버녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "번역",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "전문성": {
+      "text": "전문썽",
+      "segments": [
+        {
+          "text": "전문",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "전문성",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "안정적이다": {
+      "text": "안정저기다",
+      "segments": [
+        {
+          "text": "안정",
+          "changed": false
+        },
+        {
+          "text": "저기",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "안정적이다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "출퇴근이 자유롭다": {
+      "text": "출퇴그니 자유롭따",
+      "segments": [
+        {
+          "text": "출퇴",
+          "changed": false
+        },
+        {
+          "text": "그니",
+          "changed": true
+        },
+        {
+          "text": " 자유롭",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "출퇴근이 자유롭다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "발전 가능성": {
+      "text": "발쩐 가능썽",
+      "segments": [
+        {
+          "text": "발",
+          "changed": false
+        },
+        {
+          "text": "쩐",
+          "changed": true
+        },
+        {
+          "text": " 가능",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        }
+      ],
+      "comparisonText": "발전 가능성",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "보람을 느끼다": {
+      "text": "보라믈 느끼다",
+      "segments": [
+        {
+          "text": "보",
+          "changed": false
+        },
+        {
+          "text": "라믈",
+          "changed": true
+        },
+        {
+          "text": " 느끼다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "보람을 느끼다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "이력서": {
+      "text": "이력써",
+      "segments": [
+        {
+          "text": "이력",
+          "changed": false
+        },
+        {
+          "text": "써",
+          "changed": true
+        }
+      ],
+      "comparisonText": "이력서",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "필기시험을 보다": {
+      "text": "필기시허믈 보다",
+      "segments": [
+        {
+          "text": "필기시",
+          "changed": false
+        },
+        {
+          "text": "허믈",
+          "changed": true
+        },
+        {
+          "text": " 보다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "필기시험을 보다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "면접을 보다": {
+      "text": "면저블 보다",
+      "segments": [
+        {
+          "text": "면",
+          "changed": false
+        },
+        {
+          "text": "저블",
+          "changed": true
+        },
+        {
+          "text": " 보다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "면접을 보다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "분야": {
+      "text": "부냐",
+      "segments": [
+        {
+          "text": "부냐",
+          "changed": true
+        }
+      ],
+      "comparisonText": "분야",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "인원": {
+      "text": "이눤",
+      "segments": [
+        {
+          "text": "이눤",
+          "changed": true
+        }
+      ],
+      "comparisonText": "인원",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "문의": {
+      "text": "무늬",
+      "segments": [
+        {
+          "text": "무늬",
+          "changed": true
+        }
+      ],
+      "comparisonText": "문의",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음.",
+      "alternatives": [
+        "무니"
+      ]
+    },
+    "자격증": {
+      "text": "자격쯩",
+      "segments": [
+        {
+          "text": "자격",
+          "changed": false
+        },
+        {
+          "text": "쯩",
+          "changed": true
+        }
+      ],
+      "comparisonText": "자격증",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "기숙사": {
+      "text": "기숙싸",
+      "segments": [
+        {
+          "text": "기숙",
+          "changed": false
+        },
+        {
+          "text": "싸",
+          "changed": true
+        }
+      ],
+      "comparisonText": "기숙사",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "월세": {
+      "text": "월쎄",
+      "segments": [
+        {
+          "text": "월",
+          "changed": false
+        },
+        {
+          "text": "쎄",
+          "changed": true
+        }
+      ],
+      "comparisonText": "월세",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "편의 시설": {
+      "text": "펴늬 시설",
+      "segments": [
+        {
+          "text": "펴늬",
+          "changed": true
+        },
+        {
+          "text": " 시설",
+          "changed": false
+        }
+      ],
+      "comparisonText": "편의 시설",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "산책로": {
+      "text": "산챙노",
+      "segments": [
+        {
+          "text": "산",
+          "changed": false
+        },
+        {
+          "text": "챙노",
+          "changed": true
+        }
+      ],
+      "comparisonText": "산책로",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "햇빛": {
+      "text": "핻삗",
+      "segments": [
+        {
+          "text": "핻삗",
+          "changed": true
+        }
+      ],
+      "comparisonText": "햇빛",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "역세권": {
+      "text": "역쎄꿘",
+      "segments": [
+        {
+          "text": "역",
+          "changed": false
+        },
+        {
+          "text": "쎄꿘",
+          "changed": true
+        }
+      ],
+      "comparisonText": "역세권",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "전입 신고": {
+      "text": "저닙 신고",
+      "segments": [
+        {
+          "text": "저닙",
+          "changed": true
+        },
+        {
+          "text": " 신고",
+          "changed": false
+        }
+      ],
+      "comparisonText": "전입 신고",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "특약 사항": {
+      "text": "트갹 사항",
+      "segments": [
+        {
+          "text": "트갹",
+          "changed": true
+        },
+        {
+          "text": " 사항",
+          "changed": false
+        }
+      ],
+      "comparisonText": "특약 사항",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "설날": {
+      "text": "설랄",
+      "segments": [
+        {
+          "text": "설",
+          "changed": false
+        },
+        {
+          "text": "랄",
+          "changed": true
+        }
+      ],
+      "comparisonText": "설날",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "음력": {
+      "text": "음녁",
+      "segments": [
+        {
+          "text": "음",
+          "changed": false
+        },
+        {
+          "text": "녁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "음력",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "팥죽": {
+      "text": "팓쭉",
+      "segments": [
+        {
+          "text": "팓쭉",
+          "changed": true
+        }
+      ],
+      "comparisonText": "팥죽",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "떡국": {
+      "text": "떡꾹",
+      "segments": [
+        {
+          "text": "떡",
+          "changed": false
+        },
+        {
+          "text": "꾹",
+          "changed": true
+        }
+      ],
+      "comparisonText": "떡국",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "피부병": {
+      "text": "피부뼝",
+      "segments": [
+        {
+          "text": "피부",
+          "changed": false
+        },
+        {
+          "text": "뼝",
+          "changed": true
+        }
+      ],
+      "comparisonText": "피부병",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "붉은색": {
+      "text": "불근색",
+      "segments": [
+        {
+          "text": "불근",
+          "changed": true
+        },
+        {
+          "text": "색",
+          "changed": false
+        }
+      ],
+      "comparisonText": "붉은색",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "쫓다": {
+      "text": "쫃따",
+      "segments": [
+        {
+          "text": "쫃따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "쫓다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "가족과 친척들이 모여 윷놀이를 하다": {
+      "text": "가족꽈 친척뜨리 모여 윤노리를 하다",
+      "segments": [
+        {
+          "text": "가족",
+          "changed": false
+        },
+        {
+          "text": "꽈",
+          "changed": true
+        },
+        {
+          "text": " 친척",
+          "changed": false
+        },
+        {
+          "text": "뜨리",
+          "changed": true
+        },
+        {
+          "text": " 모여 ",
+          "changed": false
+        },
+        {
+          "text": "윤노리",
+          "changed": true
+        },
+        {
+          "text": "를 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "가족과 친척들이 모여 윷놀이를 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "연날리기, 제기차기 놀이를 즐기다": {
+      "text": "연날리기, 제기차기 노리를 즐기다",
+      "segments": [
+        {
+          "text": "연날리기, 제기차기 ",
+          "changed": false
+        },
+        {
+          "text": "노리",
+          "changed": true
+        },
+        {
+          "text": "를 즐기다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "연날리기, 제기차기 놀이를 즐기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "보름달을 보며 소원을 빌다": {
+      "text": "보름다를 보며 소워늘 빌다",
+      "segments": [
+        {
+          "text": "보름",
+          "changed": false
+        },
+        {
+          "text": "다를",
+          "changed": true
+        },
+        {
+          "text": " 보며 소",
+          "changed": false
+        },
+        {
+          "text": "워늘",
+          "changed": true
+        },
+        {
+          "text": " 빌다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "보름달을 보며 소원을 빌다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "햇곡식과 햇과일로 차례를 지내다": {
+      "text": "핻꼭씩꽈 핻꽈일로 차례를 지내다",
+      "segments": [
+        {
+          "text": "핻꼭씩꽈",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "핻꽈",
+          "changed": true
+        },
+        {
+          "text": "일로 차례를 지내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "햇곡식과 햇과일로 차례를 지내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "황금연휴": {
+      "text": "황금년휴",
+      "segments": [
+        {
+          "text": "황금",
+          "changed": false
+        },
+        {
+          "text": "년",
+          "changed": true
+        },
+        {
+          "text": "휴",
+          "changed": false
+        }
+      ],
+      "comparisonText": "황금연휴",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고속 도로": {
+      "text": "고속 또로",
+      "segments": [
+        {
+          "text": "고속 ",
+          "changed": false
+        },
+        {
+          "text": "또",
+          "changed": true
+        },
+        {
+          "text": "로",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고속 도로",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "가득하다": {
+      "text": "가드카다",
+      "segments": [
+        {
+          "text": "가",
+          "changed": false
+        },
+        {
+          "text": "드카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "가득하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "넉넉하다": {
+      "text": "넝너카다",
+      "segments": [
+        {
+          "text": "넝너카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "넉넉하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "덕담을 하다": {
+      "text": "덕따믈 하다",
+      "segments": [
+        {
+          "text": "덕",
+          "changed": false
+        },
+        {
+          "text": "따믈",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "덕담을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "설빔을 입다": {
+      "text": "설비믈 입따",
+      "segments": [
+        {
+          "text": "설",
+          "changed": false
+        },
+        {
+          "text": "비믈",
+          "changed": true
+        },
+        {
+          "text": " 입",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "설빔을 입다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "세뱃돈을 받다": {
+      "text": "세배또늘 받따",
+      "segments": [
+        {
+          "text": "세",
+          "changed": false
+        },
+        {
+          "text": "배또늘",
+          "changed": true
+        },
+        {
+          "text": " 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "세뱃돈을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "업무": {
+      "text": "엄무",
+      "segments": [
+        {
+          "text": "엄",
+          "changed": true
+        },
+        {
+          "text": "무",
+          "changed": false
+        }
+      ],
+      "comparisonText": "업무",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "작성하다": {
+      "text": "작썽하다",
+      "segments": [
+        {
+          "text": "작",
+          "changed": false
+        },
+        {
+          "text": "썽",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "작성하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "결재": {
+      "text": "결째",
+      "segments": [
+        {
+          "text": "결",
+          "changed": false
+        },
+        {
+          "text": "째",
+          "changed": true
+        }
+      ],
+      "comparisonText": "결재",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "작동": {
+      "text": "작똥",
+      "segments": [
+        {
+          "text": "작",
+          "changed": false
+        },
+        {
+          "text": "똥",
+          "changed": true
+        }
+      ],
+      "comparisonText": "작동",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "작업": {
+      "text": "자겁",
+      "segments": [
+        {
+          "text": "자겁",
+          "changed": true
+        }
+      ],
+      "comparisonText": "작업",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "파악하다": {
+      "text": "파아카다",
+      "segments": [
+        {
+          "text": "파",
+          "changed": false
+        },
+        {
+          "text": "아카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "파악하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "허락을 받다": {
+      "text": "허라글 받따",
+      "segments": [
+        {
+          "text": "허",
+          "changed": false
+        },
+        {
+          "text": "라글",
+          "changed": true
+        },
+        {
+          "text": " 받",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "허락을 받다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "직종": {
+      "text": "직쫑",
+      "segments": [
+        {
+          "text": "직",
+          "changed": false
+        },
+        {
+          "text": "쫑",
+          "changed": true
+        }
+      ],
+      "comparisonText": "직종",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "관리직": {
+      "text": "괄리직",
+      "segments": [
+        {
+          "text": "괄",
+          "changed": true
+        },
+        {
+          "text": "리직",
+          "changed": false
+        }
+      ],
+      "comparisonText": "관리직",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "영업직": {
+      "text": "영업찍",
+      "segments": [
+        {
+          "text": "영업",
+          "changed": false
+        },
+        {
+          "text": "찍",
+          "changed": true
+        }
+      ],
+      "comparisonText": "영업직",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "일용직": {
+      "text": "이룡직",
+      "segments": [
+        {
+          "text": "이룡",
+          "changed": true
+        },
+        {
+          "text": "직",
+          "changed": false
+        }
+      ],
+      "comparisonText": "일용직",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "일당": {
+      "text": "일땅",
+      "segments": [
+        {
+          "text": "일",
+          "changed": false
+        },
+        {
+          "text": "땅",
+          "changed": true
+        }
+      ],
+      "comparisonText": "일당",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "정확하다": {
+      "text": "정화카다",
+      "segments": [
+        {
+          "text": "정",
+          "changed": false
+        },
+        {
+          "text": "화카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "정확하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "인터넷 뱅킹을 하다": {
+      "text": "인터넫 뱅킹을 하다",
+      "segments": [
+        {
+          "text": "인터",
+          "changed": false
+        },
+        {
+          "text": "넫",
+          "changed": true
+        },
+        {
+          "text": " 뱅킹을 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "인터넷 뱅킹을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "인터넷 쇼핑을 하다": {
+      "text": "인터넫 쇼핑을 하다",
+      "segments": [
+        {
+          "text": "인터",
+          "changed": false
+        },
+        {
+          "text": "넫",
+          "changed": true
+        },
+        {
+          "text": " 쇼핑을 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "인터넷 쇼핑을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "이메일을 보내다": {
+      "text": "이메이를 보내다",
+      "segments": [
+        {
+          "text": "이메",
+          "changed": false
+        },
+        {
+          "text": "이를",
+          "changed": true
+        },
+        {
+          "text": " 보내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "이메일을 보내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "인터넷 강의를 듣다": {
+      "text": "인터넫 강의를 듣따",
+      "segments": [
+        {
+          "text": "인터",
+          "changed": false
+        },
+        {
+          "text": "넫",
+          "changed": true
+        },
+        {
+          "text": " 강의를 듣",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "인터넷 강의를 듣다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "댓글을 남기다": {
+      "text": "댇끄를 남기다",
+      "segments": [
+        {
+          "text": "댇끄를",
+          "changed": true
+        },
+        {
+          "text": " 남기다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "댓글을 남기다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "사진/동영상을 촬영하다": {
+      "text": "사진/동영상을 촤령하다",
+      "segments": [
+        {
+          "text": "사진/동영상을 ",
+          "changed": false
+        },
+        {
+          "text": "촤령",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "사진/동영상을 촬영하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "문자를 보내다": {
+      "text": "문짜를 보내다",
+      "segments": [
+        {
+          "text": "문",
+          "changed": false
+        },
+        {
+          "text": "짜",
+          "changed": true
+        },
+        {
+          "text": "를 보내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "문자를 보내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "어휘 뜻을 찾다": {
+      "text": "어휘 뜨슬 찯따",
+      "segments": [
+        {
+          "text": "어휘 ",
+          "changed": false
+        },
+        {
+          "text": "뜨슬",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "찯따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "어휘 뜻을 찾다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "게임을 하다": {
+      "text": "게이믈 하다",
+      "segments": [
+        {
+          "text": "게",
+          "changed": false
+        },
+        {
+          "text": "이믈",
+          "changed": true
+        },
+        {
+          "text": " 하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "게임을 하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "회원 가입을 하다/회원으로 가입하다": {
+      "text": "회원 가이블 하다/회원으로 가이파다",
+      "segments": [
+        {
+          "text": "회원 가",
+          "changed": false
+        },
+        {
+          "text": "이블",
+          "changed": true
+        },
+        {
+          "text": " 하다/회원으로 가",
+          "changed": false
+        },
+        {
+          "text": "이파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "회원 가입을 하다/회원으로 가입하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "본인 확인": {
+      "text": "보닌 화긴",
+      "segments": [
+        {
+          "text": "보닌",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "화긴",
+          "changed": true
+        }
+      ],
+      "comparisonText": "본인 확인",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "접속하다": {
+      "text": "접쏘카다",
+      "segments": [
+        {
+          "text": "접",
+          "changed": false
+        },
+        {
+          "text": "쏘카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "접속하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고립감": {
+      "text": "고립깜",
+      "segments": [
+        {
+          "text": "고립",
+          "changed": false
+        },
+        {
+          "text": "깜",
+          "changed": true
+        }
+      ],
+      "comparisonText": "고립감",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "인터넷 중독": {
+      "text": "인터넫 쭝독",
+      "segments": [
+        {
+          "text": "인터",
+          "changed": false
+        },
+        {
+          "text": "넫",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "쭝",
+          "changed": true
+        },
+        {
+          "text": "독",
+          "changed": false
+        }
+      ],
+      "comparisonText": "인터넷 중독",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "불면증": {
+      "text": "불면쯩",
+      "segments": [
+        {
+          "text": "불면",
+          "changed": false
+        },
+        {
+          "text": "쯩",
+          "changed": true
+        }
+      ],
+      "comparisonText": "불면증",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "시력 악화": {
+      "text": "시력 아콰",
+      "segments": [
+        {
+          "text": "시력 ",
+          "changed": false
+        },
+        {
+          "text": "아콰",
+          "changed": true
+        }
+      ],
+      "comparisonText": "시력 악화",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "어색하다": {
+      "text": "어새카다",
+      "segments": [
+        {
+          "text": "어",
+          "changed": false
+        },
+        {
+          "text": "새카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "어색하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "신속하다": {
+      "text": "신소카다",
+      "segments": [
+        {
+          "text": "신",
+          "changed": false
+        },
+        {
+          "text": "소카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "신속하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "활용하다": {
+      "text": "화룡하다",
+      "segments": [
+        {
+          "text": "화룡",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "활용하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "성격이 안 맞다": {
+      "text": "성껴기 안 맏따",
+      "segments": [
+        {
+          "text": "성",
+          "changed": false
+        },
+        {
+          "text": "껴기",
+          "changed": true
+        },
+        {
+          "text": " 안 ",
+          "changed": false
+        },
+        {
+          "text": "맏따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "성격이 안 맞다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "국적 취득": {
+      "text": "국쩍 취득",
+      "segments": [
+        {
+          "text": "국",
+          "changed": false
+        },
+        {
+          "text": "쩍",
+          "changed": true
+        },
+        {
+          "text": " 취득",
+          "changed": false
+        }
+      ],
+      "comparisonText": "국적 취득",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "제자리걸음": {
+      "text": "제자리거름",
+      "segments": [
+        {
+          "text": "제자리",
+          "changed": false
+        },
+        {
+          "text": "거름",
+          "changed": true
+        }
+      ],
+      "comparisonText": "제자리걸음",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "두렵다": {
+      "text": "두렵따",
+      "segments": [
+        {
+          "text": "두렵",
+          "changed": false
+        },
+        {
+          "text": "따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "두렵다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "되풀이하다": {
+      "text": "되푸리하다",
+      "segments": [
+        {
+          "text": "되",
+          "changed": false
+        },
+        {
+          "text": "푸리",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "되풀이하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "일정하다": {
+      "text": "일쩡하다",
+      "segments": [
+        {
+          "text": "일",
+          "changed": false
+        },
+        {
+          "text": "쩡",
+          "changed": true
+        },
+        {
+          "text": "하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "일정하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "머리가 복잡하다": {
+      "text": "머리가 복짜파다",
+      "segments": [
+        {
+          "text": "머리가 복",
+          "changed": false
+        },
+        {
+          "text": "짜파",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "머리가 복잡하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "속이 타다": {
+      "text": "소기 타다",
+      "segments": [
+        {
+          "text": "소기",
+          "changed": true
+        },
+        {
+          "text": " 타다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "속이 타다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "눈앞이 캄캄하다": {
+      "text": "누나피 캄캄하다",
+      "segments": [
+        {
+          "text": "누나피",
+          "changed": true
+        },
+        {
+          "text": " 캄캄하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "눈앞이 캄캄하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "발을 못 뻗고 자다": {
+      "text": "바를 몯 뻗꼬 자다",
+      "segments": [
+        {
+          "text": "바를",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "몯",
+          "changed": true
+        },
+        {
+          "text": " 뻗",
+          "changed": false
+        },
+        {
+          "text": "꼬",
+          "changed": true
+        },
+        {
+          "text": " 자다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "발을 못 뻗고 자다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고민을 털어놓다": {
+      "text": "고미늘 터러노타",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "미늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "터러노타",
+          "changed": true
+        }
+      ],
+      "comparisonText": "고민을 털어놓다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고민을 나누다": {
+      "text": "고미늘 나누다",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "미늘",
+          "changed": true
+        },
+        {
+          "text": " 나누다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고민을 나누다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "조언을 구하다": {
+      "text": "조어늘 구하다",
+      "segments": [
+        {
+          "text": "조",
+          "changed": false
+        },
+        {
+          "text": "어늘",
+          "changed": true
+        },
+        {
+          "text": " 구하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "조언을 구하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고민을 덜다": {
+      "text": "고미늘 덜다",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "미늘",
+          "changed": true
+        },
+        {
+          "text": " 덜다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고민을 덜다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고민을 해결하다": {
+      "text": "고미늘 해결하다",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "미늘",
+          "changed": true
+        },
+        {
+          "text": " 해결하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고민을 해결하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고민을 털어버리다": {
+      "text": "고미늘 터러버리다",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "미늘",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "터러",
+          "changed": true
+        },
+        {
+          "text": "버리다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "고민을 털어버리다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "우울증": {
+      "text": "우울쯩",
+      "segments": [
+        {
+          "text": "우울",
+          "changed": false
+        },
+        {
+          "text": "쯩",
+          "changed": true
+        }
+      ],
+      "comparisonText": "우울증",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "고혈압": {
+      "text": "고혀랍",
+      "segments": [
+        {
+          "text": "고",
+          "changed": false
+        },
+        {
+          "text": "혀랍",
+          "changed": true
+        }
+      ],
+      "comparisonText": "고혈압",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "습도": {
+      "text": "습또",
+      "segments": [
+        {
+          "text": "습",
+          "changed": false
+        },
+        {
+          "text": "또",
+          "changed": true
+        }
+      ],
+      "comparisonText": "습도",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "비 올 확률": {
+      "text": "비 올 황뉼",
+      "segments": [
+        {
+          "text": "비 올 ",
+          "changed": false
+        },
+        {
+          "text": "황뉼",
+          "changed": true
+        }
+      ],
+      "comparisonText": "비 올 확률",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "날이 개다": {
+      "text": "나리 개다",
+      "segments": [
+        {
+          "text": "나리",
+          "changed": true
+        },
+        {
+          "text": " 개다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "날이 개다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "기온이 영하로 떨어지다": {
+      "text": "기오니 영하로 떠러지다",
+      "segments": [
+        {
+          "text": "기",
+          "changed": false
+        },
+        {
+          "text": "오니",
+          "changed": true
+        },
+        {
+          "text": " 영하로 ",
+          "changed": false
+        },
+        {
+          "text": "떠러",
+          "changed": true
+        },
+        {
+          "text": "지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "기온이 영하로 떨어지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "폭염 주의보": {
+      "text": "포겸 주의보",
+      "segments": [
+        {
+          "text": "포겸",
+          "changed": true
+        },
+        {
+          "text": " 주의보",
+          "changed": false
+        }
+      ],
+      "comparisonText": "폭염 주의보",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "시간을 내다": {
+      "text": "시가늘 내다",
+      "segments": [
+        {
+          "text": "시",
+          "changed": false
+        },
+        {
+          "text": "가늘",
+          "changed": true
+        },
+        {
+          "text": " 내다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "시간을 내다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "찬바람이 불다": {
+      "text": "찬바라미 불다",
+      "segments": [
+        {
+          "text": "찬바",
+          "changed": false
+        },
+        {
+          "text": "라미",
+          "changed": true
+        },
+        {
+          "text": " 불다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "찬바람이 불다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "옷차림": {
+      "text": "옫차림",
+      "segments": [
+        {
+          "text": "옫",
+          "changed": true
+        },
+        {
+          "text": "차림",
+          "changed": false
+        }
+      ],
+      "comparisonText": "옷차림",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "봄/가을을 타다": {
+      "text": "봄/가으를 타다",
+      "segments": [
+        {
+          "text": "봄/가",
+          "changed": false
+        },
+        {
+          "text": "으를",
+          "changed": true
+        },
+        {
+          "text": " 타다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "봄/가을을 타다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "근육통": {
+      "text": "그뉵통",
+      "segments": [
+        {
+          "text": "그뉵",
+          "changed": true
+        },
+        {
+          "text": "통",
+          "changed": false
+        }
+      ],
+      "comparisonText": "근육통",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "독감": {
+      "text": "독깜",
+      "segments": [
+        {
+          "text": "독",
+          "changed": false
+        },
+        {
+          "text": "깜",
+          "changed": true
+        }
+      ],
+      "comparisonText": "독감",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "몸이 나른하다": {
+      "text": "모미 나른하다",
+      "segments": [
+        {
+          "text": "모미",
+          "changed": true
+        },
+        {
+          "text": " 나른하다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "몸이 나른하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "기운이 없다": {
+      "text": "기우니 업따",
+      "segments": [
+        {
+          "text": "기",
+          "changed": false
+        },
+        {
+          "text": "우니",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "업따",
+          "changed": true
+        }
+      ],
+      "comparisonText": "기운이 없다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "졸음이 오다": {
+      "text": "조르미 오다",
+      "segments": [
+        {
+          "text": "조르미",
+          "changed": true
+        },
+        {
+          "text": " 오다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "졸음이 오다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "집중력이 떨어지다": {
+      "text": "집쭝녀기 떠러지다",
+      "segments": [
+        {
+          "text": "집",
+          "changed": false
+        },
+        {
+          "text": "쭝녀기",
+          "changed": true
+        },
+        {
+          "text": " ",
+          "changed": false
+        },
+        {
+          "text": "떠러",
+          "changed": true
+        },
+        {
+          "text": "지다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "집중력이 떨어지다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    },
+    "익숙하다": {
+      "text": "익쑤카다",
+      "segments": [
+        {
+          "text": "익",
+          "changed": false
+        },
+        {
+          "text": "쑤카",
+          "changed": true
+        },
+        {
+          "text": "다",
+          "changed": false
+        }
+      ],
+      "comparisonText": "익숙하다",
+      "reviewedDate": "2026-10-12",
+      "scope": "3단계 대표 발음. 장단음 생략. 띄어진 어절은 짧은 경계를 두고 읽음."
+    }
+  }
+}
